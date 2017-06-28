@@ -1,0 +1,1235 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 7 0 R /F6 19 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+7 0 obj
+<< /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font >>
+endobj
+8 0 obj
+<< /Contents 37 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+9 0 obj
+<< /A << /S /URI /Type /Action /URI (http://cyberelk.net/tim/patchutils/) >> /Border [ 0 0 0 ] /Rect [ 274.9108 174.7736 417.7508 186.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+10 0 obj
+<< /Annots [ 9 0 R ] /Contents 38 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+11 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.selenic.com/ketchup/) >> /Border [ 0 0 0 ] /Rect [ 103.8229 678.5736 246.6529 690.5736 ] /Subtype /Link /Type /Annot >>
+endobj
+12 0 obj
+<< /A << /S /URI /Type /Action /URI (http://kernel.org/) >> /Border [ 0 0 0 ] /Rect [ 191.6772 573.5736 266.8341 585.5736 ] /Subtype /Link /Type /Annot >>
+endobj
+13 0 obj
+<< /A << /S /URI /Type /Action /URI (https://www.kernel.org/pub/linux/kernel/v4.x/) >> /Border [ 0 0 0 ] /Rect [ 82.69291 525.5736 532.5827 537.5736 ] /Subtype /Link /Type /Annot >>
+endobj
+14 0 obj
+<< /A << /S /URI /Type /Action /URI (https://www.kernel.org/pub/linux/kernel/v4.x/testing/) >> /Border [ 0 0 0 ] /Rect [ 82.69291 489.5736 532.5827 501.5736 ] /Subtype /Link /Type /Annot >>
+endobj
+15 0 obj
+<< /Annots [ 11 0 R 12 0 R 13 0 R 14 0 R ] /Contents 39 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+16 0 obj
+<< /A << /S /URI /Type /Action /URI (https://www.kernel.org/pub/linux/kernel/v4.x/incr/) >> /Border [ 0 0 0 ] /Rect [ 150.4129 575.7736 364.9329 587.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+17 0 obj
+<< /Annots [ 16 0 R ] /Contents 40 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+18 0 obj
+<< /Contents 41 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+19 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F6 /Subtype /Type1 /Type /Font >>
+endobj
+20 0 obj
+<< /Contents 42 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+21 0 obj
+<< /Outlines 23 0 R /PageLabels 43 0 R /PageMode /UseNone /Pages 35 0 R /Type /Catalog >>
+endobj
+22 0 obj
+<< /Author () /CreationDate (D:20170628151651-08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Applying Patches To The Linux Kernel) >>
+endobj
+23 0 obj
+<< /Count 11 /First 24 0 R /Last 34 0 R /Type /Outlines >>
+endobj
+24 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 488.0236 0 ] /Next 25 0 R /Parent 23 0 R /Title (What is a patch?) >>
+endobj
+25 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 383.0236 0 ] /Next 26 0 R /Parent 23 0 R /Prev 24 0 R /Title (How do I apply or revert a patch?) >>
+endobj
+26 0 obj
+<< /Dest [ 8 0 R /XYZ 62.69291 765.0236 0 ] /Next 27 0 R /Parent 23 0 R /Prev 25 0 R /Title (How do I feed a patch/diff file to patch?) >>
+endobj
+27 0 obj
+<< /Dest [ 8 0 R /XYZ 62.69291 327.2236 0 ] /Next 28 0 R /Parent 23 0 R /Prev 26 0 R /Title (Common errors when patching) >>
+endobj
+28 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 231.0236 0 ] /Next 29 0 R /Parent 23 0 R /Prev 27 0 R /Title (Are there any alternatives to patch?) >>
+endobj
+29 0 obj
+<< /Dest [ 15 0 R /XYZ 62.69291 611.8236 0 ] /Next 30 0 R /Parent 23 0 R /Prev 28 0 R /Title (Where can I download the patches?) >>
+endobj
+30 0 obj
+<< /Dest [ 15 0 R /XYZ 62.69291 476.8236 0 ] /Next 31 0 R /Parent 23 0 R /Prev 29 0 R /Title (The 4.x kernels) >>
+endobj
+31 0 obj
+<< /Dest [ 17 0 R /XYZ 62.69291 765.0236 0 ] /Next 32 0 R /Parent 23 0 R /Prev 30 0 R /Title (The 4.x.y kernels) >>
+endobj
+32 0 obj
+<< /Dest [ 17 0 R /XYZ 62.69291 381.8236 0 ] /Next 33 0 R /Parent 23 0 R /Prev 31 0 R /Title (The -rc kernels) >>
+endobj
+33 0 obj
+<< /Dest [ 18 0 R /XYZ 62.69291 511.8236 0 ] /Next 34 0 R /Parent 23 0 R /Prev 32 0 R /Title (The -git kernels) >>
+endobj
+34 0 obj
+<< /Dest [ 18 0 R /XYZ 62.69291 121.6236 0 ] /Parent 23 0 R /Prev 33 0 R /Title (The -mm patches and the linux-next tree) >>
+endobj
+35 0 obj
+<< /Count 7 /Kids [ 6 0 R 8 0 R 10 0 R 15 0 R 17 0 R 18 0 R 20 0 R ] /Type /Pages >>
+endobj
+36 0 obj
+<< /Length 5668 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 52.12488 0 Td (Applying Patches To The Linux Kernel) Tj T* -52.12488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 719.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Original by:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 704.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Jesper Juhl, August 2005) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 688.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Last update:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 673.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2016-09-14) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 661.0236 cm
+Q
+q
+1 0 0 1 62.69291 578.0236 cm
+.960784 .960784 .862745 rg
+n 0 83 469.8898 -83 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 57 Tm  T* ET
+q
+1 0 0 1 16 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 14 Tm 2.679213 Tw 12 TL /F1 10 Tf 0 0 0 rg (This document is obsolete. In most cases, rather than using ) Tj /F4 10 Tf 0 0 0 rg (patch ) Tj /F1 10 Tf 0 0 0 rg (manually, you'll almost) Tj T* 0 Tw (certainly want to look at using Git instead.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 83 m 469.8898 83 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 83 l S
+n 469.8898 0 m 469.8898 83 l S
+Q
+Q
+q
+1 0 0 1 62.69291 572.0236 cm
+Q
+q
+1 0 0 1 62.69291 530.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .121988 Tw (A frequently asked question on the Linux Kernel Mailing List is how to apply a patch to the kernel or, more) Tj T* 0 Tw .464985 Tw (specifically, what base kernel a patch for one of the many trees/branches should be applied to. Hopefully) Tj T* 0 Tw (this document will explain this to you.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 500.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .829398 Tw (In addition to explaining how to apply and revert patches, a brief description of the different kernel trees) Tj T* 0 Tw (\(and examples of how to apply their specific patches\) is also provided.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 467.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (What is a patch?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 437.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .166098 Tw 12 TL /F1 10 Tf 0 0 0 rg (A patch is a small text document containing a delta of changes between two different versions of a source) Tj T* 0 Tw (tree. Patches are created with the ) Tj /F4 10 Tf 0 0 0 rg (diff ) Tj /F1 10 Tf 0 0 0 rg (program.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 395.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .567356 Tw (To correctly apply a patch you need to know what base it was generated from and what new version the) Tj T* 0 Tw 1.492765 Tw (patch will change the source tree into. These should both be present in the patch file metadata or be) Tj T* 0 Tw (possible to deduce from the filename.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 362.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (How do I apply or revert a patch?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 332.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .252619 Tw 12 TL /F1 10 Tf 0 0 0 rg (You apply a patch with the ) Tj /F4 10 Tf 0 0 0 rg (patch ) Tj /F1 10 Tf 0 0 0 rg (program. The patch program reads a diff \(or patch\) file and makes the) Tj T* 0 Tw (changes to the source tree described in it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 314.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Patches for the Linux kernel are generated relative to the parent directory holding the kernel source dir.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 284.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .21683 Tw (This means that paths to files inside the patch file contain the name of the kernel source directories it was) Tj T* 0 Tw (generated against \(or some other directory names like "a/" and "b/"\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 230.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .289988 Tw 12 TL /F1 10 Tf 0 0 0 rg (Since this is unlikely to match the name of the kernel source dir on your local machine \(but is often useful) Tj T* 0 Tw 1.309984 Tw (info to see what version an otherwise unlabeled patch was generated against\) you should change into) Tj T* 0 Tw 1.155542 Tw (your kernel source directory and then strip the first element of the path from filenames in the patch file) Tj T* 0 Tw (when applying it \(the ) Tj /F4 10 Tf 0 0 0 rg (-p1 ) Tj /F1 10 Tf 0 0 0 rg (argument to ) Tj /F4 10 Tf 0 0 0 rg (patch ) Tj /F1 10 Tf 0 0 0 rg (does this\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 212.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To revert a previously applied patch, use the -R argument to patch. So, if you applied a patch like this:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 178.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (patch -p1 ) Tj (<) Tj ( ../patch-x.y.z) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 158.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You can revert \(undo\) it like this:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 125.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (patch -R -p1 ) Tj (<) Tj ( ../patch-x.y.z) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+37 0 obj
+<< /Length 6517 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (How do I feed a patch/diff file to ) Tj /F5 17.5 Tf 0 0 0 rg (patch) Tj /F2 17.5 Tf 0 0 0 rg (?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 726.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This \(as usual with Linux and other UNIX like operating systems\) can be done in several different ways.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.464431 Tw (In all the examples below I feed the file \(in uncompressed form\) to patch via stdin using the following) Tj T* 0 Tw (syntax:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 662.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (patch -p1 ) Tj (<) Tj ( path/to/patch-x.y.z) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 630.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .503171 Tw (If you just want to be able to follow the examples below and don't want to know of more than one way to) Tj T* 0 Tw (use patch, then you can stop reading this section here.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 612.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Patch can also get the name of the file to use via the -i argument, like this:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 579.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (patch -p1 -i path/to/patch-x.y.z) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 547.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.140514 Tw (If your patch file is compressed with gzip or xz and you don't want to uncompress it before applying it,) Tj T* 0 Tw (then you can feed it to patch like this instead:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 502.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL (xzcat path/to/patch-x.y.z.xz | patch -p1) Tj T* (bzcat path/to/patch-x.y.z.gz | patch -p1) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 470.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .220988 Tw (If you wish to uncompress the patch file by hand first before applying it \(what I assume you've done in the) Tj T* 0 Tw (examples below\), then you simply run gunzip or xz on the file -- like this:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 425.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL (gunzip patch-x.y.z.gz) Tj T* (xz -d patch-x.y.z.xz) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 393.2236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.890488 Tw 12 TL /F1 10 Tf 0 0 0 rg (Which will leave you with a plain text patch-x.y.z file that you can feed to patch via stdin or the ) Tj /F4 10 Tf 0 0 0 rg (-i) Tj T* 0 Tw /F1 10 Tf 0 0 0 rg (argument, as you prefer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 339.2236 cm
+q
+BT 1 0 0 1 0 38 Tm .849988 Tw 12 TL /F1 10 Tf 0 0 0 rg (A few other nice arguments for patch are ) Tj /F4 10 Tf 0 0 0 rg (-s ) Tj /F1 10 Tf 0 0 0 rg (which causes patch to be silent except for errors which is) Tj T* 0 Tw .995868 Tw (nice to prevent errors from scrolling out of the screen too fast, and ) Tj /F4 10 Tf 0 0 0 rg (--dry-run ) Tj /F1 10 Tf 0 0 0 rg (which causes patch to) Tj T* 0 Tw .17436 Tw (just print a listing of what would happen, but doesn't actually make any changes. Finally ) Tj /F4 10 Tf 0 0 0 rg (--verbose ) Tj /F1 10 Tf 0 0 0 rg (tells) Tj T* 0 Tw (patch to print more information about the work being done.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 306.2236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Common errors when patching) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 288.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (When patch applies a patch file it attempts to verify the sanity of the file in different ways.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 258.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.030542 Tw (Checking that the file looks like a valid patch file and checking the code around the bits being modified) Tj T* 0 Tw (matches the context provided in the patch are just two of the basic sanity checks patch does.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 228.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .429431 Tw (If patch encounters something that doesn't look quite right it has two options. It can either refuse to apply) Tj T* 0 Tw (the changes and abort or it can try to find a way to make the patch apply with a few minor changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 162.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.962093 Tw (One example of something that's not 'quite right' that patch will attempt to fix up is if all the context) Tj T* 0 Tw 2.792651 Tw (matches, the lines being changed match, but the line numbers are different. This can happen, for) Tj T* 0 Tw .115703 Tw (example, if the patch makes a change in the middle of the file but for some reasons a few lines have been) Tj T* 0 Tw .565777 Tw (added or removed near the beginning of the file. In that case everything looks good it has just moved up) Tj T* 0 Tw (or down a bit, and patch will usually adjust the line numbers and apply the patch.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 120.2236 cm
+q
+BT 1 0 0 1 0 26 Tm .554338 Tw 12 TL /F1 10 Tf 0 0 0 rg (Whenever patch applies a patch that it had to modify a bit to make it fit it'll tell you about it by saying the) Tj T* 0 Tw 1.287045 Tw (patch applied with ) Tj /F2 10 Tf (fuzz) Tj /F1 10 Tf (. You should be wary of such changes since even though patch probably got it) Tj T* 0 Tw (right it doesn't /always/ get it right, and the result will sometimes be wrong.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 78.22362 cm
+q
+BT 1 0 0 1 0 26 Tm .633798 Tw 12 TL /F1 10 Tf 0 0 0 rg (When patch encounters a change that it can't fix up with fuzz it rejects it outright and leaves a file with a) Tj T* 0 Tw 1.011654 Tw /F4 10 Tf 0 0 0 rg (.rej ) Tj /F1 10 Tf 0 0 0 rg (extension \(a reject file\). You can read this file to see exactly what change couldn't be applied, so) Tj T* 0 Tw (you can go fix it up by hand if you wish.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+38 0 obj
+<< /Length 7557 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 693.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .797485 Tw (If you don't have any third-party patches applied to your kernel source, but only patches from kernel.org) Tj T* 0 Tw 1.091163 Tw (and you apply the patches in the correct order, and have made no modifications yourself to the source) Tj T* 0 Tw 1.80332 Tw (files, then you should never see a fuzz or reject message from patch. If you do see such messages) Tj T* 0 Tw 1.082093 Tw (anyway, then there's a high risk that either your local source tree or the patch file is corrupted in some) Tj T* 0 Tw 1.462765 Tw (way. In that case you should probably try re-downloading the patch and if things are still not OK then) Tj T* 0 Tw (you'd be advised to start with a fresh tree downloaded in full from kernel.org.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Let's look a bit more at some of the messages patch can produce.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .684198 Tw 12 TL /F1 10 Tf 0 0 0 rg (If patch stops and presents a ) Tj /F4 10 Tf 0 0 0 rg (File) Tj ( ) Tj (to) Tj ( ) Tj (patch: ) Tj /F1 10 Tf 0 0 0 rg (prompt, then patch could not find a file to be patched.) Tj T* 0 Tw .613672 Tw (Most likely you forgot to specify -p1 or you are in the wrong directory. Less often, you'll find patches that) Tj T* 0 Tw .076353 Tw (need to be applied with ) Tj /F4 10 Tf 0 0 0 rg (-p0 ) Tj /F1 10 Tf 0 0 0 rg (instead of ) Tj /F4 10 Tf 0 0 0 rg (-p1 ) Tj /F1 10 Tf 0 0 0 rg (\(reading the patch file should reveal if this is the case -- if so,) Tj T* 0 Tw (then this is an error by the person who created the patch but is not fatal\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.83686 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you get ) Tj /F4 10 Tf 0 0 0 rg (Hunk) Tj ( ) Tj (#2) Tj ( ) Tj (succeeded) Tj ( ) Tj (at) Tj ( ) Tj (1887) Tj ( ) Tj (with) Tj ( ) Tj (fuzz) Tj ( ) Tj (2) Tj ( ) Tj (\(offset) Tj ( ) Tj (7) Tj ( ) Tj (lines\). ) Tj /F1 10 Tf 0 0 0 rg (or a message) Tj T* 0 Tw .203988 Tw (similar to that, then it means that patch had to adjust the location of the change \(in this example it needed) Tj T* 0 Tw (to move 7 lines from where it expected to make the change to make it fit\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The resulting file may or may not be OK, depending on the reason the file was different than expected.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 531.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .751654 Tw (This often happens if you try to apply a patch that was generated against a different kernel version than) Tj T* 0 Tw (the one you are trying to patch.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.698409 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you get a message like ) Tj /F4 10 Tf 0 0 0 rg (Hunk) Tj ( ) Tj (#3) Tj ( ) Tj (FAILED) Tj ( ) Tj (at) Tj ( ) Tj (2387.) Tj /F1 10 Tf 0 0 0 rg (, then it means that the patch could not be) Tj T* 0 Tw .044987 Tw (applied correctly and the patch program was unable to fuzz its way through. This will generate a ) Tj /F4 10 Tf 0 0 0 rg (.rej ) Tj /F1 10 Tf 0 0 0 rg (file) Tj T* 0 Tw .484198 Tw (with the change that caused the patch to fail and also a ) Tj /F4 10 Tf 0 0 0 rg (.orig ) Tj /F1 10 Tf 0 0 0 rg (file showing you the original content that) Tj T* 0 Tw (couldn't be changed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.269982 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you get ) Tj /F4 10 Tf 0 0 0 rg (Reversed) Tj ( ) Tj (\(or) Tj ( ) Tj (previously) Tj ( ) Tj (applied\)) Tj ( ) Tj (patch) Tj ( ) Tj (detected!) Tj ( ) Tj ( ) Tj (Assume) Tj ( ) Tj (-R?) Tj ( ) Tj ([n] ) Tj /F1 10 Tf 0 0 0 rg (then) Tj T* 0 Tw (patch detected that the change contained in the patch seems to have already been made.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .010988 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you actually did apply this patch previously and you just re-applied it in error, then just say [n]o and abort) Tj T* 0 Tw .845542 Tw (this patch. If you applied this patch previously and actually intended to revert it, but forgot to specify -R,) Tj T* 0 Tw (then you can say [) Tj /F2 10 Tf (y) Tj /F1 10 Tf (]es here to make patch revert it for you.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.50686 Tw (This can also happen if the creator of the patch reversed the source and destination directories when) Tj T* 0 Tw (creating the patch, and in that case reverting the patch will in fact apply it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 297.0236 cm
+q
+BT 1 0 0 1 0 62 Tm 8.451647 Tw 12 TL /F1 10 Tf 0 0 0 rg (A message similar to ) Tj /F4 10 Tf 0 0 0 rg (patch:) Tj ( ) Tj (****) Tj ( ) Tj (unexpected) Tj ( ) Tj (end) Tj ( ) Tj (of) Tj ( ) Tj (file) Tj ( ) Tj (in) Tj ( ) Tj (patch ) Tj /F1 10 Tf 0 0 0 rg (or) Tj T* 0 Tw .23561 Tw /F4 10 Tf 0 0 0 rg (patch) Tj ( ) Tj (unexpectedly) Tj ( ) Tj (ends) Tj ( ) Tj (in) Tj ( ) Tj (middle) Tj ( ) Tj (of) Tj ( ) Tj (line ) Tj /F1 10 Tf 0 0 0 rg (means that patch could make no sense of the file) Tj T* 0 Tw 1.555542 Tw (you fed to it. Either your download is broken, you tried to feed patch a compressed patch file without) Tj T* 0 Tw 1.709461 Tw (uncompressing it first, or the patch file that you are using has been mangled by a mail client or mail) Tj T* 0 Tw .307045 Tw (transfer agent along the way somewhere, e.g., by splitting a long line into two lines. Often these warnings) Tj T* 0 Tw (can easily be fixed by joining \(concatenating\) the two lines that had been split.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 243.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .731751 Tw (As I already mentioned above, these errors should never happen if you apply a patch from kernel.org to) Tj T* 0 Tw .76528 Tw (the correct version of an unmodified source tree. So if you get these errors with kernel.org patches then) Tj T* 0 Tw .876303 Tw (you should probably assume that either your patch file or your tree is broken and I'd advise you to start) Tj T* 0 Tw (over with a fresh download of a full kernel tree and the patch you wish to apply.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 210.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Are there any alternatives to ) Tj /F5 17.5 Tf 0 0 0 rg (patch) Tj /F2 17.5 Tf 0 0 0 rg (?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Yes there are alternatives.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 162.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 5.637976 Tw 12 TL /F1 10 Tf 0 0 0 rg (You can use the ) Tj /F4 10 Tf 0 0 0 rg (interdiff ) Tj /F1 10 Tf 0 0 0 rg (program \() Tj 0 0 .501961 rg (http://cyberelk.net/tim/patchutils/) Tj 0 0 0 rg (\) to generate a patch) Tj T* 0 Tw (representing the differences between two patches and then apply the result.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 120.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .036807 Tw (This will let you move from something like 4.7.2 to 4.7.3 in a single step. The -z flag to interdiff will even let) Tj T* 0 Tw .714724 Tw (you feed it patches in gzip or bzip2 compressed form directly without the use of zcat or bzcat or manual) Tj T* 0 Tw (decompression.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 102.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Here's how you'd go from 4.7.2 to 4.7.3 in a single step:) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+39 0 obj
+<< /Length 5021 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 739.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (interdiff -z ../patch-4.7.2.gz ../patch-4.7.3.gz | patch -p1) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 707.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .752765 Tw (Although interdiff may save you a step or two you are generally advised to do the additional steps since) Tj T* 0 Tw (interdiff can get things wrong in some cases.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 677.8236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.296412 Tw 12 TL /F1 10 Tf 0 0 0 rg (Another alternative is ) Tj /F4 10 Tf 0 0 0 rg (ketchup) Tj /F1 10 Tf 0 0 0 rg (, which is a python script for automatic downloading and applying of) Tj T* 0 Tw (patches \() Tj 0 0 .501961 rg (http://www.selenic.com/ketchup/) Tj 0 0 0 rg (\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 623.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .16832 Tw (Other nice tools are diffstat, which shows a summary of changes made by a patch; lsdiff, which displays a) Tj T* 0 Tw 1.21104 Tw (short listing of affected files in a patch file, along with \(optionally\) the line numbers of the start of each) Tj T* 0 Tw .362093 Tw (patch; and grepdiff, which displays a list of the files modified by a patch where the patch contains a given) Tj T* 0 Tw (regular expression.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 590.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Where can I download the patches?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 560.8236 cm
+q
+BT 1 0 0 1 0 14 Tm .11686 Tw 12 TL /F1 10 Tf 0 0 0 rg (The patches are available at ) Tj 0 0 .501961 rg (http://kernel.org/ ) Tj 0 0 0 rg (Most recent patches are linked from the front page, but they) Tj T* 0 Tw (also have specific homes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 542.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The 4.x.y \(-stable\) and 4.x patches live at) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 536.8236 cm
+Q
+q
+1 0 0 1 62.69291 524.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://www.kernel.org/pub/linux/kernel/v4.x/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 524.8236 cm
+Q
+q
+1 0 0 1 62.69291 506.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The -rc patches live at) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 500.8236 cm
+Q
+q
+1 0 0 1 62.69291 488.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://www.kernel.org/pub/linux/kernel/v4.x/testing/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 488.8236 cm
+Q
+q
+1 0 0 1 62.69291 455.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (The 4.x kernels) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 437.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (These are the base stable releases released by Linus. The highest numbered release is the most recent.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 395.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .217356 Tw (If regressions or other serious flaws are found, then a -stable fix patch will be released \(see below\) on top) Tj T* 0 Tw .009513 Tw (of this base. Once a new 4.x base kernel is released, a patch is made available that is a delta between the) Tj T* 0 Tw (previous 4.x kernel and the new one.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 353.8236 cm
+q
+BT 1 0 0 1 0 26 Tm .358988 Tw 12 TL /F1 10 Tf 0 0 0 rg (To apply a patch moving from 4.6 to 4.7, you'd do the following \(note that such patches do ) Tj /F2 10 Tf (NOT ) Tj /F1 10 Tf (apply on) Tj T* 0 Tw .019157 Tw (top of 4.x.y kernels but on top of the base 4.x kernel -- if you need to move from 4.x.y to 4.x+1 you need to) Tj T* 0 Tw (first revert the 4.x.y patch\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 335.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Here are some examples:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 134.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 192 re B*
+Q
+q
+BT 1 0 0 1 0 170 Tm 12 TL /F4 10 Tf 0 0 0 rg (# moving from 4.6 to 4.7) Tj T*  T* ($ cd ~/linux-4.6                # change to kernel source dir) Tj T* ($ patch -p1 ) Tj (<) Tj ( ../patch-4.7      # apply the 4.7 patch) Tj T* ($ cd ..) Tj T* ($ mv linux-4.6 linux-4.7        # rename source dir) Tj T*  T* (# moving from 4.6.1 to 4.7) Tj T*  T* ($ cd ~/linux-4.6.1              # change to kernel source dir) Tj T* ($ patch -p1 -R ) Tj (<) Tj ( ../patch-4.6.1 # revert the 4.6.1 patch) Tj T* (                                # source dir is now 4.6) Tj T* ($ patch -p1 ) Tj (<) Tj ( ../patch-4.7      # apply new 4.7 patch) Tj T* ($ cd ..) Tj T* ($ mv linux-4.6.1 linux-4.7      # rename source dir) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+40 0 obj
+<< /Length 5601 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (The 4.x.y kernels) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .142126 Tw (Kernels with 3-digit versions are -stable kernels. They contain small\(ish\) critical fixes for security problems) Tj T* 0 Tw (or significant regressions discovered in a given 4.x kernel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .373516 Tw (This is the recommended branch for users who want the most recent stable kernel and are not interested) Tj T* 0 Tw (in helping test development/experimental versions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If no 4.x.y kernel is available, then the highest numbered 4.x kernel is the current stable kernel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+Q
+q
+1 0 0 1 62.69291 559.0236 cm
+.960784 .960784 .862745 rg
+n 0 95 469.8898 -95 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 69 Tm  T* ET
+q
+1 0 0 1 16 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 26 Tm 1.224983 Tw 12 TL /F1 10 Tf 0 0 0 rg (The -stable team usually do make incremental patches available as well as patches against the) Tj T* 0 Tw 1.447674 Tw (latest mainline release, but I only cover the non-incremental ones below. The incremental ones) Tj T* 0 Tw (can be found at ) Tj 0 0 .501961 rg (https://www.kernel.org/pub/linux/kernel/v4.x/incr/) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 95 m 469.8898 95 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 95 l S
+n 469.8898 0 m 469.8898 95 l S
+Q
+Q
+q
+1 0 0 1 62.69291 553.0236 cm
+Q
+q
+1 0 0 1 62.69291 523.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .13332 Tw (These patches are not incremental, meaning that for example the 4.7.3 patch does not apply on top of the) Tj T* 0 Tw (4.7.2 kernel source, but rather on top of the base 4.7 kernel source.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 493.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.148988 Tw (So, in order to apply the 4.7.3 patch to your existing 4.7.2 kernel source you have to first back out the) Tj T* 0 Tw (4.7.2 patch \(so you are left with a base 4.7 kernel source\) and then apply the new 4.7.3 patch.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 475.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Here's a small example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 393.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+BT 1 0 0 1 0 50 Tm 12 TL /F4 10 Tf 0 0 0 rg ($ cd ~/linux-4.7.2              # change to the kernel source dir) Tj T* ($ patch -p1 -R ) Tj (<) Tj ( ../patch-4.7.2 # revert the 4.7.2 patch) Tj T* ($ patch -p1 ) Tj (<) Tj ( ../patch-4.7.3    # apply the new 4.7.3 patch) Tj T* ($ cd ..) Tj T* ($ mv linux-4.7.2 linux-4.7.3    # rename the kernel source dir) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 360.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (The -rc kernels) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 318.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.733314 Tw (These are release-candidate kernels. These are development kernels released by Linus whenever he) Tj T* 0 Tw 2.39561 Tw (deems the current git \(the kernel's source management tool\) tree to be in a reasonably sane state) Tj T* 0 Tw (adequate for testing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 276.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .104431 Tw (These kernels are not stable and you should expect occasional breakage if you intend to run them. This is) Tj T* 0 Tw .634692 Tw (however the most stable of the main development branches and is also what will eventually turn into the) Tj T* 0 Tw (next stable kernel, so it is important that it be tested by as many people as possible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 234.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .287488 Tw (This is a good branch to run for people who want to help out testing development kernels but do not want) Tj T* 0 Tw 1.582927 Tw (to run some of the really experimental stuff \(such people should see the sections about -git and -mm) Tj T* 0 Tw (kernels below\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 192.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .413876 Tw (The -rc patches are not incremental, they apply to a base 4.x kernel, just like the 4.x.y patches described) Tj T* 0 Tw .69332 Tw (above. The kernel version before the -rcN suffix denotes the version of the kernel that this -rc kernel will) Tj T* 0 Tw (eventually turn into.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 162.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .038935 Tw (So, 4.8-rc5 means that this is the fifth release candidate for the 4.8 kernel and the patch should be applied) Tj T* 0 Tw (on top of the 4.7 kernel source.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 144.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Here are 3 examples of how to apply these patches:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 87.62362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F4 10 Tf 0 0 0 rg (# first an example of moving from 4.7 to 4.8-rc3) Tj T*  T* ($ cd ~/linux-4.7                        # change to the 4.7 source dir) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+41 0 obj
+<< /Length 4096 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 523.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 240 re B*
+Q
+q
+BT 1 0 0 1 0 218 Tm 12 TL /F4 10 Tf 0 0 0 rg ($ patch -p1 ) Tj (<) Tj ( ../patch-4.8-rc3          # apply the 4.8-rc3 patch) Tj T* ($ cd ..) Tj T* ($ mv linux-4.7 linux-4.8-rc3            # rename the source dir) Tj T*  T* (# now let's move from 4.8-rc3 to 4.8-rc5) Tj T*  T* ($ cd ~/linux-4.8-rc3                    # change to the 4.8-rc3 dir) Tj T* ($ patch -p1 -R ) Tj (<) Tj ( ../patch-4.8-rc3       # revert the 4.8-rc3 patch) Tj T* ($ patch -p1 ) Tj (<) Tj ( ../patch-4.8-rc5          # apply the new 4.8-rc5 patch) Tj T* ($ cd ..) Tj T* ($ mv linux-4.8-rc3 linux-4.8-rc5        # rename the source dir) Tj T*  T* (# finally let's try and move from 4.7.3 to 4.8-rc5) Tj T*  T* ($ cd ~/linux-4.7.3                      # change to the kernel source dir) Tj T* ($ patch -p1 -R ) Tj (<) Tj ( ../patch-4.7.3         # revert the 4.7.3 patch) Tj T* ($ patch -p1 ) Tj (<) Tj ( ../patch-4.8-rc5          # apply new 4.8-rc5 patch) Tj T* ($ cd ..) Tj T* ($ mv linux-4.7.3 linux-4.8-rc5          # rename the kernel source dir) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 490.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (The -git kernels) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 472.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (These are daily snapshots of Linus' kernel tree \(managed in a git repository, hence the name\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 430.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .867485 Tw (These patches are usually released daily and represent the current state of Linus's tree. They are more) Tj T* 0 Tw .127318 Tw (experimental than -rc kernels since they are generated automatically without even a cursory glance to see) Tj T* 0 Tw (if they are sane.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 388.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .817488 Tw (-git patches are not incremental and apply either to a base 4.x kernel or a base 4.x-rc kernel -- you can) Tj T* 0 Tw .752765 Tw (see which from their name. A patch named 4.7-git1 applies to the 4.7 kernel source and a patch named) Tj T* 0 Tw (4.8-rc3-git2 applies to the source of the 4.8-rc3 kernel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 370.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Here are some examples of how to apply these patches:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 133.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 228 re B*
+Q
+q
+BT 1 0 0 1 0 206 Tm 12 TL /F4 10 Tf 0 0 0 rg (# moving from 4.7 to 4.7-git1) Tj T*  T* ($ cd ~/linux-4.7                        # change to the kernel source dir) Tj T* ($ patch -p1 ) Tj (<) Tj ( ../patch-4.7-git1         # apply the 4.7-git1 patch) Tj T* ($ cd ..) Tj T* ($ mv linux-4.7 linux-4.7-git1           # rename the kernel source dir) Tj T*  T* (# moving from 4.7-git1 to 4.8-rc2-git3) Tj T*  T* ($ cd ~/linux-4.7-git1                   # change to the kernel source dir) Tj T* ($ patch -p1 -R ) Tj (<) Tj ( ../patch-4.7-git1      # revert the 4.7-git1 patch) Tj T* (                                        # we now have a 4.7 kernel) Tj T* ($ patch -p1 ) Tj (<) Tj ( ../patch-4.8-rc2          # apply the 4.8-rc2 patch) Tj T* (                                        # the kernel is now 4.8-rc2) Tj T* ($ patch -p1 ) Tj (<) Tj ( ../patch-4.8-rc2-git3     # apply the 4.8-rc2-git3 patch) Tj T* (                                        # the kernel is now 4.8-rc2-git3) Tj T* ($ cd ..) Tj T* ($ mv linux-4.7-git1 linux-4.8-rc2-git3  # rename source dir) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 100.6236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (The -mm patches and the linux-next tree) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 82.62362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The -mm patches are experimental patches released by Andrew Morton.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+42 0 obj
+<< /Length 3103 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.327882 Tw 12 TL /F1 10 Tf 0 0 0 rg (In the past, -mm tree were used to also test subsystem patches, but this function is now done via the) Tj T* 0 Tw .136627 Tw /F6 10 Tf 0 0 0 rg (linux-next <) Tj (https://www.kernel.org/doc/man-pages/linux-next.html) Tj (> ) Tj /F1 10 Tf 0 0 0 rg (tree. The Subsystem maintainers push) Tj T* 0 Tw (their patches first to linux-next, and, during the merge window, sends them directly to Linus.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .372927 Tw (The -mm patches serve as a sort of proving ground for new features and other experimental patches that) Tj T* 0 Tw .680542 Tw (aren't merged via a subsystem tree. Once such patches has proved its worth in -mm for a while Andrew) Tj T* 0 Tw (pushes it on to Linus for inclusion in mainline.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .20881 Tw (The linux-next tree is daily updated, and includes the -mm patches. Both are in constant flux and contains) Tj T* 0 Tw .429985 Tw (many experimental features, a lot of debugging patches not appropriate for mainline etc., and is the most) Tj T* 0 Tw (experimental of the branches described in this document.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .504987 Tw (These patches are not appropriate for use on systems that are supposed to be stable and they are more) Tj T* 0 Tw .596303 Tw (risky to run than any of the other branches \(make sure you have up-to-date backups -- that goes for any) Tj T* 0 Tw (experimental kernel but even more so for -mm patches or using a Kernel from the linux-next tree\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .76528 Tw (Testing of -mm patches and linux-next is greatly appreciated since the whole point of those are to weed) Tj T* 0 Tw 1.801412 Tw (out regressions, crashes, data corruption bugs, build breakage \(and any other bug in general\) before) Tj T* 0 Tw (changes are merged into the more stable mainline Linus tree.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 531.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .994692 Tw (But testers of -mm and linux-next should be aware that breakages are more common than in any other) Tj T* 0 Tw (tree.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 501.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.094198 Tw (This concludes this list of explanations of the various kernel trees. I hope you are now clear on how to) Tj T* 0 Tw (apply the various patches and help testing the kernel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .196412 Tw (Thank you's to Randy Dunlap, Rolf Eike Beer, Linus Torvalds, Bodo Eggert, Johannes Stezenbach, Grant) Tj T* 0 Tw 1.716235 Tw (Coady, Pavel Machek and others that I may have forgotten for their reviews and contributions to this) Tj T* 0 Tw (document.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+43 0 obj
+<< /Nums [ 0 44 0 R 1 45 0 R 2 46 0 R 3 47 0 R 4 48 0 R 
+  5 49 0 R 6 50 0 R ] >>
+endobj
+44 0 obj
+<< /S /D /St 1 >>
+endobj
+45 0 obj
+<< /S /D /St 2 >>
+endobj
+46 0 obj
+<< /S /D /St 3 >>
+endobj
+47 0 obj
+<< /S /D /St 4 >>
+endobj
+48 0 obj
+<< /S /D /St 5 >>
+endobj
+49 0 obj
+<< /S /D /St 6 >>
+endobj
+50 0 obj
+<< /S /D /St 7 >>
+endobj
+xref
+0 51
+0000000000 65535 f
+0000000075 00000 n
+0000000160 00000 n
+0000000270 00000 n
+0000000385 00000 n
+0000000507 00000 n
+0000000615 00000 n
+0000000824 00000 n
+0000000937 00000 n
+0000001146 00000 n
+0000001336 00000 n
+0000001564 00000 n
+0000001751 00000 n
+0000001925 00000 n
+0000002126 00000 n
+0000002335 00000 n
+0000002585 00000 n
+0000002791 00000 n
+0000003020 00000 n
+0000003230 00000 n
+0000003349 00000 n
+0000003559 00000 n
+0000003668 00000 n
+0000003915 00000 n
+0000003993 00000 n
+0000004113 00000 n
+0000004263 00000 n
+0000004421 00000 n
+0000004565 00000 n
+0000004719 00000 n
+0000004870 00000 n
+0000005003 00000 n
+0000005138 00000 n
+0000005271 00000 n
+0000005405 00000 n
+0000005549 00000 n
+0000005653 00000 n
+0000011378 00000 n
+0000017952 00000 n
+0000025566 00000 n
+0000030644 00000 n
+0000036302 00000 n
+0000040455 00000 n
+0000043615 00000 n
+0000043717 00000 n
+0000043754 00000 n
+0000043791 00000 n
+0000043828 00000 n
+0000043865 00000 n
+0000043902 00000 n
+0000043939 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\213D\371=@7X\313\027\343p\311HC\016\002) (\213D\371=@7X\313\027\343p\311HC\016\002)]
+ /Info 22 0 R /Root 21 0 R /Size 51 >>
+startxref
+43976
+%%EOF

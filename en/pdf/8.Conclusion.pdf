@@ -1,0 +1,287 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /A << /S /URI /Type /Action /URI (http://lwn.net/) >> /Border [ 0 0 0 ] /Rect [ 101.0629 624.7736 163.8929 636.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+5 0 obj
+<< /A << /S /URI /Type /Action /URI (http://lwn.net/Kernel/Index/) >> /Border [ 0 0 0 ] /Rect [ 82.69291 594.7736 532.5827 606.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+6 0 obj
+<< /A << /S /URI /Type /Action /URI (http://kernelnewbies.org/) >> /Border [ 0 0 0 ] /Rect [ 82.69291 558.7736 532.5827 570.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+7 0 obj
+<< /A << /S /URI /Type /Action /URI (http://kernel.org/) >> /Border [ 0 0 0 ] /Rect [ 257.4036 540.7736 329.6636 552.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+8 0 obj
+<< /A << /S /URI /Type /Action /URI (http://lwn.net/Kernel/LDD3/) >> /Border [ 0 0 0 ] /Rect [ 125.4929 480.7736 244.9929 492.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+9 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.kernel.org/pub/software/scm/git/docs/) >> /Border [ 0 0 0 ] /Rect [ 82.69291 366.7736 532.5827 378.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+10 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.kernel.org/pub/software/scm/git/docs/user-manual.html) >> /Border [ 0 0 0 ] /Rect [ 82.69291 348.7736 532.5827 360.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+11 0 obj
+<< /Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ] /Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+12 0 obj
+<< /Outlines 14 0 R /PageLabels 19 0 R /PageMode /UseNone /Pages 17 0 R /Type /Catalog >>
+endobj
+13 0 obj
+<< /Author () /CreationDate (D:20170628151607-08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title () >>
+endobj
+14 0 obj
+<< /Count 2 /First 15 0 R /Last 16 0 R /Type /Outlines >>
+endobj
+15 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 765.0236 0 ] /Next 16 0 R /Parent 14 0 R /Title (For more information) >>
+endobj
+16 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 336.0236 0 ] /Parent 14 0 R /Prev 15 0 R /Title (Conclusion) >>
+endobj
+17 0 obj
+<< /Count 1 /Kids [ 11 0 R ] /Type /Pages >>
+endobj
+18 0 obj
+<< /Length 6315 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (For more information) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL .533555 Tw (There are numerous sources of information on Linux kernel development and related topics. First among) Tj T* 0 Tw 1.526412 Tw (those will always be the Documentation directory found in the kernel source distribution. The top-level) Tj T* 0 Tw 10.86997 Tw (process/howto.rst file is an important starting point; process/submitting-patches.rst and) Tj T* 0 Tw .783615 Tw (process/submitting-drivers.rst are also something which all kernel developers should read. Many internal) Tj T* 0 Tw .273555 Tw (kernel APIs are documented using the kerneldoc mechanism; "make htmldocs" or "make pdfdocs" can be) Tj T* 0 Tw .634692 Tw (used to generate those documents in HTML or PDF format \(though the version of TeX shipped by some) Tj T* 0 Tw (distributions runs into internal limits and fails to process the documents properly\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.54436 Tw 12 TL /F1 10 Tf 0 0 0 rg (Various web sites discuss kernel development at all levels of detail. Your author would like to humbly) Tj T* 0 Tw .569985 Tw (suggest ) Tj 0 0 .501961 rg (http://lwn.net/ ) Tj 0 0 0 rg (as a source; information on many specific kernel topics can be found via the LWN) Tj T* 0 Tw (kernel index at:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 606.0236 cm
+Q
+q
+1 0 0 1 62.69291 594.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://lwn.net/Kernel/Index/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 594.0236 cm
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Beyond that, a valuable resource for kernel developers is:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+Q
+q
+1 0 0 1 62.69291 558.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://kernelnewbies.org/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 558.0236 cm
+Q
+q
+1 0 0 1 62.69291 528.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 3.99152 Tw 12 TL /F1 10 Tf 0 0 0 rg (And, of course, one should not forget ) Tj 0 0 .501961 rg (http://kernel.org/) Tj 0 0 0 rg (, the definitive location for kernel release) Tj T* 0 Tw (information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (There are a number of books on kernel development:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 504.0236 cm
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+q
+BT 1 0 0 1 0 14 Tm 1.23816 Tw 12 TL /F1 10 Tf 0 0 0 rg (Linux Device Drivers, 3rd Edition \(Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman\).) Tj T* 0 Tw (Online at ) Tj 0 0 .501961 rg (http://lwn.net/Kernel/LDD3/) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Linux Kernel Development \(Robert Love\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Understanding the Linux Kernel \(Daniel Bovet and Marco Cesati\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+Q
+q
+1 0 0 1 62.69291 402.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.153876 Tw (All of these books suffer from a common fault, though: they tend to be somewhat obsolete by the time) Tj T* 0 Tw .53908 Tw (they hit the shelves, and they have been on the shelves for a while now. Still, there is quite a bit of good) Tj T* 0 Tw (information to be found there.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Documentation for git can be found at:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 378.0236 cm
+Q
+q
+1 0 0 1 62.69291 348.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 18 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.kernel.org/pub/software/scm/git/docs/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.kernel.org/pub/software/scm/git/docs/user-manual.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 348.0236 cm
+Q
+q
+1 0 0 1 62.69291 315.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 273.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.095366 Tw (Congratulations to anybody who has made it through this long-winded document. Hopefully it has) Tj T* 0 Tw .174692 Tw (provided a helpful understanding of how the Linux kernel is developed and how you can participate in that) Tj T* 0 Tw (process.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 207.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .203145 Tw (In the end, it's the participation that matters. Any open source software project is no more than the sum of) Tj T* 0 Tw .334198 Tw (what its contributors put into it. The Linux kernel has progressed as quickly and as well as it has because) Tj T* 0 Tw 1.681098 Tw (it has been helped by an impressively large group of developers, all of whom are working to make it) Tj T* 0 Tw 1.189398 Tw (better. The kernel is a premier example of what can be done when thousands of people work together) Tj T* 0 Tw (toward a common goal.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 129.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 1.093516 Tw (The kernel can always benefit from a larger developer base, though. There is always more work to do.) Tj T* 0 Tw .237318 Tw (But, just as importantly, most other participants in the Linux ecosystem can benefit through contributing to) Tj T* 0 Tw 2.271235 Tw (the kernel. Getting code into the mainline is the key to higher code quality, lower maintenance and) Tj T* 0 Tw 1.092339 Tw (distribution costs, a higher level of influence over the direction of kernel development, and more. It is a) Tj T* 0 Tw 1.551751 Tw (situation where everybody involved wins. Fire up your editor and come join us; you will be more than) Tj T* 0 Tw (welcome.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+19 0 obj
+<< /Nums [ 0 20 0 R ] >>
+endobj
+20 0 obj
+<< /S /D /St 1 >>
+endobj
+xref
+0 21
+0000000000 65535 f
+0000000075 00000 n
+0000000119 00000 n
+0000000229 00000 n
+0000000344 00000 n
+0000000514 00000 n
+0000000697 00000 n
+0000000877 00000 n
+0000001050 00000 n
+0000001232 00000 n
+0000001435 00000 n
+0000001655 00000 n
+0000001920 00000 n
+0000002029 00000 n
+0000002240 00000 n
+0000002317 00000 n
+0000002442 00000 n
+0000002557 00000 n
+0000002621 00000 n
+0000008993 00000 n
+0000009037 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\216RV\0137\376A\2747_*\225]\202Y\303) (\216RV\0137\376A\2747_*\225]\202Y\303)]
+ /Info 13 0 R /Root 12 0 R /Size 21 >>
+startxref
+9074
+%%EOF

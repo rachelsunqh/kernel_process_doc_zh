@@ -1,0 +1,775 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 5 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 14 0 R /XYZ 68.69291 498.9843 0 ] /Rect [ 212.7429 695.7736 219.4149 707.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+5 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /Annots [ 4 0 R ] /Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+7 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 14 0 R /XYZ 68.69291 474.9843 0 ] /Rect [ 128.9765 219.6161 133.4245 231.6161 ] /Subtype /Link /Type /Annot >>
+endobj
+8 0 obj
+<< /Annots [ 7 0 R ] /Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+9 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 14 0 R /XYZ 68.69291 438.9843 0 ] /Rect [ 377.2529 156.7736 381.7009 168.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+10 0 obj
+<< /Annots [ 9 0 R ] /Contents 27 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+11 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 6 0 R /XYZ 212.7429 709.0236 0 ] /Rect [ 68.69291 485.7343 74.25291 497.7343 ] /Subtype /Link /Type /Annot >>
+endobj
+12 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 8 0 R /XYZ 127.1629 232.8661 0 ] /Rect [ 68.69291 461.7343 74.25291 473.7343 ] /Subtype /Link /Type /Annot >>
+endobj
+13 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 10 0 R /XYZ 377.2529 170.0236 0 ] /Rect [ 68.69291 425.7343 74.25291 437.7343 ] /Subtype /Link /Type /Annot >>
+endobj
+14 0 obj
+<< /Annots [ 11 0 R 12 0 R 13 0 R ] /Contents 28 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+15 0 obj
+<< /Outlines 17 0 R /PageLabels 29 0 R /PageMode /UseNone /Pages 24 0 R /Type /Catalog >>
+endobj
+16 0 obj
+<< /Author () /CreationDate (D:20170628152031-08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Linux kernel management style) >>
+endobj
+17 0 obj
+<< /Count 6 /First 18 0 R /Last 23 0 R /Type /Outlines >>
+endobj
+18 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 539.0236 0 ] /Next 19 0 R /Parent 17 0 R /Title (1\) Decisions) >>
+endobj
+19 0 obj
+<< /Dest [ 8 0 R /XYZ 62.69291 443.8661 0 ] /Next 20 0 R /Parent 17 0 R /Prev 18 0 R /Title (2\) People) >>
+endobj
+20 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 729.0236 0 ] /Next 21 0 R /Parent 17 0 R /Prev 19 0 R /Title (3\) People II - the Good Kind) >>
+endobj
+21 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 450.0236 0 ] /Next 22 0 R /Parent 17 0 R /Prev 20 0 R /Title (4\) Placing blame) >>
+endobj
+22 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 261.0236 0 ] /Next 23 0 R /Parent 17 0 R /Prev 21 0 R /Title (5\) Things to avoid) >>
+endobj
+23 0 obj
+<< /Dest [ 14 0 R /XYZ 62.69291 717.0236 0 ] /Parent 17 0 R /Prev 22 0 R /Title (6\) Why me?) >>
+endobj
+24 0 obj
+<< /Count 4 /Kids [ 6 0 R 8 0 R 10 0 R 14 0 R ] /Type /Pages >>
+endobj
+25 0 obj
+<< /Length 6991 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 86.00488 0 Td (Linux kernel management style) Tj T* -86.00488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 695.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .431235 Tw 12 TL /F1 10 Tf 0 0 0 rg (This is a short document describing the preferred \(or made up, depending on who you ask\) management) Tj T* 0 Tw .704651 Tw (style for the linux kernel. It's meant to mirror the process/coding-style.rst document to some degree, and) Tj T* 0 Tw (mainly written to avoid answering ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (1 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (the same \(or similar\) questions over and over again.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 653.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.231235 Tw (Management style is very personal and much harder to quantify than simple coding style rules, so this) Tj T* 0 Tw .024751 Tw (document may or may not have anything to do with reality. It started as a lark, but that doesn't mean that it) Tj T* 0 Tw (might not actually be true. You'll have to decide for yourself.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 599.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .233516 Tw (Btw, when talking about "kernel manager", it's all about the technical lead persons, not the people who do) Tj T* 0 Tw 1.311318 Tw (traditional management inside companies. If you sign purchase orders or you have any clue about the) Tj T* 0 Tw .902485 Tw (budget of your group, you're almost certainly not a kernel manager. These suggestions may or may not) Tj T* 0 Tw (apply to you.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 569.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .109988 Tw (First off, I'd suggest buying "Seven Habits of Highly Effective People", and NOT read it. Burn it, it's a great) Tj T* 0 Tw (symbolic gesture.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 551.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Anyway, here goes:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 518.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1\) Decisions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 476.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .404597 Tw (Everybody thinks managers make decisions, and that decision-making is important. The bigger and more) Tj T* 0 Tw .218935 Tw (painful the decision, the bigger the manager must be to make it. That's very deep and obvious, but it's not) Tj T* 0 Tw (actually true.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 422.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .293145 Tw 12 TL /F1 10 Tf 0 0 0 rg (The name of the game is to ) Tj /F2 10 Tf (avoid ) Tj /F1 10 Tf (having to make a decision. In particular, if somebody tells you "choose) Tj T* 0 Tw .460488 Tw (\(a\) or \(b\), we really need you to decide on this", you're in trouble as a manager. The people you manage) Tj T* 0 Tw 2.282765 Tw (had better know the details better than you, so if they come to you for a technical decision, you're) Tj T* 0 Tw (screwed. You're clearly not competent to make that decision for them.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 380.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .389318 Tw 12 TL /F1 10 Tf 0 0 0 rg (\(Corollary:if the people you manage don't know the details better than you, you're also screwed, although) Tj T* 0 Tw .01104 Tw (for a totally different reason. Namely that you are in the wrong job, and that ) Tj /F2 10 Tf (they ) Tj /F1 10 Tf (should be managing your) Tj T* 0 Tw (brilliance instead\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 326.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.73683 Tw 12 TL /F1 10 Tf 0 0 0 rg (So the name of the game is to ) Tj /F2 10 Tf (avoid ) Tj /F1 10 Tf (decisions, at least the big and painful ones. Making small and) Tj T* 0 Tw 1.77061 Tw (non-consequential decisions is fine, and makes you look like you know what you're doing, so what a) Tj T* 0 Tw 1.586654 Tw (kernel manager needs to do is to turn the big and painful ones into small things where nobody really) Tj T* 0 Tw (cares.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 272.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .816488 Tw 12 TL /F1 10 Tf 0 0 0 rg (It helps to realize that the key difference between a big decision and a small one is whether you can fix) Tj T* 0 Tw 1.159986 Tw (your decision afterwards. Any decision can be made small by just always making sure that if you were) Tj T* 0 Tw .012339 Tw (wrong \(and you ) Tj /F2 10 Tf (will ) Tj /F1 10 Tf (be wrong\), you can always undo the damage later by backtracking. Suddenly, you get) Tj T* 0 Tw (to be doubly managerial for making ) Tj /F2 10 Tf (two ) Tj /F1 10 Tf (inconsequential decisions - the wrong one ) Tj /F2 10 Tf (and ) Tj /F1 10 Tf (the right one.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 254.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (And people will even see that as true leadership \() Tj /F3 10 Tf (cough ) Tj /F1 10 Tf (bullshit ) Tj /F3 10 Tf (cough) Tj /F1 10 Tf (\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 212.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .662765 Tw (Thus the key to avoiding big decisions becomes to just avoiding to do things that can't be undone. Don't) Tj T* 0 Tw .537209 Tw (get ushered into a corner from which you cannot escape. A cornered rat may be dangerous - a cornered) Tj T* 0 Tw (manager is just pitiful.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 134.0236 cm
+q
+BT 1 0 0 1 0 62 Tm .215251 Tw 12 TL /F1 10 Tf 0 0 0 rg (It turns out that since nobody would be stupid enough to ever really let a kernel manager have huge fiscal) Tj T* 0 Tw .082927 Tw (responsibility ) Tj /F2 10 Tf (anyway) Tj /F1 10 Tf (, it's usually fairly easy to backtrack. Since you're not going to be able to waste huge) Tj T* 0 Tw .398988 Tw (amounts of money that you might not be able to repay, the only thing you can backtrack on is a technical) Tj T* 0 Tw 3.431412 Tw (decision, and there back-tracking is very easy: just tell everybody that you were an incompetent) Tj T* 0 Tw .586098 Tw (nincompoop, say you're sorry, and undo all the worthless work you had people work on for the last year.) Tj T* 0 Tw (Suddenly the decision you made a year ago wasn't a big decision after all, since it could be easily undone.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 116.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (It turns out that some people have trouble with this approach, for two reasons:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 110.0236 cm
+Q
+q
+1 0 0 1 62.69291 80.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.53061 Tw (admitting you were an idiot is harder than it looks. We all like to maintain appearances, and) Tj T* 0 Tw (coming out in public to say that you were wrong is sometimes very hard indeed.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+26 0 obj
+<< /Length 8084 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 707.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 50 Tm .924985 Tw 12 TL /F1 10 Tf 0 0 0 rg (having somebody tell you that what you worked on for the last year wasn't worthwhile after all) Tj T* 0 Tw 1.209398 Tw (can be hard on the poor lowly engineers too, and while the actual ) Tj /F2 10 Tf (work ) Tj /F1 10 Tf (was easy enough to) Tj T* 0 Tw .27936 Tw (undo by just deleting it, you may have irrevocably lost the trust of that engineer. And remember:) Tj T* 0 Tw .825868 Tw ("irrevocable" was what we tried to avoid in the first place, and your decision ended up being a) Tj T* 0 Tw (big one after all.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 707.8661 cm
+Q
+q
+1 0 0 1 62.69291 653.8661 cm
+q
+BT 1 0 0 1 0 38 Tm .226457 Tw 12 TL /F1 10 Tf 0 0 0 rg (Happily, both of these reasons can be mitigated effectively by just admitting up-front that you don't have a) Tj T* 0 Tw .307209 Tw (friggin' clue, and telling people ahead of the fact that your decision is purely preliminary, and might be the) Tj T* 0 Tw .862927 Tw (wrong thing. You should always reserve the right to change your mind, and make people very ) Tj /F2 10 Tf (aware ) Tj /F1 10 Tf (of) Tj T* 0 Tw (that. And it's much easier to admit that you are stupid when you haven't ) Tj /F2 10 Tf (yet ) Tj /F1 10 Tf (done the really stupid thing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 635.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Then, when it really does turn out to be stupid, people just roll their eyes and say "Oops, he did it again".) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 581.8661 cm
+q
+BT 1 0 0 1 0 38 Tm 1.091318 Tw 12 TL /F1 10 Tf 0 0 0 rg (This preemptive admission of incompetence might also make the people who actually do the work also) Tj T* 0 Tw .792619 Tw (think twice about whether it's worth doing or not. After all, if ) Tj /F2 10 Tf (they ) Tj /F1 10 Tf (aren't certain whether it's a good idea,) Tj T* 0 Tw 1.274692 Tw (you sure as hell shouldn't encourage them by promising them that what they work on will be included.) Tj T* 0 Tw (Make them at least think twice before they embark on a big endeavor.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 539.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.14436 Tw (Remember: they'd better know more about the details than you do, and they usually already think they) Tj T* 0 Tw .975777 Tw (have the answer to everything. The best thing you can do as a manager is not to instill confidence, but) Tj T* 0 Tw (rather a healthy dose of critical thinking on what they do.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 497.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .883145 Tw (Btw, another way to avoid a decision is to plaintively just whine "can't we just do both?" and look pitiful.) Tj T* 0 Tw .134724 Tw (Trust me, it works. If it's not clear which approach is better, they'll eventually figure it out. The answer may) Tj T* 0 Tw (end up being that both teams get so frustrated by the situation that they just give up.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 455.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .926098 Tw (That may sound like a failure, but it's usually a sign that there was something wrong with both projects,) Tj T* 0 Tw .05832 Tw (and the reason the people involved couldn't decide was that they were both wrong. You end up coming up) Tj T* 0 Tw (smelling like roses, and you avoided yet another decision that you could have screwed up on.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 422.8661 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (2\) People) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 392.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 2.450574 Tw 12 TL /F1 10 Tf 0 0 0 rg (Most people are idiots, and being a manager means you'll have to deal with it, and perhaps more) Tj T* 0 Tw (importantly, that ) Tj /F2 10 Tf (they ) Tj /F1 10 Tf (have to deal with ) Tj /F2 10 Tf (you) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 362.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .726654 Tw (It turns out that while it's easy to undo technical mistakes, it's not as easy to undo personality disorders.) Tj T* 0 Tw (You just have to live with theirs - and yours.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 308.8661 cm
+q
+BT 1 0 0 1 0 38 Tm .247209 Tw 12 TL /F1 10 Tf 0 0 0 rg (However, in order to prepare yourself as a kernel manager, it's best to remember not to burn any bridges,) Tj T* 0 Tw .464985 Tw (bomb any innocent villagers, or alienate too many kernel developers. It turns out that alienating people is) Tj T* 0 Tw .861318 Tw (fairly easy, and un-alienating them is hard. Thus "alienating" immediately falls under the heading of "not) Tj T* 0 Tw (reversible", and becomes a no-no according to ) Tj 1 0 0 rg (:ref:`decisions`) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 290.8661 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (There's just a few simple rules here:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 284.8661 cm
+Q
+q
+1 0 0 1 62.69291 248.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (don't call people d*ckheads \(at least not in public\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (learn how to apologize when you forgot rule \(1\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 248.8661 cm
+Q
+q
+1 0 0 1 62.69291 206.8661 cm
+q
+BT 1 0 0 1 0 26 Tm 1.605988 Tw 12 TL /F1 10 Tf 0 0 0 rg (The problem with #1 is that it's very easy to do, since you can say "you're a d*ckhead" in millions of) Tj T* 0 Tw .906784 Tw (different ways ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (2) Tj /F1 10 Tf 0 0 0 rg 0 Ts (, sometimes without even realizing it, and almost always with a white-hot conviction that) Tj T* 0 Tw (you are right.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 176.8661 cm
+q
+BT 1 0 0 1 0 14 Tm .943488 Tw 12 TL /F1 10 Tf 0 0 0 rg (And the more convinced you are that you are right \(and let's face it, you can call just about ) Tj /F2 10 Tf (anybody ) Tj /F1 10 Tf (a) Tj T* 0 Tw (d*ckhead, and you often ) Tj /F2 10 Tf (will ) Tj /F1 10 Tf (be right\), the harder it ends up being to apologize afterwards.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 158.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To solve this problem, you really only have two options:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 152.8661 cm
+Q
+q
+1 0 0 1 62.69291 104.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (get really good at apologies) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .25061 Tw (spread the "love" out so evenly that nobody really ends up feeling like they get unfairly targeted.) Tj T* 0 Tw (Make it inventive enough, and they might even be amused.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 104.8661 cm
+Q
+ 
+endstream
+endobj
+27 0 obj
+<< /Length 6317 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.35561 Tw (The option of being unfailingly polite really doesn't exist. Nobody will trust somebody who is so clearly) Tj T* 0 Tw (hiding his true character.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (3\) People II - the Good Kind) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .724274 Tw (While it turns out that most people are idiots, the corollary to that is sadly that you are one too, and that) Tj T* 0 Tw 1.343876 Tw (while we can all bask in the secure knowledge that we're better than the average person \(let's face it,) Tj T* 0 Tw 1.538651 Tw (nobody ever believes that they're average or below-average\), we should also admit that we're not the) Tj T* 0 Tw (sharpest knife around, and there will be other people that are less of an idiot than you are.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Some people react badly to smart people. Others take advantage of them.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 594.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .537356 Tw (Make sure that you, as a kernel maintainer, are in the second group. Suck up to them, because they are) Tj T* 0 Tw 1.358876 Tw (the people who will make your job easier. In particular, they'll be able to make your decisions for you,) Tj T* 0 Tw (which is what the game is all about.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 528.0236 cm
+q
+BT 1 0 0 1 0 50 Tm 1.287126 Tw 12 TL /F1 10 Tf 0 0 0 rg (So when you find somebody smarter than you are, just coast along. Your management responsibilities) Tj T* 0 Tw .327356 Tw (largely become ones of saying "Sounds like a good idea - go wild", or "That sounds good, but what about) Tj T* 0 Tw .472209 Tw (xxx?". The second version in particular is a great way to either learn something new about "xxx" or seem) Tj T* 0 Tw .626651 Tw /F2 10 Tf (extra ) Tj /F1 10 Tf (managerial by pointing out something the smarter person hadn't thought about. In either case, you) Tj T* 0 Tw (win.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 462.0236 cm
+q
+BT 1 0 0 1 0 50 Tm 1.005251 Tw 12 TL /F1 10 Tf 0 0 0 rg (One thing to look out for is to realize that greatness in one area does not necessarily translate to other) Tj T* 0 Tw .875777 Tw (areas. So you might prod people in specific directions, but let's face it, they might be good at what they) Tj T* 0 Tw .009988 Tw (do, and suck at everything else. The good news is that people tend to naturally gravitate back to what they) Tj T* 0 Tw .029461 Tw (are good at, so it's not like you are doing something irreversible when you ) Tj /F2 10 Tf (do ) Tj /F1 10 Tf (prod them in some direction,) Tj T* 0 Tw (just don't push too hard.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (4\) Placing blame) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 411.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Things will go wrong, and people want somebody to blame. Tag, you're it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.214198 Tw 12 TL /F1 10 Tf 0 0 0 rg (It's not actually that hard to accept the blame, especially if people kind of realize that it wasn't ) Tj /F2 10 Tf (all ) Tj /F1 10 Tf (your) Tj T* 0 Tw .236179 Tw (fault. Which brings us to the best way of taking the blame: do it for another guy. You'll feel good for taking) Tj T* 0 Tw 1.337633 Tw (the fall, he'll feel good about not getting blamed, and the guy who lost his whole 36GB porn-collection) Tj T* 0 Tw (because of your incompetence will grudgingly admit that you at least didn't try to weasel out of it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 315.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .897633 Tw 12 TL /F1 10 Tf 0 0 0 rg (Then make the developer who really screwed up \(if you can find him\) know ) Tj /F2 10 Tf (in_private ) Tj /F1 10 Tf (that he screwed) Tj T* 0 Tw .816353 Tw (up. Not just so he can avoid it in the future, but so that he knows he owes you one. And, perhaps even) Tj T* 0 Tw (more importantly, he's also likely the person who can fix it. Because, let's face it, it sure ain't you.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 273.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .263798 Tw (Taking the blame is also why you get to be manager in the first place. It's part of what makes people trust) Tj T* 0 Tw 1.378935 Tw (you, and allow you the potential glory, because you're the one who gets to say "I screwed up". And if) Tj T* 0 Tw (you've followed the previous rules, you'll be pretty good at saying that by now.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 240.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (5\) Things to avoid) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 198.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.60936 Tw (There's one thing people hate even more than being called "d*ckhead", and that is being called a) Tj T* 0 Tw .463516 Tw ("d*ckhead" in a sanctimonious voice. The first you can apologize for, the second one you won't really get) Tj T* 0 Tw (the chance. They likely will no longer be listening even if you otherwise do a good job.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 156.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .307765 Tw 12 TL /F1 10 Tf 0 0 0 rg (We all think we're better than anybody else, which means that when somebody else puts on airs, it ) Tj /F2 10 Tf (really) Tj T* 0 Tw .228221 Tw /F1 10 Tf (rubs us the wrong way. You may be morally and intellectually superior to everybody around you, but don't) Tj T* 0 Tw (try to make it too obvious unless you really ) Tj /F2 10 Tf (intend ) Tj /F1 10 Tf (to irritate somebody ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (3) Tj /F1 10 Tf 0 0 0 rg 0 Ts (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 114.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .44936 Tw (Similarly, don't be too polite or subtle about things. Politeness easily ends up going overboard and hiding) Tj T* 0 Tw .279461 Tw (the problem, and as they say, "On the internet, nobody can hear you being subtle". Use a big blunt object) Tj T* 0 Tw (to hammer the point in, because you can't really depend on people getting your point otherwise.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+28 0 obj
+<< /Length 3402 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .762927 Tw (Some humor can help pad both the bluntness and the moralizing. Going overboard to the point of being) Tj T* 0 Tw 1.045868 Tw (ridiculous can drive a point home without making it painful to the recipient, who just thinks you're being) Tj T* 0 Tw (silly. It can thus help get through the personal mental block we all have about criticism.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (6\) Why me?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.387633 Tw (Since your main responsibility seems to be to take the blame for other peoples mistakes, and make it) Tj T* 0 Tw .182651 Tw (painfully obvious to everybody else that you're incompetent, the obvious question becomes one of why do) Tj T* 0 Tw (it in the first place?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 600.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .410514 Tw 12 TL /F1 10 Tf 0 0 0 rg (First off, while you may or may not get screaming teenage girls \(or boys, let's not be judgmental or sexist) Tj T* 0 Tw .349984 Tw (here\) knocking on your dressing room door, you ) Tj /F2 10 Tf (will ) Tj /F1 10 Tf (get an immense feeling of personal accomplishment) Tj T* 0 Tw .96332 Tw (for being "in charge". Never mind the fact that you're really leading by trying to keep up with everybody) Tj T* 0 Tw (else and running after them as fast as you can. Everybody will still think you're the person in charge.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (It's a great job if you can hack it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 525.3307 cm
+Q
+q
+1 0 0 1 62.69291 496.9843 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 472.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 12 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.691457 Tw (This document does so not so much by answering the question, but by making it) Tj T* 0 Tw (painfully obvious to the questioner that we don't have a clue to what the answer is.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 436.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 24 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .533876 Tw (Paul Simon sang "Fifty Ways to Leave Your Lover", because quite frankly, "A Million) Tj T* 0 Tw .15315 Tw (Ways to Tell a Developer He Is a D*ckhead" doesn't scan nearly as well. But I'm sure) Tj T* 0 Tw (he thought about it.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 388.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 36 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .541457 Tw (Hint: internet newsgroups that are not directly related to your work are great ways to) Tj T* 0 Tw .096693 Tw (take out your frustrations at other people. Write insulting posts with a sneer just to get) Tj T* 0 Tw .615025 Tw (into a good flame every once in a while, and you'll feel cleansed. Just don't crap too) Tj T* 0 Tw (close to home.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+29 0 obj
+<< /Nums [ 0 30 0 R 1 31 0 R 2 32 0 R 3 33 0 R ] >>
+endobj
+30 0 obj
+<< /S /D /St 1 >>
+endobj
+31 0 obj
+<< /S /D /St 2 >>
+endobj
+32 0 obj
+<< /S /D /St 3 >>
+endobj
+33 0 obj
+<< /S /D /St 4 >>
+endobj
+xref
+0 34
+0000000000 65535 f
+0000000075 00000 n
+0000000129 00000 n
+0000000239 00000 n
+0000000354 00000 n
+0000000525 00000 n
+0000000643 00000 n
+0000000870 00000 n
+0000001041 00000 n
+0000001268 00000 n
+0000001439 00000 n
+0000001667 00000 n
+0000001838 00000 n
+0000002009 00000 n
+0000002181 00000 n
+0000002424 00000 n
+0000002533 00000 n
+0000002773 00000 n
+0000002850 00000 n
+0000002967 00000 n
+0000003094 00000 n
+0000003241 00000 n
+0000003376 00000 n
+0000003513 00000 n
+0000003629 00000 n
+0000003712 00000 n
+0000010760 00000 n
+0000018901 00000 n
+0000025275 00000 n
+0000028734 00000 n
+0000028805 00000 n
+0000028842 00000 n
+0000028879 00000 n
+0000028916 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\021=\267\233F\006\353\024#\307b\201\310\022\253\242) (\021=\267\233F\006\353\024#\307b\201\310\022\253\242)]
+ /Info 16 0 R /Root 15 0 R /Size 34 >>
+startxref
+28953
+%%EOF

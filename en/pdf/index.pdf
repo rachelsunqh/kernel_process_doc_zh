@@ -1,0 +1,97 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+5 0 obj
+<< /Outlines 9 0 R /PageLabels 10 0 R /PageMode /UseNone /Pages 7 0 R /Type /Catalog >>
+endobj
+6 0 obj
+<< /Author () /CreationDate (D:20170628151943-08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Working with the kernel development community) >>
+endobj
+7 0 obj
+<< /Count 1 /Kids [ 4 0 R ] /Type /Pages >>
+endobj
+8 0 obj
+<< /Length 1197 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 1.564882 0 Td (Working with the kernel development community) Tj T* -1.564882 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 695.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .232988 Tw 12 TL /F1 10 Tf 0 0 0 rg (So you want to be a Linux kernel developer? Welcome! While there is a lot to be learned about the kernel) Tj T* 0 Tw 2.724985 Tw (in a technical sense, it is also important to learn about how our community works. Reading these) Tj T* 0 Tw (documents will make it much easier for you to get your changes merged with a minimum of trouble.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 677.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Below are the essential guides that every developer should read.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 659.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Other guides to the community that are of interest to most developers are:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 641.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (These are some overall technical guides that have been put here for now for lack of a better place.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+9 0 obj
+<< /Count 0 /Type /Outlines >>
+endobj
+10 0 obj
+<< /Nums [ 0 11 0 R ] >>
+endobj
+11 0 obj
+<< /S /D /St 1 >>
+endobj
+xref
+0 12
+0000000000 65535 f
+0000000075 00000 n
+0000000119 00000 n
+0000000229 00000 n
+0000000344 00000 n
+0000000551 00000 n
+0000000657 00000 n
+0000000912 00000 n
+0000000974 00000 n
+0000002227 00000 n
+0000002276 00000 n
+0000002320 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\273\274#b\207d=\326\353\255<\001p \342\232) (\273\274#b\207d=\326\353\255<\001p \342\232)]
+ /Info 6 0 R /Root 5 0 R /Size 12 >>
+startxref
+2357
+%%EOF

@@ -1,0 +1,379 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+5 0 obj
+<< /Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+6 0 obj
+<< /Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+7 0 obj
+<< /Outlines 9 0 R /PageLabels 17 0 R /PageMode /UseNone /Pages 13 0 R /Type /Catalog >>
+endobj
+8 0 obj
+<< /Author () /CreationDate (D:20170628151547-08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Followthrough) >>
+endobj
+9 0 obj
+<< /Count 3 /First 10 0 R /Last 12 0 R /Type /Outlines >>
+endobj
+10 0 obj
+<< /Dest [ 4 0 R /XYZ 62.69291 605.0236 0 ] /Next 11 0 R /Parent 9 0 R /Title (Working with reviewers) >>
+endobj
+11 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 537.0236 0 ] /Next 12 0 R /Parent 9 0 R /Prev 10 0 R /Title (What happens next) >>
+endobj
+12 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 537.0236 0 ] /Parent 9 0 R /Prev 11 0 R /Title (Other things that can happen) >>
+endobj
+13 0 obj
+<< /Count 3 /Kids [ 4 0 R 5 0 R 6 0 R ] /Type /Pages >>
+endobj
+14 0 obj
+<< /Length 6839 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 165.5049 0 Td (Followthrough) Tj T* -165.5049 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 683.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .350542 Tw 12 TL /F1 10 Tf 0 0 0 rg (At this point, you have followed the guidelines given so far and, with the addition of your own engineering) Tj T* 0 Tw .464985 Tw (skills, have posted a perfect series of patches. One of the biggest mistakes that even experienced kernel) Tj T* 0 Tw 1.549398 Tw (developers can make is to conclude that their work is now done. In truth, posting patches indicates a) Tj T* 0 Tw (transition into the next stage of the process, with, possibly, quite a bit of work yet to be done.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 617.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.017608 Tw (It is a rare patch which is so good at its first posting that there is no room for improvement. The kernel) Tj T* 0 Tw .386651 Tw (development process recognizes this fact, and, as a result, is heavily oriented toward the improvement of) Tj T* 0 Tw 1.771654 Tw (posted code. You, as the author of that code, will be expected to work with the kernel community to) Tj T* 0 Tw .145251 Tw (ensure that your code is up to the kernel's quality standards. A failure to participate in this process is quite) Tj T* 0 Tw (likely to prevent the inclusion of your patches into the mainline.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 584.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Working with reviewers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 542.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .446654 Tw (A patch of any significance will result in a number of comments from other developers as they review the) Tj T* 0 Tw 2.388651 Tw (code. Working with reviewers can be, for many developers, the most intimidating part of the kernel) Tj T* 0 Tw (development process. Life can be made much easier, though, if you keep a few things in mind:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 536.0236 cm
+Q
+q
+1 0 0 1 62.69291 314.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 216 cm
+Q
+q
+1 0 0 1 20 216 cm
+Q
+q
+1 0 0 1 20 144 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .73186 Tw (If you have explained your patch well, reviewers will understand its value and why you went to) Tj T* 0 Tw .973735 Tw (the trouble of writing it. But that value will not keep them from asking a fundamental question:) Tj T* 0 Tw 1.008084 Tw (what will it be like to maintain a kernel with this code in it five or ten years later? Many of the) Tj T* 0 Tw .976235 Tw (changes you may be asked to make - from coding style tweaks to substantial rewrites - come) Tj T* 0 Tw 1.549269 Tw (from the understanding that Linux will still be around and under development a decade from) Tj T* 0 Tw (now.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 138 cm
+Q
+q
+1 0 0 1 20 66 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 1.632126 Tw (Code review is hard work, and it is a relatively thankless occupation; people remember who) Tj T* 0 Tw .19881 Tw (wrote kernel code, but there is little lasting fame for those who reviewed it. So reviewers can get) Tj T* 0 Tw .965318 Tw (grumpy, especially when they see the same mistakes being made over and over again. If you) Tj T* 0 Tw .336651 Tw (get a review which seems angry, insulting, or outright offensive, resist the impulse to respond in) Tj T* 0 Tw .17311 Tw (kind. Code review is about the code, not about the people, and code reviewers are not attacking) Tj T* 0 Tw (you personally.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .779983 Tw (Similarly, code reviewers are not trying to promote their employers' agendas at the expense of) Tj T* 0 Tw .487485 Tw (your own. Kernel developers often expect to be working on the kernel years from now, but they) Tj T* 0 Tw .60498 Tw (understand that their employer could change. They truly are, almost without exception, working) Tj T* 0 Tw .524104 Tw (toward the creation of the best kernel they can; they are not trying to create discomfort for their) Tj T* 0 Tw (employers' competitors.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 314.0236 cm
+Q
+q
+1 0 0 1 62.69291 248.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .450514 Tw (What all of this comes down to is that, when reviewers send you comments, you need to pay attention to) Tj T* 0 Tw .043876 Tw (the technical observations that they are making. Do not let their form of expression or your own pride keep) Tj T* 0 Tw .959986 Tw (that from happening. When you get review comments on a patch, take the time to understand what the) Tj T* 0 Tw .289988 Tw (reviewer is trying to say. If possible, fix the things that the reviewer is asking you to fix. And respond back) Tj T* 0 Tw (to the reviewer: thank them, and describe how you will answer their questions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 158.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL 1.33832 Tw (Note that you do not have to agree with every change suggested by reviewers. If you believe that the) Tj T* 0 Tw .013516 Tw (reviewer has misunderstood your code, explain what is really going on. If you have a technical objection to) Tj T* 0 Tw .18686 Tw (a suggested change, describe it and justify your solution to the problem. If your explanations make sense,) Tj T* 0 Tw .652126 Tw (the reviewer will accept them. Should your explanation not prove persuasive, though, especially if others) Tj T* 0 Tw 1.503672 Tw (start to agree with the reviewer, take some time to think things over again. It can be easy to become) Tj T* 0 Tw 3.52881 Tw (blinded by your own solution to a problem to the point that you don't realize that something is) Tj T* 0 Tw (fundamentally wrong or, perhaps, you're not even solving the right problem.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 116.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .257485 Tw (Andrew Morton has suggested that every review comment which does not result in a code change should) Tj T* 0 Tw 1.200651 Tw (result in an additional code comment instead; that can help future reviewers avoid the questions which) Tj T* 0 Tw (came up the first time around.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+15 0 obj
+<< /Length 6568 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .290488 Tw (One fatal mistake is to ignore review comments in the hope that they will go away. They will not go away.) Tj T* 0 Tw .244987 Tw (If you repost code without having responded to the comments you got the time before, you're likely to find) Tj T* 0 Tw (that your patches go nowhere.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .536457 Tw (Speaking of reposting code: please bear in mind that reviewers are not going to remember all the details) Tj T* 0 Tw .261488 Tw (of the code you posted the last time around. So it is always a good idea to remind reviewers of previously) Tj T* 0 Tw 2.852209 Tw (raised issues and how you dealt with them; the patch changelog is a good place for this kind of) Tj T* 0 Tw .178555 Tw (information. Reviewers should not have to search through list archives to familiarize themselves with what) Tj T* 0 Tw .086807 Tw (was said last time; if you help them get a running start, they will be in a better mood when they revisit your) Tj T* 0 Tw (code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL 3.317984 Tw (What if you've tried to do everything right and things still aren't going anywhere? Most technical) Tj T* 0 Tw 1.367126 Tw (disagreements can be resolved through discussion, but there are times when somebody simply has to) Tj T* 0 Tw .798221 Tw (make a decision. If you honestly believe that this decision is going against you wrongly, you can always) Tj T* 0 Tw .506654 Tw (try appealing to a higher power. As of this writing, that higher power tends to be Andrew Morton. Andrew) Tj T* 0 Tw .928221 Tw (has a great deal of respect in the kernel development community; he can often unjam a situation which) Tj T* 0 Tw .497485 Tw (seems to be hopelessly blocked. Appealing to Andrew should not be done lightly, though, and not before) Tj T* 0 Tw 1.092209 Tw (all other alternatives have been explored. And bear in mind, of course, that he may not agree with you) Tj T* 0 Tw (either.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 516.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (What happens next) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 450.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .437717 Tw (If a patch is considered to be a good thing to add to the kernel, and once most of the review issues have) Tj T* 0 Tw 1.112485 Tw (been resolved, the next step is usually entry into a subsystem maintainer's tree. How that works varies) Tj T* 0 Tw 1.124431 Tw (from one subsystem to the next; each maintainer has his or her own way of doing things. In particular,) Tj T* 0 Tw 2.16881 Tw (there may be more than one tree - one, perhaps, dedicated to patches planned for the next merge) Tj T* 0 Tw (window, and another for longer-term work.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 408.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.479983 Tw (For patches applying to areas for which there is no obvious subsystem tree \(memory management) Tj T* 0 Tw 3.827126 Tw (patches, for example\), the default tree often ends up being -mm. Patches which affect multiple) Tj T* 0 Tw (subsystems can also end up going through the -mm tree.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 342.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.681751 Tw (Inclusion into a subsystem tree can bring a higher level of visibility to a patch. Now other developers) Tj T* 0 Tw 1.85686 Tw (working with that tree will get the patch by default. Subsystem trees typically feed linux-next as well,) Tj T* 0 Tw 1.77061 Tw (making their contents visible to the development community as a whole. At this point, there's a good) Tj T* 0 Tw 2.20528 Tw (chance that you will get more comments from a new set of reviewers; these comments need to be) Tj T* 0 Tw (answered as in the previous round.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 240.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL 1.30832 Tw (What may also happen at this point, depending on the nature of your patch, is that conflicts with work) Tj T* 0 Tw .596303 Tw (being done by others turn up. In the worst case, heavy patch conflicts can result in some work being put) Tj T* 0 Tw 1.156457 Tw (on the back burner so that the remaining patches can be worked into shape and merged. Other times,) Tj T* 0 Tw 2.029982 Tw (conflict resolution will involve working with the other developers and, possibly, moving some patches) Tj T* 0 Tw 2.86186 Tw (between trees to ensure that everything applies cleanly. This work can be a pain, but count your) Tj T* 0 Tw .811235 Tw (blessings: before the advent of the linux-next tree, these conflicts often only turned up during the merge) Tj T* 0 Tw 1.833876 Tw (window and had to be addressed in a hurry. Now they can be resolved at leisure, before the merge) Tj T* 0 Tw (window opens.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 186.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .137488 Tw (Some day, if all goes well, you'll log on and see that your patch has been merged into the mainline kernel.) Tj T* 0 Tw 1.17229 Tw (Congratulations! Once the celebration is complete \(and you have added yourself to the MAINTAINERS) Tj T* 0 Tw 1.58832 Tw (file\), though, it is worth remembering an important little fact: the job still is not done. Merging into the) Tj T* 0 Tw (mainline brings its own challenges.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 132.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 2.698876 Tw (To begin with, the visibility of your patch has increased yet again. There may be a new round of) Tj T* 0 Tw 1.254692 Tw (comments from developers who had not been aware of the patch before. It may be tempting to ignore) Tj T* 0 Tw 1.019985 Tw (them, since there is no longer any question of your code being merged. Resist that temptation, though;) Tj T* 0 Tw (you still need to be responsive to developers who have questions or suggestions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 78.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .111163 Tw (More importantly, though: inclusion into the mainline puts your code into the hands of a much larger group) Tj T* 0 Tw 2.020542 Tw (of testers. Even if you have contributed a driver for hardware which is not yet available, you will be) Tj T* 0 Tw 1.485868 Tw (surprised by how many people will build your code into their kernels. And, of course, where there are) Tj T* 0 Tw (testers, there will be bug reports.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+16 0 obj
+<< /Length 4735 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 693.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 3.54311 Tw (The worst sort of bug reports are regressions. If your patch causes a regression, you'll find an) Tj T* 0 Tw 1.287045 Tw (uncomfortable number of eyes upon you; regressions need to be fixed as soon as possible. If you are) Tj T* 0 Tw .415542 Tw (unwilling or unable to fix the regression \(and nobody else does it for you\), your patch will almost certainly) Tj T* 0 Tw 1.221163 Tw (be removed during the stabilization period. Beyond negating all of the work you have done to get your) Tj T* 0 Tw .372488 Tw (patch into the mainline, having a patch pulled as the result of a failure to fix a regression could well make) Tj T* 0 Tw (it harder for you to get work merged in the future.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 627.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 3.07061 Tw (After any regressions have been dealt with, there may be other, ordinary bugs to deal with. The) Tj T* 0 Tw 1.926457 Tw (stabilization period is your best opportunity to fix these bugs and ensure that your code's debut in a) Tj T* 0 Tw .507765 Tw (mainline kernel release is as solid as possible. So, please, answer bug reports, and fix the problems if at) Tj T* 0 Tw .751163 Tw (all possible. That's what the stabilization period is for; you can start creating cool new patches once any) Tj T* 0 Tw (problems with the old ones have been taken care of.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 1.56186 Tw (And don't forget that there are other milestones which may also create bug reports: the next mainline) Tj T* 0 Tw 1.608651 Tw (stable release, when prominent distributors pick up a version of the kernel containing your patch, etc.) Tj T* 0 Tw 2.267209 Tw (Continuing to respond to these reports is a matter of basic pride in your work. If that is insufficient) Tj T* 0 Tw 1.466342 Tw (motivation, though, it's also worth considering that the development community remembers developers) Tj T* 0 Tw .499488 Tw (who lose interest in their code after it's merged. The next time you post a patch, they will be evaluating it) Tj T* 0 Tw (with the assumption that you will not be around to maintain it afterward.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 516.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Other things that can happen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 450.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.122619 Tw (One day, you may open your mail client and see that somebody has mailed you a patch to your code.) Tj T* 0 Tw .934274 Tw (That is one of the advantages of having your code out there in the open, after all. If you agree with the) Tj T* 0 Tw .305251 Tw (patch, you can either forward it on to the subsystem maintainer \(be sure to include a proper From: line so) Tj T* 0 Tw .303145 Tw (that the attribution is correct, and add a signoff of your own\), or send an Acked-by: response back and let) Tj T* 0 Tw (the original poster send it upward.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 372.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 1.450574 Tw (If you disagree with the patch, send a polite response explaining why. If possible, tell the author what) Tj T* 0 Tw .536098 Tw (changes need to be made to make the patch acceptable to you. There is a certain resistance to merging) Tj T* 0 Tw .898488 Tw (patches which are opposed by the author and maintainer of the code, but it only goes so far. If you are) Tj T* 0 Tw 1.19436 Tw (seen as needlessly blocking good work, those patches will eventually flow around you and get into the) Tj T* 0 Tw 1.644651 Tw (mainline anyway. In the Linux kernel, nobody has absolute veto power over any code. Except maybe) Tj T* 0 Tw (Linus.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 282.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL .810697 Tw (On very rare occasion, you may see something completely different: another developer posts a different) Tj T* 0 Tw .799988 Tw (solution to your problem. At that point, chances are that one of the two patches will not be merged, and) Tj T* 0 Tw .876235 Tw ("mine was here first" is not considered to be a compelling technical argument. If somebody else's patch) Tj T* 0 Tw .660542 Tw (displaces yours and gets into the mainline, there is really only one way to respond: be pleased that your) Tj T* 0 Tw 1.203876 Tw (problem got solved and get on with your work. Having one's work shoved aside in this manner can be) Tj T* 0 Tw 1.24784 Tw (hurtful and discouraging, but the community will remember your reaction long after they have forgotten) Tj T* 0 Tw (whose patch actually got merged.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+17 0 obj
+<< /Nums [ 0 18 0 R 1 19 0 R 2 20 0 R ] >>
+endobj
+18 0 obj
+<< /S /D /St 1 >>
+endobj
+19 0 obj
+<< /S /D /St 2 >>
+endobj
+20 0 obj
+<< /S /D /St 3 >>
+endobj
+xref
+0 21
+0000000000 65535 f
+0000000075 00000 n
+0000000119 00000 n
+0000000229 00000 n
+0000000344 00000 n
+0000000553 00000 n
+0000000762 00000 n
+0000000971 00000 n
+0000001078 00000 n
+0000001301 00000 n
+0000001377 00000 n
+0000001502 00000 n
+0000001635 00000 n
+0000001766 00000 n
+0000001841 00000 n
+0000008737 00000 n
+0000015362 00000 n
+0000020154 00000 n
+0000020216 00000 n
+0000020253 00000 n
+0000020290 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\025\321[\233\211\014\037-\213&\002QR\203\033\204) (\025\321[\233\211\014\037-\213&\002QR\203\033\204)]
+ /Info 8 0 R /Root 7 0 R /Size 21 >>
+startxref
+20327
+%%EOF

@@ -1,0 +1,798 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 5 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /A << /S /URI /Type /Action /URI (mailto:greg@kroah.com) >> /Border [ 0 0 0 ] /Rect [ 164.6729 701.7736 241.5129 713.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+5 0 obj
+<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /Annots [ 4 0 R ] /Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+7 0 obj
+<< /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+8 0 obj
+<< /Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+9 0 obj
+<< /Outlines 11 0 R /PageLabels 21 0 R /PageMode /UseNone /Pages 17 0 R /Type /Catalog >>
+endobj
+10 0 obj
+<< /Author () /CreationDate (D:20170628152105-08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (The Linux Kernel Driver Interface) >>
+endobj
+11 0 obj
+<< /Count 5 /First 12 0 R /Last 16 0 R /Type /Outlines >>
+endobj
+12 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 504.0236 0 ] /Next 13 0 R /Parent 11 0 R /Title (Executive Summary) >>
+endobj
+13 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 417.0236 0 ] /Next 14 0 R /Parent 11 0 R /Prev 12 0 R /Title (Intro) >>
+endobj
+14 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 246.0236 0 ] /Next 15 0 R /Parent 11 0 R /Prev 13 0 R /Title (Binary Kernel Interface) >>
+endobj
+15 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 537.0236 0 ] /Next 16 0 R /Parent 11 0 R /Prev 14 0 R /Title (Stable Kernel Source Interfaces) >>
+endobj
+16 0 obj
+<< /Dest [ 8 0 R /XYZ 62.69291 717.0236 0 ] /Parent 11 0 R /Prev 15 0 R /Title (What to do) >>
+endobj
+17 0 obj
+<< /Count 3 /Kids [ 6 0 R 7 0 R 8 0 R ] /Type /Pages >>
+endobj
+18 0 obj
+<< /Length 6590 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 77.67488 0 Td (The Linux Kernel Driver Interface) Tj T* -77.67488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 719.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (\(all of your questions answered and then some\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 701.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Greg Kroah-Hartman <) Tj 0 0 .501961 rg (greg@kroah.com) Tj 0 0 0 rg (>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 671.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.008935 Tw 12 TL /F1 10 Tf 0 0 0 rg (This is being written to try to explain why Linux ) Tj /F2 10 Tf (does not have a binary kernel interface, nor does it) Tj T* 0 Tw (have a stable kernel interface) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 659.0236 cm
+Q
+q
+1 0 0 1 62.69291 522.0236 cm
+.960784 .960784 .862745 rg
+n 0 137 469.8898 -137 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 111 Tm  T* ET
+q
+1 0 0 1 16 106 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 70 cm
+q
+BT 1 0 0 1 0 14 Tm 2.09784 Tw 12 TL /F1 10 Tf 0 0 0 rg (Please realize that this article describes the ) Tj /F2 10 Tf (in kernel ) Tj /F1 10 Tf (interfaces, not the kernel to userspace) Tj T* 0 Tw (interfaces.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 38 Tm .946412 Tw 12 TL /F1 10 Tf 0 0 0 rg (The kernel to userspace interface is the one that application programs use, the syscall interface.) Tj T* 0 Tw .287882 Tw (That interface is ) Tj /F2 10 Tf (very ) Tj /F1 10 Tf (stable over time, and will not break. I have old programs that were built on a) Tj T* 0 Tw 1.03686 Tw (pre 0.9something kernel that still work just fine on the latest 2.6 kernel release. That interface is) Tj T* 0 Tw (the one that users and application programmers can count on being stable.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 137 m 469.8898 137 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 137 l S
+n 469.8898 0 m 469.8898 137 l S
+Q
+Q
+q
+1 0 0 1 62.69291 516.0236 cm
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Executive Summary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .469988 Tw (You think you want a stable kernel interface, but you really do not, and you don't even know it. What you) Tj T* 0 Tw .36408 Tw (want is a stable running driver, and you get that only if your driver is in the main kernel tree. You also get) Tj T* 0 Tw .263171 Tw (lots of other good benefits if your driver is in the main kernel tree, all of which has made Linux into such a) Tj T* 0 Tw (strong, stable, and mature operating system which is the reason you are using it in the first place.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 396.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Intro) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.346098 Tw (It's only the odd person who wants to write a kernel driver that needs to worry about the in-kernel) Tj T* 0 Tw .22832 Tw (interfaces changing. For the majority of the world, they neither see this interface, nor do they care about it) Tj T* 0 Tw (at all.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 288.0236 cm
+q
+BT 1 0 0 1 0 50 Tm 1.666235 Tw 12 TL /F1 10 Tf 0 0 0 rg (First off, I'm not going to address ) Tj /F2 10 Tf (any ) Tj /F1 10 Tf (legal issues about closed source, hidden source, binary blobs,) Tj T* 0 Tw 2.029985 Tw (source wrappers, or any other term that describes kernel drivers that do not have their source code) Tj T* 0 Tw .587633 Tw (released under the GPL. Please consult a lawyer if you have any legal questions, I'm a programmer and) Tj T* 0 Tw .29104 Tw (hence, I'm just going to be describing the technical issues here \(not to make light of the legal issues, they) Tj T* 0 Tw (are real, and you do need to be aware of them at all times.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 258.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .04936 Tw (So, there are two main topics here, binary kernel interfaces and stable kernel source interfaces. They both) Tj T* 0 Tw (depend on each other, but we will discuss the binary stuff first to get it out of the way.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 225.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Binary Kernel Interface) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 195.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.05686 Tw (Assuming that we had a stable kernel source interface for the kernel, a binary interface would naturally) Tj T* 0 Tw (happen too, right? Wrong. Please consider the following facts about the Linux kernel:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 189.0236 cm
+Q
+q
+1 0 0 1 62.69291 76.86614 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 112.1575 cm
+Q
+q
+1 0 0 1 20 112.1575 cm
+Q
+q
+1 0 0 1 20 64.15748 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .298651 Tw (Depending on the version of the C compiler you use, different kernel data structures will contain) Tj T* 0 Tw 3.135433 Tw (different alignment of structures, and possibly include different functions in different ways) Tj T* 0 Tw .794597 Tw (\(putting functions inline or not.\) The individual function organization isn't that important, but the) Tj T* 0 Tw (different data structure padding is very important.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 58.15748 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 43.15748 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 31.15748 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.926651 Tw (Depending on what kernel build options you select, a wide range of different things can be) Tj T* 0 Tw (assumed by the kernel:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 25.15748 cm
+Q
+q
+1 0 0 1 23 1.15748 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 18 cm
+Q
+q
+1 0 0 1 20 18 cm
+Q
+q
+1 0 0 1 20 6 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (different structures can contain different fields) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+19 0 obj
+<< /Length 7920 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 681.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 41 Tm  T* ET
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.254597 Tw (Some functions may not be implemented at all, \(i.e. some locks compile away to) Tj T* 0 Tw (nothing for non-SMP builds.\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.78152 Tw (Memory within the kernel can be aligned in different ways, depending on the build) Tj T* 0 Tw (options.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.632651 Tw (Linux runs on a wide range of different processor architectures. There is no way that binary) Tj T* 0 Tw (drivers from one architecture will run on another architecture properly.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL .701751 Tw (Now a number of these issues can be addressed by simply compiling your module for the exact specific) Tj T* 0 Tw .014431 Tw (kernel configuration, using the same exact C compiler that the kernel was built with. This is sufficient if you) Tj T* 0 Tw 1.093516 Tw (want to provide a module for a specific release version of a specific Linux distribution. But multiply that) Tj T* 0 Tw .643984 Tw (single build by the number of different Linux distributions and the number of different supported releases) Tj T* 0 Tw .63811 Tw (of the Linux distribution and you quickly have a nightmare of different build options on different releases.) Tj T* 0 Tw 2.423318 Tw (Also realize that each Linux distribution release contains a number of different kernels, all tuned to) Tj T* 0 Tw .237318 Tw (different hardware types \(different processor types and different options\), so for even a single release you) Tj T* 0 Tw (will need to create multiple versions of your module.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .238626 Tw (Trust me, you will go insane over time if you try to support this kind of release, I learned this the hard way) Tj T* 0 Tw (a long time ago...) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 516.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Stable Kernel Source Interfaces) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 486.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .257816 Tw (This is a much more "volatile" topic if you talk to people who try to keep a Linux kernel driver that is not in) Tj T* 0 Tw (the main kernel tree up to date over time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 408.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .829398 Tw (Linux kernel development is continuous and at a rapid pace, never stopping to slow down. As such, the) Tj T* 0 Tw .917356 Tw (kernel developers find bugs in current interfaces, or figure out a better way to do things. If they do that,) Tj T* 0 Tw 2.618735 Tw (they then fix the current interfaces to work better. When they do so, function names may change,) Tj T* 0 Tw 1.99561 Tw (structures may grow or shrink, and function parameters may be reworked. If this happens, all of the) Tj T* 0 Tw 1.247765 Tw (instances of where this interface is used within the kernel are fixed up at the same time, ensuring that) Tj T* 0 Tw (everything continues to work properly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 366.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.275318 Tw (As a specific examples of this, the in-kernel USB interfaces have undergone at least three different) Tj T* 0 Tw 1.023735 Tw (reworks over the lifetime of this subsystem. These reworks were done to address a number of different) Tj T* 0 Tw (issues:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 360.0236 cm
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 42 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .185984 Tw (A change from a synchronous model of data streams to an asynchronous one. This reduced the) Tj T* 0 Tw .488735 Tw (complexity of a number of drivers and increased the throughput of all USB drivers such that we) Tj T* 0 Tw (are now running almost all USB devices at their maximum speed possible.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .427633 Tw (A change was made in the way data packets were allocated from the USB core by USB drivers) Tj T* 0 Tw .897209 Tw (so that all drivers now needed to provide more information to the USB core to fix a number of) Tj T* 0 Tw (documented deadlocks.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+Q
+q
+1 0 0 1 62.69291 234.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .322765 Tw (This is in stark contrast to a number of closed source operating systems which have had to maintain their) Tj T* 0 Tw 1.19686 Tw (older USB interfaces over time. This provides the ability for new developers to accidentally use the old) Tj T* 0 Tw (interfaces and do things in improper ways, causing the stability of the operating system to suffer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 168.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.122485 Tw (In both of these instances, all developers agreed that these were important changes that needed to be) Tj T* 0 Tw .831567 Tw (made, and they were made, with relatively little pain. If Linux had to ensure that it will preserve a stable) Tj T* 0 Tw .435868 Tw (source interface, a new interface would have been created, and the older, broken one would have had to) Tj T* 0 Tw .014104 Tw (be maintained over time, leading to extra work for the USB developers. Since all Linux USB developers do) Tj T* 0 Tw (their work on their own time, asking programmers to do extra work for no gain, for free, is not a possibility.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 90.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .291488 Tw (Security issues are also very important for Linux. When a security issue is found, it is fixed in a very short) Tj T* 0 Tw .012765 Tw (amount of time. A number of times this has caused internal kernel interfaces to be reworked to prevent the) Tj T* 0 Tw .537485 Tw (security problem from occurring. When this happens, all drivers that use the interfaces were also fixed at) Tj T* 0 Tw .229431 Tw (the same time, ensuring that the security problem was fixed and could not come back at some future time) Tj T* 0 Tw .53561 Tw (accidentally. If the internal interfaces were not allowed to change, fixing this kind of security problem and) Tj T* 0 Tw (insuring that it could not happen again would not be possible.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+20 0 obj
+<< /Length 5203 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .59683 Tw (Kernel interfaces are cleaned up over time. If there is no one using a current interface, it is deleted. This) Tj T* 0 Tw .136654 Tw (ensures that the kernel remains as small as possible, and that all potential interfaces are tested as well as) Tj T* 0 Tw (they can be \(unused interfaces are pretty much impossible to test for validity.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (What to do) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.983988 Tw (So, if you have a Linux kernel driver that is not in the main kernel tree, what are you, a developer,) Tj T* 0 Tw 1.613735 Tw (supposed to do? Releasing a binary driver for every different kernel version for every distribution is a) Tj T* 0 Tw (nightmare, and trying to keep up with an ever changing kernel interface is also a rough job.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+q
+BT 1 0 0 1 0 50 Tm 1.371235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Simple, get your kernel driver into the main kernel tree \(remember we are talking about GPL released) Tj T* 0 Tw .320514 Tw (drivers here, if your code doesn't fall under this category, good luck, you are on your own here, you leech) Tj T* 0 Tw 1.241567 Tw (<) Tj (insert link to leech comment from Andrew and Linus here) Tj (>) Tj (.\) If your driver is in the tree, and a kernel) Tj T* 0 Tw 1.678935 Tw (interface changes, it will be fixed up by the person who did the kernel change in the first place. This) Tj T* 0 Tw (ensures that your driver is always buildable, and works over time, with very little effort on your part.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The very good side effects of having your driver in the main kernel tree are:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+Q
+q
+1 0 0 1 62.69291 432.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 126 cm
+Q
+q
+1 0 0 1 20 126 cm
+Q
+q
+1 0 0 1 20 102 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.523984 Tw (The quality of the driver will rise as the maintenance costs \(to the original developer\) will) Tj T* 0 Tw (decrease.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 96 cm
+Q
+q
+1 0 0 1 20 84 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Other developers will add features to your driver.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 66 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Other people will find and fix bugs in your driver.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 48 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Other people will find tuning opportunities in your driver.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Other people will update the driver for you when external interface changes require it.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .71784 Tw (The driver automatically gets shipped in all Linux distributions without having to ask the distros) Tj T* 0 Tw (to add it.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 432.0236 cm
+Q
+q
+1 0 0 1 62.69291 390.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .673516 Tw (As Linux supports a larger number of different devices "out of the box" than any other operating system,) Tj T* 0 Tw .49284 Tw (and it supports these devices on more different processor architectures than any other operating system,) Tj T* 0 Tw (this proven type of development model must be doing something right :\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 361.6772 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 331.6772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.856905 Tw (Thanks to Randy Dunlap, Andrew Morton, David Brownell, Hanna Linder, Robert Love, and Nishanth) Tj T* 0 Tw (Aravamudan for their review and comments on early drafts of this paper.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+21 0 obj
+<< /Nums [ 0 22 0 R 1 23 0 R 2 24 0 R ] >>
+endobj
+22 0 obj
+<< /S /D /St 1 >>
+endobj
+23 0 obj
+<< /S /D /St 2 >>
+endobj
+24 0 obj
+<< /S /D /St 3 >>
+endobj
+xref
+0 25
+0000000000 65535 f
+0000000075 00000 n
+0000000129 00000 n
+0000000239 00000 n
+0000000354 00000 n
+0000000530 00000 n
+0000000652 00000 n
+0000000879 00000 n
+0000001088 00000 n
+0000001297 00000 n
+0000001405 00000 n
+0000001649 00000 n
+0000001726 00000 n
+0000001847 00000 n
+0000001969 00000 n
+0000002109 00000 n
+0000002257 00000 n
+0000002371 00000 n
+0000002446 00000 n
+0000009093 00000 n
+0000017070 00000 n
+0000022330 00000 n
+0000022392 00000 n
+0000022429 00000 n
+0000022466 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\307[\027\351\251\325-\231\276\034\210va\273\213\203) (\307[\027\351\251\325-\231\276\034\210va\273\213\203)]
+ /Info 10 0 R /Root 9 0 R /Size 25 >>
+startxref
+22503
+%%EOF

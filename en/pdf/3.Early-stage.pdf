@@ -1,0 +1,687 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 6 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /A << /S /URI /Type /Action /URI (http://lwn.net/Articles/131776/) >> /Border [ 0 0 0 ] /Rect [ 66.02291 350.7736 197.2029 362.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+5 0 obj
+<< /Annots [ 4 0 R ] /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+6 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+7 0 obj
+<< /Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+8 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.linuxfoundation.org/en/NDA_program) >> /Border [ 0 0 0 ] /Rect [ 82.69291 243.7736 532.5827 255.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+9 0 obj
+<< /Annots [ 8 0 R ] /Contents 21 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+10 0 obj
+<< /Outlines 12 0 R /PageLabels 22 0 R /PageMode /UseNone /Pages 18 0 R /Type /Catalog >>
+endobj
+11 0 obj
+<< /Author () /CreationDate (D:20170628151512-08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Early-stage planning) >>
+endobj
+12 0 obj
+<< /Count 5 /First 13 0 R /Last 17 0 R /Type /Outlines >>
+endobj
+13 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 671.0236 0 ] /Next 14 0 R /Parent 12 0 R /Title (Specifying the problem) >>
+endobj
+14 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 176.0236 0 ] /Next 15 0 R /Parent 12 0 R /Prev 13 0 R /Title (Early discussion) >>
+endobj
+15 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 357.0236 0 ] /Next 16 0 R /Parent 12 0 R /Prev 14 0 R /Title (Who do you talk to?) >>
+endobj
+16 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 687.0236 0 ] /Next 17 0 R /Parent 12 0 R /Prev 15 0 R /Title (When to post?) >>
+endobj
+17 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 492.0236 0 ] /Parent 12 0 R /Prev 16 0 R /Title (Getting official buy-in) >>
+endobj
+18 0 obj
+<< /Count 3 /Kids [ 5 0 R 7 0 R 9 0 R ] /Type /Pages >>
+endobj
+19 0 obj
+<< /Length 6839 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 136.5849 0 Td (Early-stage planning) Tj T* -136.5849 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 683.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.64686 Tw 12 TL /F1 10 Tf 0 0 0 rg (When contemplating a Linux kernel development project, it can be tempting to jump right in and start) Tj T* 0 Tw .209398 Tw (coding. As with any significant project, though, much of the groundwork for success is best laid before the) Tj T* 0 Tw .416098 Tw (first line of code is written. Some time spent in early planning and communication can save far more time) Tj T* 0 Tw (later on.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 650.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Specifying the problem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 596.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 2.239983 Tw (Like any engineering project, a successful kernel enhancement starts with a clear description of the) Tj T* 0 Tw 1.095488 Tw (problem to be solved. In some cases, this step is easy: when a driver is needed for a specific piece of) Tj T* 0 Tw 1.40311 Tw (hardware, for example. In others, though, it is tempting to confuse the real problem with the proposed) Tj T* 0 Tw (solution, and that can lead to difficulties.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 530.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 2.831984 Tw (Consider an example: some years ago, developers working with Linux audio sought a way to run) Tj T* 0 Tw 1.049269 Tw (applications without dropouts or other artifacts caused by excessive latency in the system. The solution) Tj T* 0 Tw 1.02311 Tw (they arrived at was a kernel module intended to hook into the Linux Security Module \(LSM\) framework;) Tj T* 0 Tw 2.439269 Tw (this module could be configured to give specific applications access to the realtime scheduler. This) Tj T* 0 Tw (module was implemented and sent to the linux-kernel mailing list, where it immediately ran into problems.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 464.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.647318 Tw (To the audio developers, this security module was sufficient to solve their immediate problem. To the) Tj T* 0 Tw .32332 Tw (wider kernel community, though, it was seen as a misuse of the LSM framework \(which is not intended to) Tj T* 0 Tw .086235 Tw (confer privileges onto processes which they would not otherwise have\) and a risk to system stability. Their) Tj T* 0 Tw .97284 Tw (preferred solutions involved realtime scheduling access via the rlimit mechanism for the short term, and) Tj T* 0 Tw (ongoing latency reduction work in the long term.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 410.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.484983 Tw (The audio community, however, could not see past the particular solution they had implemented; they) Tj T* 0 Tw 5.074524 Tw (were unwilling to accept alternatives. The resulting disagreement left those developers feeling) Tj T* 0 Tw 1.854985 Tw (disillusioned with the entire kernel development process; one of them went back to an audio list and) Tj T* 0 Tw (posted this:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 404.0236 cm
+Q
+q
+1 0 0 1 62.69291 368.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .288876 Tw (There are a number of very good Linux kernel developers, but they tend to get outshouted by a large) Tj T* 0 Tw .25936 Tw (crowd of arrogant fools. Trying to communicate user requirements to these people is a waste of time.) Tj T* 0 Tw (They are much too "intelligent" to listen to lesser mortals.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 368.0236 cm
+Q
+q
+1 0 0 1 62.69291 350.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (\() Tj 0 0 .501961 rg (http://lwn.net/Articles/131776/) Tj 0 0 0 rg (\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 296.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.238651 Tw (The reality of the situation was different; the kernel developers were far more concerned about system) Tj T* 0 Tw 2.275318 Tw (stability, long-term maintenance, and finding the right solution to the problem than they were with a) Tj T* 0 Tw .170465 Tw (specific module. The moral of the story is to focus on the problem - not a specific solution - and to discuss) Tj T* 0 Tw (it with the development community before investing in the creation of a body of code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 266.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.385318 Tw (So, when contemplating a kernel development project, one should obtain answers to a short set of) Tj T* 0 Tw (questions:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 260.0236 cm
+Q
+q
+1 0 0 1 62.69291 206.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (What, exactly, is the problem which needs to be solved?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Who are the users affected by this problem? Which use cases should the solution address?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (How does the kernel fall short in addressing that problem now?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 206.0236 cm
+Q
+q
+1 0 0 1 62.69291 188.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Only then does it make sense to start considering possible solutions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 155.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Early discussion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 113.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.549983 Tw (When planning a kernel development project, it makes great sense to hold discussions with the) Tj T* 0 Tw 1.60152 Tw (community before launching into implementation. Early communication can save time and trouble in a) Tj T* 0 Tw (number of ways:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 107.0236 cm
+Q
+q
+1 0 0 1 287.6378 95.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+20 0 obj
+<< /Length 7895 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 633.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 2.748221 Tw (It may well be that the problem is addressed by the kernel in ways which you have not) Tj T* 0 Tw .779318 Tw (understood. The Linux kernel is large and has a number of features and capabilities which are) Tj T* 0 Tw 1.036412 Tw (not immediately obvious. Not all kernel capabilities are documented as well as one might like,) Tj T* 0 Tw 1.930574 Tw (and it is easy to miss things. Your author has seen the posting of a complete driver which) Tj T* 0 Tw 1.191412 Tw (duplicated an existing driver that the new author had been unaware of. Code which reinvents) Tj T* 0 Tw (existing wheels is not only wasteful; it will also not be accepted into the mainline kernel.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.225697 Tw (There may be elements of the proposed solution which will not be acceptable for mainline) Tj T* 0 Tw (merging. It is better to find out about problems like this before writing the code.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .141412 Tw (It's entirely possible that other developers have thought about the problem; they may have ideas) Tj T* 0 Tw (for a better solution, and may be willing to help in the creation of that solution.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+Q
+q
+1 0 0 1 62.69291 567.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.84284 Tw (Years of experience with the kernel development community have taught a clear lesson: kernel code) Tj T* 0 Tw 1.049269 Tw (which is designed and developed behind closed doors invariably has problems which are only revealed) Tj T* 0 Tw .73284 Tw (when the code is released into the community. Sometimes these problems are severe, requiring months) Tj T* 0 Tw .096457 Tw (or years of effort before the code can be brought up to the kernel community's standards. Some examples) Tj T* 0 Tw (include:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+Q
+q
+1 0 0 1 62.69291 399.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 156 cm
+Q
+q
+1 0 0 1 20 156 cm
+Q
+q
+1 0 0 1 20 108 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .107251 Tw (The Devicescape network stack was designed and implemented for single-processor systems. It) Tj T* 0 Tw 1.51284 Tw (could not be merged into the mainline until it was made suitable for multiprocessor systems.) Tj T* 0 Tw 1.211163 Tw (Retrofitting locking and such into code is a difficult task; as a result, the merging of this code) Tj T* 0 Tw (\(now called mac80211\) was delayed for over a year.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 42 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .969213 Tw (The Reiser4 filesystem included a number of capabilities which, in the core kernel developers') Tj T* 0 Tw 1.113828 Tw (opinion, should have been implemented in the virtual filesystem layer instead. It also included) Tj T* 0 Tw 1.624147 Tw (features which could not easily be implemented without exposing the system to user-caused) Tj T* 0 Tw .97436 Tw (deadlocks. The late revelation of these problems - and refusal to address some of them - has) Tj T* 0 Tw (caused Reiser4 to stay out of the mainline kernel.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.074597 Tw (The AppArmor security module made use of internal virtual filesystem data structures in ways) Tj T* 0 Tw 3.893314 Tw (which were considered to be unsafe and unreliable. This concern \(among others\) kept) Tj T* 0 Tw (AppArmor out of the mainline for years.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 399.0236 cm
+Q
+q
+1 0 0 1 62.69291 369.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.268409 Tw (In each of these cases, a great deal of pain and extra work could have been avoided with some early) Tj T* 0 Tw (discussion with the kernel developers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Who do you talk to?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 270.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.582339 Tw (When developers decide to take their plans public, the next question will be: where do we start? The) Tj T* 0 Tw .423672 Tw (answer is to find the right mailing list\(s\) and the right maintainer. For mailing lists, the best approach is to) Tj T* 0 Tw 1.187209 Tw (look in the MAINTAINERS file for a relevant place to post. If there is a suitable subsystem list, posting) Tj T* 0 Tw .397485 Tw (there is often preferable to posting on linux-kernel; you are more likely to reach developers with expertise) Tj T* 0 Tw (in the relevant subsystem and the environment may be more supportive.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 180.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL .229431 Tw (Finding maintainers can be a bit harder. Again, the MAINTAINERS file is the place to start. That file tends) Tj T* 0 Tw .844431 Tw (to not always be up to date, though, and not all subsystems are represented there. The person listed in) Tj T* 0 Tw 1.310542 Tw (the MAINTAINERS file may, in fact, not be the person who is actually acting in that role currently. So,) Tj T* 0 Tw .192262 Tw (when there is doubt about who to contact, a useful trick is to use git \(and "git log" in particular\) to see who) Tj T* 0 Tw .229987 Tw (is currently active within the subsystem of interest. Look at who is writing patches, and who, if anybody, is) Tj T* 0 Tw .011098 Tw (attaching Signed-off-by lines to those patches. Those are the people who will be best placed to help with a) Tj T* 0 Tw (new development project.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 150.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .459318 Tw (The task of finding the right maintainer is sometimes challenging enough that the kernel developers have) Tj T* 0 Tw (added a script to ease the process:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 116.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (.../scripts/get_maintainer.pl) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 84.82362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.226654 Tw (This script will return the current maintainer\(s\) for a given file or directory when given the "-f" option. If) Tj T* 0 Tw .229431 Tw (passed a patch on the command line, it will list the maintainers who should probably receive copies of the) Tj T* 0 Tw ET
+Q
+Q
+ 
+endstream
+endobj
+21 0 obj
+<< /Length 5330 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.009983 Tw (patch. There are a number of options regulating how hard get_maintainer.pl will search for maintainers;) Tj T* 0 Tw .53436 Tw (please be careful about using the more aggressive options as you may end up including developers who) Tj T* 0 Tw (have no real interest in the code you are modifying.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .373488 Tw (If all else fails, talking to Andrew Morton can be an effective way to track down a maintainer for a specific) Tj T* 0 Tw (piece of code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (When to post?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.26436 Tw (If possible, posting your plans during the early stages can only be helpful. Describe the problem being) Tj T* 0 Tw .437045 Tw (solved and any plans that have been made on how the implementation will be done. Any information you) Tj T* 0 Tw (can provide can help the development community provide useful input on the project.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 546.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .875542 Tw (One discouraging thing which can happen at this stage is not a hostile reaction, but, instead, little or no) Tj T* 0 Tw .010465 Tw (reaction at all. The sad truth of the matter is \(1\) kernel developers tend to be busy, \(2\) there is no shortage) Tj T* 0 Tw .621488 Tw (of people with grand plans and little code \(or even prospect of code\) to back them up, and \(3\) nobody is) Tj T* 0 Tw 1.495984 Tw (obligated to review or comment on ideas posted by others. Beyond that, high-level designs often hide) Tj T* 0 Tw 1.725697 Tw (problems which are only reviewed when somebody actually tries to implement those designs; for that) Tj T* 0 Tw (reason, kernel developers would rather see the code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 504.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .407045 Tw (If a request-for-comments posting yields little in the way of comments, do not assume that it means there) Tj T* 0 Tw .699986 Tw (is no interest in the project. Unfortunately, you also cannot assume that there are no problems with your) Tj T* 0 Tw (idea. The best thing to do in this situation is to proceed, keeping the community informed as you go.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Getting official buy-in) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .013488 Tw (If your work is being done in a corporate environment - as most Linux kernel work is - you must, obviously,) Tj T* 0 Tw .675697 Tw (have permission from suitably empowered managers before you can post your company's plans or code) Tj T* 0 Tw 4.132339 Tw (to a public mailing list. The posting of code which has not been cleared for release under a) Tj T* 0 Tw 1.574147 Tw (GPL-compatible license can be especially problematic; the sooner that a company's management and) Tj T* 0 Tw .306457 Tw (legal staff can agree on the posting of a kernel development project, the better off everybody involved will) Tj T* 0 Tw (be.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 339.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .753876 Tw (Some readers may be thinking at this point that their kernel work is intended to support a product which) Tj T* 0 Tw 1.864983 Tw (does not yet have an officially acknowledged existence. Revealing their employer's plans on a public) Tj T* 0 Tw 1.096303 Tw (mailing list may not be a viable option. In cases like this, it is worth considering whether the secrecy is) Tj T* 0 Tw (really necessary; there is often no real need to keep development plans behind closed doors.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 261.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 2.238735 Tw (That said, there are also cases where a company legitimately cannot disclose its plans early in the) Tj T* 0 Tw 2.335814 Tw (development process. Companies with experienced kernel developers may choose to proceed in an) Tj T* 0 Tw .118735 Tw (open-loop manner on the assumption that they will be able to avoid serious integration problems later. For) Tj T* 0 Tw .534692 Tw (companies without that sort of in-house expertise, the best option is often to hire an outside developer to) Tj T* 0 Tw 1.599982 Tw (review the plans under a non-disclosure agreement. The Linux Foundation operates an NDA program) Tj T* 0 Tw (designed to help with this sort of situation; more information can be found at:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 255.0236 cm
+Q
+q
+1 0 0 1 62.69291 243.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.linuxfoundation.org/en/NDA_program) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 243.0236 cm
+Q
+q
+1 0 0 1 62.69291 213.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .641235 Tw (This kind of review is often enough to avoid serious problems later on without requiring public disclosure) Tj T* 0 Tw (of the project.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+22 0 obj
+<< /Nums [ 0 23 0 R 1 24 0 R 2 25 0 R ] >>
+endobj
+23 0 obj
+<< /S /D /St 1 >>
+endobj
+24 0 obj
+<< /S /D /St 2 >>
+endobj
+25 0 obj
+<< /S /D /St 3 >>
+endobj
+xref
+0 26
+0000000000 65535 f
+0000000075 00000 n
+0000000129 00000 n
+0000000239 00000 n
+0000000354 00000 n
+0000000540 00000 n
+0000000767 00000 n
+0000000875 00000 n
+0000001084 00000 n
+0000001284 00000 n
+0000001511 00000 n
+0000001620 00000 n
+0000001851 00000 n
+0000001928 00000 n
+0000002054 00000 n
+0000002187 00000 n
+0000002323 00000 n
+0000002453 00000 n
+0000002580 00000 n
+0000002655 00000 n
+0000009551 00000 n
+0000017503 00000 n
+0000022890 00000 n
+0000022952 00000 n
+0000022989 00000 n
+0000023026 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(_\211\340\031\216\314veI\365X`p\022\206\005) (_\211\340\031\216\314veI\365X`p\022\206\005)]
+ /Info 11 0 R /Root 10 0 R /Size 26 >>
+startxref
+23063
+%%EOF

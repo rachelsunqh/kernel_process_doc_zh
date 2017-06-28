@@ -1,0 +1,3112 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 12 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /A << /S /URI /Type /Action /URI (https://www.gnu.org/licenses/gpl-faq.html) >> /Border [ 0 0 0 ] /Rect [ 82.69291 173.7736 532.5827 185.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+6 0 obj
+<< /Annots [ 5 0 R ] /Contents 64 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 63 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+7 0 obj
+<< /A << /S /URI /Type /Action /URI (mailto:mtk.manpages@gmail.com) >> /Border [ 0 0 0 ] /Rect [ 62.69291 666.7736 183.9829 678.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+8 0 obj
+<< /A << /S /URI /Type /Action /URI (mailto:linux-api@vger.kernel.org) >> /Border [ 0 0 0 ] /Rect [ 257.9029 666.7736 371.9729 678.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+9 0 obj
+<< /A << /S /URI /Type /Action /URI (https://www.ozlabs.org/~akpm/stuff/tpp.txt) >> /Border [ 0 0 0 ] /Rect [ 142.6929 309.7736 532.5827 321.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+10 0 obj
+<< /A << /S /URI /Type /Action /URI (http://linux.yyz.us/patch-format.html) >> /Border [ 0 0 0 ] /Rect [ 142.6929 278.7736 532.5827 290.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+11 0 obj
+<< /Annots [ 7 0 R 8 0 R 9 0 R 10 0 R ] /Contents 65 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 63 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+12 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+13 0 obj
+<< /A << /S /URI /Type /Action /URI (https://kernelnewbies.org) >> /Border [ 0 0 0 ] /Rect [ 82.69291 215.1736 532.5827 227.1736 ] /Subtype /Link /Type /Annot >>
+endobj
+14 0 obj
+<< /Annots [ 13 0 R ] /Contents 66 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 63 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+15 0 obj
+<< /A << /S /URI /Type /Action /URI (https://kernelnewbies.org/KernelJanitors) >> /Border [ 0 0 0 ] /Rect [ 82.69291 753.7736 532.5827 765.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+16 0 obj
+<< /A << /S /URI /Type /Action /URI (https://selenic.com/mailman/listinfo/kernel-mentors) >> /Border [ 0 0 0 ] /Rect [ 82.69291 639.7736 532.5827 651.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+17 0 obj
+<< /A << /S /URI /Type /Action /URI (http://lxr.free-electrons.com/) >> /Border [ 0 0 0 ] /Rect [ 82.69291 543.7736 532.5827 555.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+18 0 obj
+<< /A << /S /URI /Type /Action /URI (https://kernel.org) >> /Border [ 0 0 0 ] /Rect [ 420.8284 336.7736 503.1056 348.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+19 0 obj
+<< /A << /S /URI /Type /Action /URI (https://git-scm.com/) >> /Border [ 0 0 0 ] /Rect [ 424.2336 261.7736 510.9236 273.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+20 0 obj
+<< /Annots [ 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R ] /Contents 67 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 63 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+21 0 obj
+<< /A << /S /URI /Type /Action /URI (mailto:stable@vger.kernel.org) >> /Border [ 0 0 0 ] /Rect [ 259.0274 597.7736 362.5474 609.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+22 0 obj
+<< /A << /S /URI /Type /Action /URI (https://git.kernel.org/) >> /Border [ 0 0 0 ] /Rect [ 210.5429 321.7736 301.1429 333.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+23 0 obj
+<< /A << /S /URI /Type /Action /URI (https://patchwork.kernel.org/) >> /Border [ 0 0 0 ] /Rect [ 304.4629 255.7736 430.0729 267.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+24 0 obj
+<< /A << /S /URI /Type /Action /URI (https://git.kernel.org/?p=linux/kernel/git/next/linux-next.git) >> /Border [ 0 0 0 ] /Rect [ 82.69291 165.7736 532.5827 177.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+25 0 obj
+<< /Annots [ 21 0 R 22 0 R 23 0 R 24 0 R ] /Contents 68 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 63 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+26 0 obj
+<< /A << /S /URI /Type /Action /URI (https://bugzilla.kernel.org) >> /Border [ 0 0 0 ] /Rect [ 62.69291 726.7736 177.4871 738.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+27 0 obj
+<< /A << /S /URI /Type /Action /URI (https://bugzilla.kernel.org/page.cgi?id=faq.html) >> /Border [ 0 0 0 ] /Rect [ 82.69291 696.7736 532.5827 708.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+28 0 obj
+<< /A << /S /URI /Type /Action /URI (https://bugzilla.kernel.org) >> /Border [ 0 0 0 ] /Rect [ 290.3757 537.7736 401.5357 549.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+29 0 obj
+<< /A << /S /URI /Type /Action /URI (https://lists.linux-foundation.org/mailman/listinfo/bugme-new) >> /Border [ 0 0 0 ] /Rect [ 82.69291 495.7736 532.5827 507.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+30 0 obj
+<< /A << /S /URI /Type /Action /URI (https://lists.linux-foundation.org/mailman/listinfo/bugme-janitors) >> /Border [ 0 0 0 ] /Rect [ 82.69291 477.7736 532.5827 489.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+31 0 obj
+<< /A << /S /URI /Type /Action /URI (http://vger.kernel.org/vger-lists.html#linux-kernel) >> /Border [ 0 0 0 ] /Rect [ 82.69291 396.7736 532.5827 408.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+32 0 obj
+<< /A << /S /URI /Type /Action /URI (http://dir.gmane.org/gmane.linux.kernel) >> /Border [ 0 0 0 ] /Rect [ 82.69291 348.7736 532.5827 360.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+33 0 obj
+<< /A << /S /URI /Type /Action /URI (http://vger.kernel.org/vger-lists.html) >> /Border [ 0 0 0 ] /Rect [ 82.69291 252.7736 532.5827 264.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+34 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.albion.com/netiquette/) >> /Border [ 0 0 0 ] /Rect [ 82.69291 204.7736 532.5827 216.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+35 0 obj
+<< /Annots [ 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R ] /Contents 69 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 63 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+36 0 obj
+<< /Contents 70 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 63 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+37 0 obj
+<< /Contents 71 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 63 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+38 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.ozlabs.org/~akpm/stuff/tpp.txt) >> /Border [ 0 0 0 ] /Rect [ 102.6929 276.7736 532.5827 288.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+39 0 obj
+<< /A << /S /URI /Type /Action /URI (https://lwn.net/Articles/94386/) >> /Border [ 0 0 0 ] /Rect [ 398.6327 188.4272 529.2527 200.4272 ] /Subtype /Link /Type /Annot >>
+endobj
+40 0 obj
+<< /A << /S /URI /Type /Action /URI (mailto:greg@kroah.com) >> /Border [ 0 0 0 ] /Rect [ 216.9129 98.42717 293.7529 110.4272 ] /Subtype /Link /Type /Annot >>
+endobj
+41 0 obj
+<< /Annots [ 38 0 R 39 0 R 40 0 R ] /Contents 72 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 63 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+42 0 obj
+<< /Outlines 44 0 R /PageLabels 73 0 R /PageMode /UseNone /Pages 63 0 R /Type /Catalog >>
+endobj
+43 0 obj
+<< /Author () /CreationDate (D:20170628151933-08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (HOWTO do Linux kernel development) >>
+endobj
+44 0 obj
+<< /Count 19 /First 45 0 R /Last 62 0 R /Type /Outlines >>
+endobj
+45 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 641.0236 0 ] /Next 46 0 R /Parent 44 0 R /Title (Introduction) >>
+endobj
+46 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 284.0236 0 ] /Next 47 0 R /Parent 44 0 R /Prev 45 0 R /Title (Legal Issues) >>
+endobj
+47 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 765.0236 0 ] /Next 48 0 R /Parent 44 0 R /Prev 46 0 R /Title (Documentation) >>
+endobj
+48 0 obj
+<< /Dest [ 14 0 R /XYZ 62.69291 283.4236 0 ] /Next 49 0 R /Parent 44 0 R /Prev 47 0 R /Title (Becoming A Kernel Developer) >>
+endobj
+49 0 obj
+<< /Count 5 /Dest [ 20 0 R /XYZ 62.69291 531.0236 0 ] /First 50 0 R /Last 54 0 R /Next 55 0 R /Parent 44 0 R 
+  /Prev 48 0 R /Title (The development process) >>
+endobj
+50 0 obj
+<< /Dest [ 20 0 R /XYZ 62.69291 372.0236 0 ] /Next 51 0 R /Parent 49 0 R /Title (4.x kernel tree) >>
+endobj
+51 0 obj
+<< /Dest [ 25 0 R /XYZ 62.69291 711.0236 0 ] /Next 52 0 R /Parent 49 0 R /Prev 50 0 R /Title (4.x.y -stable kernel tree) >>
+endobj
+52 0 obj
+<< /Dest [ 25 0 R /XYZ 62.69291 531.0236 0 ] /Next 53 0 R /Parent 49 0 R /Prev 51 0 R /Title (4.x -git patches) >>
+endobj
+53 0 obj
+<< /Dest [ 25 0 R /XYZ 62.69291 447.0236 0 ] /Next 54 0 R /Parent 49 0 R /Prev 52 0 R /Title (Subsystem Specific kernel trees and patches) >>
+endobj
+54 0 obj
+<< /Dest [ 25 0 R /XYZ 62.69291 243.0236 0 ] /Parent 49 0 R /Prev 53 0 R /Title (4.x -next kernel tree for integration tests) >>
+endobj
+55 0 obj
+<< /Dest [ 35 0 R /XYZ 62.69291 765.0236 0 ] /Next 56 0 R /Parent 44 0 R /Prev 49 0 R /Title (Bug Reporting) >>
+endobj
+56 0 obj
+<< /Dest [ 35 0 R /XYZ 62.69291 642.0236 0 ] /Next 57 0 R /Parent 44 0 R /Prev 55 0 R /Title (Managing bug reports) >>
+endobj
+57 0 obj
+<< /Dest [ 35 0 R /XYZ 62.69291 465.0236 0 ] /Next 58 0 R /Parent 44 0 R /Prev 56 0 R /Title (Mailing lists) >>
+endobj
+58 0 obj
+<< /Dest [ 36 0 R /XYZ 62.69291 687.0236 0 ] /Next 59 0 R /Parent 44 0 R /Prev 57 0 R /Title (Working with the community) >>
+endobj
+59 0 obj
+<< /Dest [ 36 0 R /XYZ 62.69291 270.0236 0 ] /Next 60 0 R /Parent 44 0 R /Prev 58 0 R /Title (Differences between the kernel community and corporate structures) >>
+endobj
+60 0 obj
+<< /Dest [ 37 0 R /XYZ 62.69291 327.0236 0 ] /Next 61 0 R /Parent 44 0 R /Prev 59 0 R /Title (Break up your changes) >>
+endobj
+61 0 obj
+<< /Dest [ 41 0 R /XYZ 62.69291 531.0236 0 ] /Next 62 0 R /Parent 44 0 R /Prev 60 0 R /Title (Justify your change) >>
+endobj
+62 0 obj
+<< /Dest [ 41 0 R /XYZ 62.69291 468.0236 0 ] /Parent 44 0 R /Prev 61 0 R /Title (Document your change) >>
+endobj
+63 0 obj
+<< /Count 9 /Kids [ 6 0 R 11 0 R 14 0 R 20 0 R 25 0 R 35 0 R 36 0 R 37 0 R 41 0 R ] /Type /Pages >>
+endobj
+64 0 obj
+<< /Length 6308 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 55.46488 0 Td (HOWTO do Linux kernel development) Tj T* -55.46488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 683.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .259987 Tw 12 TL /F1 10 Tf 0 0 0 rg (This is the be-all, end-all document on this topic. It contains instructions on how to become a Linux kernel) Tj T* 0 Tw .798221 Tw (developer and how to learn to work with the Linux kernel development community. It tries to not contain) Tj T* 0 Tw 2.376235 Tw (anything related to the technical aspects of kernel programming, but will help point you in the right) Tj T* 0 Tw (direction for that.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 653.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .039461 Tw (If anything in this document becomes out of date, please send in patches to the maintainer of this file, who) Tj T* 0 Tw (is listed at the bottom of the document.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 620.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 566.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .332619 Tw (So, you want to learn how to become a Linux kernel developer? Or you have been told by your manager,) Tj T* 0 Tw .064724 Tw ("Go write a Linux driver for this device." This document's goal is to teach you everything you need to know) Tj T* 0 Tw 1.619461 Tw (to achieve this by describing the process you need to go through, and hints on how to work with the) Tj T* 0 Tw (community. It will also try to explain some of the reasons why the community works like it does.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 512.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.463318 Tw (The kernel is written mostly in C, with some architecture-dependent parts written in assembly. A good) Tj T* 0 Tw .296412 Tw (understanding of C is required for kernel development. Assembly \(any architecture\) is not required unless) Tj T* 0 Tw 1.155868 Tw (you plan to do low-level development for that architecture. Though they are not a good substitute for a) Tj T* 0 Tw (solid C education and/or years of experience, the following books are good for, if anything, reference:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 506.0236 cm
+Q
+q
+1 0 0 1 62.69291 452.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("The C Programming Language" by Kernighan and Ritchie [Prentice Hall]) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("Practical C Programming" by Steve Oualline [O'Reilly]) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("C: A Reference Manual" by Harbison and Steele [Prentice Hall]) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 452.0236 cm
+Q
+q
+1 0 0 1 62.69291 362.0236 cm
+q
+BT 1 0 0 1 0 74 Tm .861567 Tw 12 TL /F1 10 Tf 0 0 0 rg (The kernel is written using GNU C and the GNU toolchain. While it adheres to the ISO C89 standard, it) Tj T* 0 Tw 2.431163 Tw (uses a number of extensions that are not featured in the standard. The kernel is a freestanding C) Tj T* 0 Tw 1.909986 Tw (environment, with no reliance on the standard C library, so some portions of the C standard are not) Tj T* 0 Tw .50061 Tw (supported. Arbitrary long long divisions and floating point are not allowed. It can sometimes be difficult to) Tj T* 0 Tw 3.013318 Tw (understand the assumptions the kernel has on the toolchain and the extensions that it uses, and) Tj T* 0 Tw .07881 Tw (unfortunately there is no definitive reference for them. Please check the gcc info pages \() Tj /F3 10 Tf 0 0 0 rg (info gcc) Tj /F1 10 Tf 0 0 0 rg (\) for some) Tj T* 0 Tw (information on them.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 296.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .076098 Tw (Please remember that you are trying to learn how to work with the existing development community. It is a) Tj T* 0 Tw .272651 Tw (diverse group of people, with high standards for coding, style and procedure. These standards have been) Tj T* 0 Tw 2.104692 Tw (created over time based on what they have found to work best for such a large and geographically) Tj T* 0 Tw .661098 Tw (dispersed team. Try to learn as much as possible about these standards ahead of time, as they are well) Tj T* 0 Tw (documented; do not expect people to adapt to you or your company's way of doing things.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 263.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Legal Issues) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 209.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.549986 Tw (The Linux kernel source code is released under the GPL. Please see the file, COPYING, in the main) Tj T* 0 Tw 1.450574 Tw (directory of the source tree, for details on the license. If you have further questions about the license,) Tj T* 0 Tw .889461 Tw (please contact a lawyer, and do not ask on the Linux kernel mailing list. The people on the mailing lists) Tj T* 0 Tw (are not lawyers, and you should not rely on their statements on legal matters.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 191.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (For common questions and answers about the GPL, please see:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 185.0236 cm
+Q
+q
+1 0 0 1 62.69291 173.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://www.gnu.org/licenses/gpl-faq.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 173.0236 cm
+Q
+ 
+endstream
+endobj
+65 0 obj
+<< /Length 8673 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Documentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+BT 1 0 0 1 0 62 Tm 1.778221 Tw 12 TL /F1 10 Tf 0 0 0 rg (The Linux kernel source tree has a large range of documents that are invaluable for learning how to) Tj T* 0 Tw .91811 Tw (interact with the kernel community. When new features are added to the kernel, it is recommended that) Tj T* 0 Tw 1.47186 Tw (new documentation files are also added which explain how to use the feature. When a kernel change) Tj T* 0 Tw .044104 Tw (causes the interface that the kernel exposes to userspace to change, it is recommended that you send the) Tj T* 0 Tw 1.609985 Tw (information or a patch to the manual pages explaining the change to the manual pages maintainer at) Tj T* 0 Tw 0 0 .501961 rg (mtk.manpages@gmail.com) Tj 0 0 0 rg (, and CC the list ) Tj 0 0 .501961 rg (linux-api@vger.kernel.org) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Here is a list of files that are in the kernel source tree that are required reading:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+Q
+q
+1 0 0 1 62.69291 86.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 544 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (README) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 517 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .602927 Tw (This file gives a short background on the Linux kernel and describes what is necessary to do to) Tj T* 0 Tw (configure and build the kernel. People who are new to the kernel should start here.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 501 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 1 0 0 rg (:ref:`Documentation/process/changes.rst <) Tj (changes) Tj (>) Tj (`) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 474 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 14 Tm 1.12936 Tw 12 TL /F1 10 Tf 0 0 0 rg (This file gives a list of the minimum levels of various software packages that are necessary to) Tj T* 0 Tw (build and run the kernel successfully.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 458 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 1 0 0 rg (:ref:`Documentation/process/coding-style.rst <) Tj (codingstyle) Tj (>) Tj (`) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 419 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 26 Tm .30881 Tw 12 TL /F1 10 Tf 0 0 0 rg (This describes the Linux kernel coding style, and some of the rationale behind it. All new code is) Tj T* 0 Tw .892126 Tw (expected to follow the guidelines in this document. Most maintainers will only accept patches if) Tj T* 0 Tw (these rules are followed, and many people will only review code if it is in the proper style.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 391 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F2 10 Tf 1 0 0 rg (:ref:`Documentation/process/submitting-patches.rst <) Tj (submittingpatches) Tj (>) Tj (` ) Tj 0 0 0 rg (and) Tj T* 1 0 0 rg (:ref:`Documentation/process/submitting-drivers.rst <) Tj (submittingdrivers) Tj (>) Tj (`) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 192 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 186 Tm  T* ET
+q
+1 0 0 1 20 172 cm
+q
+BT 1 0 0 1 0 14 Tm .424651 Tw 12 TL /F1 10 Tf 0 0 0 rg (These files describe in explicit detail how to successfully create and send a patch, including \(but) Tj T* 0 Tw (not limited to\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 166 cm
+Q
+q
+1 0 0 1 20 112 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Email contents) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Email format) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Who to send it to) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 112 cm
+Q
+q
+1 0 0 1 20 82 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.441412 Tw (Following these rules will not guarantee success \(as all patches are subject to scrutiny for) Tj T* 0 Tw (content and style\), but not following them will almost always prevent it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Other excellent descriptions of how to create patches properly are:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 58 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 46 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL ("The Perfect Patch") Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 31 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://www.ozlabs.org/~akpm/stuff/tpp.txt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL ("Linux kernel patch submission format") Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://linux.yyz.us/patch-format.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 176 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 1 0 0 rg (:ref:`Documentation/process/stable-api-nonsense.rst <) Tj (stable_api_nonsense) Tj (>) Tj (`) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 59 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 104 Tm  T* ET
+q
+1 0 0 1 20 90 cm
+q
+BT 1 0 0 1 0 14 Tm .118735 Tw 12 TL /F1 10 Tf 0 0 0 rg (This file describes the rationale behind the conscious decision to not have a stable API within the) Tj T* 0 Tw (kernel, including things like:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Subsystem shim-layers \(for compatibility?\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Driver portability between Operating Systems.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Mitigating rapid change within the kernel source tree \(or preventing rapid change\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.078314 Tw (This document is crucial for understanding the Linux development philosophy and is very) Tj T* 0 Tw (important for people moving to Linux from development on other Operating Systems.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 43 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 1 0 0 rg (:ref:`Documentation/admin-guide/security-bugs.rst <) Tj (securitybugs) Tj (>) Tj (`) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 16 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 14 Tm .630542 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you feel you have found a security problem in the Linux kernel, please follow the steps in this) Tj T* 0 Tw (document to help notify the kernel developers, and help solve the issue.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 1 0 0 rg (:ref:`Documentation/process/management-style.rst <) Tj (managementstyle) Tj (>) Tj (`) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+66 0 obj
+<< /Length 6477 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 585.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 129 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 38 Tm 1.68748 Tw 12 TL /F1 10 Tf 0 0 0 rg (This document describes how Linux kernel maintainers operate and the shared ethos behind) Tj T* 0 Tw .36152 Tw (their methodologies. This is important reading for anyone new to kernel development \(or anyone) Tj T* 0 Tw .573318 Tw (simply curious about it\), as it resolves a lot of common misconceptions and confusion about the) Tj T* 0 Tw (unique behavior of kernel maintainers.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 113 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 1 0 0 rg (:ref:`Documentation/process/stable-kernel-rules.rst <) Tj (stable_kernel_rules) Tj (>) Tj (`) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 86 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 14 Tm 1.354104 Tw 12 TL /F1 10 Tf 0 0 0 rg (This file describes the rules on how the stable kernel releases happen, and what to do if you) Tj T* 0 Tw (want to get a change into one of these releases.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 70 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 1 0 0 rg (:ref:`Documentation/process/kernel-docs.rst <) Tj (kernel_docs) Tj (>) Tj (`) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 43 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 14 Tm .053318 Tw 12 TL /F1 10 Tf 0 0 0 rg (A list of external documentation that pertains to kernel development. Please consult this list if you) Tj T* 0 Tw (do not find what you are looking for within the in-kernel documentation.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 27 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 1 0 0 rg (:ref:`Documentation/process/applying-patches.rst <) Tj (applying_patches) Tj (>) Tj (`) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 14 Tm 2.44561 Tw 12 TL /F1 10 Tf 0 0 0 rg (A good introduction describing exactly what a patch is and how to apply it to the different) Tj T* 0 Tw (development branches of the kernel.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 585.0236 cm
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.021235 Tw (The kernel also has a large number of documents that can be automatically generated from the source) Tj T* 0 Tw .503735 Tw (code itself or from ReStructuredText markups \(ReST\), like this one. This includes a full description of the) Tj T* 0 Tw (in-kernel API, and rules on how to handle locking properly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 525.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (All such documents can be generated as PDF or HTML by running:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 479.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL (make pdfdocs) Tj T* (make htmldocs) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 459.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (respectively from the main kernel source directory.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 429.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.524269 Tw (The documents that uses ReST markup will be generated at Documentation/output. They can also be) Tj T* 0 Tw (generated on LaTeX and ePub formats with:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 384.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL (make latexdocs) Tj T* (make epubdocs) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 340.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .571235 Tw (Currently, there are some documents written on DocBook that are in the process of conversion to ReST.) Tj T* 0 Tw .690697 Tw (Such documents will be created in the Documentation/DocBook/ directory and can be generated also as) Tj T* 0 Tw (Postscript or man pages by running:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 295.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL (make psdocs) Tj T* (make mandocs) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 262.4236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Becoming A Kernel Developer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 232.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .25561 Tw (If you do not know anything about Linux kernel development, you should look at the Linux KernelNewbies) Tj T* 0 Tw (project:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 226.4236 cm
+Q
+q
+1 0 0 1 62.69291 214.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://kernelnewbies.org) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 214.4236 cm
+Q
+q
+1 0 0 1 62.69291 160.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 2.237633 Tw (It consists of a helpful mailing list where you can ask almost any type of basic kernel development) Tj T* 0 Tw .015318 Tw (question \(make sure to search the archives first, before asking something that has already been answered) Tj T* 0 Tw .312262 Tw (in the past.\) It also has an IRC channel that you can use to ask questions in real-time, and a lot of helpful) Tj T* 0 Tw (documentation that is useful for learning about Linux kernel development.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 118.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .018443 Tw (The website has basic information about code organization, subsystems, and current projects \(both in-tree) Tj T* 0 Tw .12061 Tw (and out-of-tree\). It also describes some basic logistical information, like how to compile a kernel and apply) Tj T* 0 Tw (a patch.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 88.42362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .709555 Tw (If you do not know where you want to start, but you want to look for some task to start doing to join into) Tj T* 0 Tw (the kernel development community, go to the Linux Kernel Janitor's project:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 82.42362 cm
+Q
+ 
+endstream
+endobj
+67 0 obj
+<< /Length 8402 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://kernelnewbies.org/KernelJanitors) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 753.0236 cm
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .513322 Tw (It is a great place to start. It describes a list of relatively simple problems that need to be cleaned up and) Tj T* 0 Tw 1.094104 Tw (fixed within the Linux kernel source tree. Working with the developers in charge of this project, you will) Tj T* 0 Tw .244198 Tw (learn the basics of getting your patch into the Linux kernel tree, and possibly be pointed in the direction of) Tj T* 0 Tw (what to go work on next, if you do not already have an idea.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .108626 Tw (If you already have a chunk of code that you want to put into the kernel tree, but need some help getting it) Tj T* 0 Tw .206988 Tw (in the proper form, the kernel-mentors project was created to help you out with this. It is a mailing list, and) Tj T* 0 Tw (can be found at:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://selenic.com/mailman/listinfo/kernel-mentors) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .98686 Tw (Before making any actual modifications to the Linux kernel code, it is imperative to understand how the) Tj T* 0 Tw .243516 Tw (code in question works. For this purpose, nothing is better than reading through it directly \(most tricky bits) Tj T* 0 Tw 1.057485 Tw (are commented well\), perhaps even with the help of specialized tools. One such tool that is particularly) Tj T* 0 Tw 3.948555 Tw (recommended is the Linux Cross-Reference project, which is able to present source code in a) Tj T* 0 Tw 1.428443 Tw (self-referential, indexed webpage format. An excellent up-to-date repository of the kernel code may be) Tj T* 0 Tw (found at:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://lxr.free-electrons.com/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (The development process) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 480.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .469318 Tw (Linux kernel development process currently consists of a few different main kernel "branches" and lots of) Tj T* 0 Tw (different subsystem-specific kernel branches. These different branches are:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 474.0236 cm
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (main 4.x kernel tree) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4.x.y -stable kernel tree) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4.x -git kernel patches) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (subsystem specific kernel trees and patches) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (the 4.x -next kernel tree for integration tests) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (4.x kernel tree) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 324.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 5.017126 Tw 12 TL /F1 10 Tf 0 0 0 rg (4.x kernels are maintained by Linus Torvalds, and can be found on ) Tj 0 0 .501961 rg (https://kernel.org ) Tj 0 0 0 rg (in the) Tj T* 0 Tw (pub/linux/kernel/v4.x/ directory. Its development process is as follows:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+Q
+q
+1 0 0 1 62.69291 90.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 222 cm
+Q
+q
+1 0 0 1 20 222 cm
+Q
+q
+1 0 0 1 20 162 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 50 Tm 1.26832 Tw 12 TL /F1 10 Tf 0 0 0 rg (As soon as a new kernel is released a two weeks window is open, during this period of time) Tj T* 0 Tw .185984 Tw (maintainers can submit big diffs to Linus, usually the patches that have already been included in) Tj T* 0 Tw 1.702339 Tw (the -next kernel for a few weeks. The preferred way to submit big changes is using git \(the) Tj T* 0 Tw 1.649069 Tw (kernel's source management tool, more information can be found at ) Tj 0 0 .501961 rg (https://git-scm.com/) Tj 0 0 0 rg (\) but) Tj T* 0 Tw (plain patches are also just fine.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 156 cm
+Q
+q
+1 0 0 1 20 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL 1.237765 Tw (After two weeks a -rc1 kernel is released and the focus is on making the new kernel as rock) Tj T* 0 Tw 1.98061 Tw (solid as possible. Most of the patches at this point should fix a regression. Bugs that have) Tj T* 0 Tw 2.003318 Tw (always existed are not regressions, so only push these kinds of fixes if they are important.) Tj T* 0 Tw .632651 Tw (Please note that a whole new driver \(or filesystem\) might be accepted after -rc1 because there) Tj T* 0 Tw .066457 Tw (is no risk of causing regressions with such a change as long as the change is self-contained and) Tj T* 0 Tw .055777 Tw (does not affect areas outside of the code that is being added. git can be used to send patches to) Tj T* 0 Tw 1.66832 Tw (Linus after -rc1 is released, but the patches need to also be sent to a public mailing list for) Tj T* 0 Tw (review.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.407633 Tw (A new -rc is released whenever Linus deems the current git tree to be in a reasonably sane) Tj T* 0 Tw (state adequate for testing. The goal is to release a new -rc kernel every week.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.363059 Tw (Process continues until the kernel is considered "ready", the process should last around 6) Tj T* 0 Tw (weeks.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 90.02362 cm
+Q
+ 
+endstream
+endobj
+68 0 obj
+<< /Length 6165 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (It is worth mentioning what Andrew Morton wrote on the linux-kernel mailing list about kernel releases:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 747.0236 cm
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F3 10 Tf 12 TL 1.57284 Tw ("Nobody knows when a kernel will be released, because it's released according to perceived bug) Tj T* 0 Tw (status, not according to a preconceived timeline.") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (4.x.y -stable kernel tree) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .316651 Tw (Kernels with 3-part versions are -stable kernels. They contain relatively small and critical fixes for security) Tj T* 0 Tw (problems or significant regressions discovered in a given 4.x kernel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .373516 Tw (This is the recommended branch for users who want the most recent stable kernel and are not interested) Tj T* 0 Tw (in helping test development/experimental versions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If no 4.x.y kernel is available, then the highest numbered 4.x kernel is the current stable kernel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .869213 Tw 12 TL /F1 10 Tf 0 0 0 rg (4.x.y are maintained by the "stable" team <) Tj 0 0 .501961 rg (stable@vger.kernel.org) Tj 0 0 0 rg (>) Tj (, and are released as needs dictate.) Tj T* 0 Tw 1.943516 Tw (The normal release period is approximately two weeks, but it can be longer if there are no pressing) Tj T* 0 Tw (problems. A security-related problem, instead, can cause a release to happen almost instantly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.027976 Tw (The file Documentation/process/stable-kernel-rules.rst in the kernel tree documents what kinds of) Tj T* 0 Tw (changes are acceptable for the -stable tree, and how the release process works.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (4.x -git patches) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .620574 Tw (These are daily snapshots of Linus' kernel tree which are managed in a git repository \(hence the name.\)) Tj T* 0 Tw 1.179985 Tw (These patches are usually released daily and represent the current state of Linus' tree. They are more) Tj T* 0 Tw .127318 Tw (experimental than -rc kernels since they are generated automatically without even a cursory glance to see) Tj T* 0 Tw (if they are sane.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Subsystem Specific kernel trees and patches) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.72784 Tw (The maintainers of the various kernel subsystems --- and also many kernel subsystem developers ---) Tj T* 0 Tw 2.461318 Tw (expose their current state of development in source repositories. That way, others can see what is) Tj T* 0 Tw .665868 Tw (happening in the different areas of the kernel. In areas where development is rapid, a developer may be) Tj T* 0 Tw 3.349984 Tw (asked to base his submissions onto such a subsystem kernel tree so that conflicts between the) Tj T* 0 Tw (submission and other already ongoing work are avoided.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 321.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.494431 Tw 12 TL /F1 10 Tf 0 0 0 rg (Most of these repositories are git trees, but there are also other SCMs in use, or patch queues being) Tj T* 0 Tw .495697 Tw (published as quilt series. Addresses of these subsystem repositories are listed in the MAINTAINERS file.) Tj T* 0 Tw (Many of them can be browsed at ) Tj 0 0 .501961 rg (https://git.kernel.org/) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 255.0236 cm
+q
+BT 1 0 0 1 0 50 Tm 1.225868 Tw 12 TL /F1 10 Tf 0 0 0 rg (Before a proposed patch is committed to such a subsystem tree, it is subject to review which primarily) Tj T* 0 Tw 1.092126 Tw (happens on mailing lists \(see the respective section below\). For several kernel subsystems, this review) Tj T* 0 Tw .313318 Tw (process is tracked with the tool patchwork. Patchwork offers a web interface which shows patch postings,) Tj T* 0 Tw .112339 Tw (any comments on a patch or revisions to it, and maintainers can mark patches as under review, accepted,) Tj T* 0 Tw (or rejected. Most of these patchwork sites are listed at ) Tj 0 0 .501961 rg (https://patchwork.kernel.org/) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 225.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (4.x -next kernel tree for integration tests) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 183.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 4.238651 Tw (Before updates from subsystem trees are merged into the mainline 4.x tree, they need to be) Tj T* 0 Tw 1.175366 Tw (integration-tested. For this purpose, a special testing repository exists into which virtually all subsystem) Tj T* 0 Tw (trees are pulled on an almost daily basis:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 177.0236 cm
+Q
+q
+1 0 0 1 62.69291 165.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://git.kernel.org/?p=linux/kernel/git/next/linux-next.git) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 165.0236 cm
+Q
+q
+1 0 0 1 62.69291 135.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.217765 Tw (This way, the -next kernel gives a summary outlook onto what will be expected to go into the mainline) Tj T* 0 Tw (kernel at the next merge period. Adventurous testers are very welcome to runtime-test the -next kernel.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+69 0 obj
+<< /Length 7386 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Bug Reporting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .854147 Tw 12 TL /F1 10 Tf 0 0 .501961 rg (https://bugzilla.kernel.org ) Tj 0 0 0 rg (is where the Linux kernel developers track kernel bugs. Users are encouraged) Tj T* 0 Tw (to report all bugs that they find in this tool. For details on how to use the kernel bugzilla, please see:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://bugzilla.kernel.org/page.cgi?id=faq.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .164651 Tw (The file admin-guide/reporting-bugs.rst in the main kernel source directory has a good template for how to) Tj T* 0 Tw .89528 Tw (report a possible kernel bug, and details what kind of information is needed by the kernel developers to) Tj T* 0 Tw (help track down the problem.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Managing bug reports) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .038988 Tw (One of the best ways to put into practice your hacking skills is by fixing bugs reported by other people. Not) Tj T* 0 Tw 1.698409 Tw (only you will help to make the kernel more stable, you'll learn to fix real world problems and you will) Tj T* 0 Tw .816654 Tw (improve your skills, and other developers will be aware of your presence. Fixing bugs is one of the best) Tj T* 0 Tw 2.053984 Tw (ways to get merits among other developers, because not many people like wasting time fixing other) Tj T* 0 Tw (people's bugs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .53528 Tw 12 TL /F1 10 Tf 0 0 0 rg (To work in the already reported bug reports, go to ) Tj 0 0 .501961 rg (https://bugzilla.kernel.org) Tj 0 0 0 rg (. If you want to be advised of) Tj T* 0 Tw .439398 Tw (the future bug reports, you can subscribe to the bugme-new mailing list \(only new bug reports are mailed) Tj T* 0 Tw (here\) or to the bugme-janitor mailing list \(every change in the bugzilla is mailed here\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 507.0236 cm
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 18 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://lists.linux-foundation.org/mailman/listinfo/bugme-new) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://lists.linux-foundation.org/mailman/listinfo/bugme-janitors) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Mailing lists) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 414.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .77811 Tw (As some of the above documents describe, the majority of the core kernel developers participate on the) Tj T* 0 Tw (Linux Kernel Mailing list. Details on how to subscribe and unsubscribe from the list can be found at:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 408.0236 cm
+Q
+q
+1 0 0 1 62.69291 396.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://vger.kernel.org/vger-lists.html#linux-kernel) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 396.0236 cm
+Q
+q
+1 0 0 1 62.69291 366.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.153145 Tw (There are archives of the mailing list on the web in many different places. Use a search engine to find) Tj T* 0 Tw (these archives. For example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 360.0236 cm
+Q
+q
+1 0 0 1 62.69291 348.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://dir.gmane.org/gmane.linux.kernel) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 348.0236 cm
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .937765 Tw (It is highly recommended that you search the archives about the topic you want to bring up, before you) Tj T* 0 Tw (post it to the list. A lot of things already discussed in detail are only recorded at the mailing list archives.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 288.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.40561 Tw (Most of the individual kernel subsystems also have their own separate mailing list where they do their) Tj T* 0 Tw (development efforts. See the MAINTAINERS file for a list of what these lists are for the different groups.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 270.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Many of the lists are hosted on kernel.org. Information on them can be found at:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 264.0236 cm
+Q
+q
+1 0 0 1 62.69291 252.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://vger.kernel.org/vger-lists.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 252.0236 cm
+Q
+q
+1 0 0 1 62.69291 222.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .083735 Tw (Please remember to follow good behavioral habits when using the lists. Though a bit cheesy, the following) Tj T* 0 Tw (URL has some simple guidelines for interacting with the list \(or any list\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 216.0236 cm
+Q
+q
+1 0 0 1 62.69291 204.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.albion.com/netiquette/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 204.0236 cm
+Q
+q
+1 0 0 1 62.69291 150.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.99528 Tw (If multiple people respond to your mail, the CC: list of recipients may get pretty large. Don't remove) Tj T* 0 Tw 1.783145 Tw (anybody from the CC: list without a good reason, or don't reply only to the list address. Get used to) Tj T* 0 Tw .103798 Tw (receiving the mail twice, one from the sender and the one from the list, and don't try to tune that by adding) Tj T* 0 Tw (fancy mail-headers, people will not like it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 108.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.629984 Tw (Remember to keep the context and the attribution of your replies intact, keep the "John Kernelhacker) Tj T* 0 Tw .718221 Tw (wrote ...:" lines at the top of your reply, and add your statements between the individual quoted sections) Tj T* 0 Tw (instead of writing at the top of the mail.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 78.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 6.50936 Tw (If you add patches to your mail, make sure they are plain readable text as stated in) Tj T* 0 Tw .864418 Tw (Documentation/process/submitting-patches.rst. Kernel developers don't want to deal with attachments or) Tj T* 0 Tw ET
+Q
+Q
+ 
+endstream
+endobj
+70 0 obj
+<< /Length 6958 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .606235 Tw (compressed patches; they may want to comment on individual lines of your patch, which works only that) Tj T* 0 Tw .070514 Tw (way. Make sure you use a mail program that does not mangle spaces and tab characters. A good first test) Tj T* 0 Tw .792846 Tw (is to send the mail to yourself and try to apply your own patch by yourself. If that doesn't work, get your) Tj T* 0 Tw (mail program fixed or change it until it works.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Above all, please remember to show respect to other subscribers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Working with the community) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .187882 Tw (The goal of the kernel community is to provide the best possible kernel there is. When you submit a patch) Tj T* 0 Tw 2.236457 Tw (for acceptance, it will be reviewed on its technical merits and those alone. So, what should you be) Tj T* 0 Tw (expecting?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 618.0236 cm
+Q
+q
+1 0 0 1 62.69291 528.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (criticism) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (comments) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (requests for change) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (requests for justification) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (silence) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 528.0236 cm
+Q
+q
+1 0 0 1 62.69291 474.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.298935 Tw (Remember, this is part of getting your patch into the kernel. You have to be able to take criticism and) Tj T* 0 Tw 2.053318 Tw (comments about your patches, evaluate them at a technical level and either rework your patches or) Tj T* 0 Tw 2.267633 Tw (provide clear and concise reasoning as to why those changes should not be made. If there are no) Tj T* 0 Tw (responses to your posting, wait a few days and try again, sometimes things get lost in the huge volume.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 456.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (What should you not do?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 450.0236 cm
+Q
+q
+1 0 0 1 62.69291 378.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (expect your patch to be accepted without question) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (become defensive) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ignore comments) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (resubmit the patch without making any of the requested changes) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 378.0236 cm
+Q
+q
+1 0 0 1 62.69291 324.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 2.238735 Tw (In a community that is looking for the best technical solution possible, there will always be differing) Tj T* 0 Tw 1.209461 Tw (opinions on how beneficial a patch is. You have to be cooperative, and willing to adapt your idea to fit) Tj T* 0 Tw 2.732209 Tw (within the kernel. Or at least be willing to prove your idea is worth it. Remember, being wrong is) Tj T* 0 Tw (acceptable as long as you are willing to work toward a solution that is right.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 282.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .170465 Tw 12 TL /F1 10 Tf 0 0 0 rg (It is normal that the answers to your first patch might simply be a list of a dozen things you should correct.) Tj T* 0 Tw 1.588876 Tw (This does ) Tj /F2 10 Tf (not ) Tj /F1 10 Tf (imply that your patch will not be accepted, and it is ) Tj /F2 10 Tf (not ) Tj /F1 10 Tf (meant against you personally.) Tj T* 0 Tw (Simply correct all issues raised against your patch and resend it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 228.0236 cm
+q
+BT 1 0 0 1 0 24.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Differences between the kernel community and) Tj T* (corporate structures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 198.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .782706 Tw (The kernel community works differently than most traditional corporate development environments. Here) Tj T* 0 Tw (are a list of things that you can try to do to avoid problems:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+Q
+q
+1 0 0 1 62.69291 174.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Good things to say regarding your proposed changes:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+71 0 obj
+<< /Length 9379 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 471.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 186 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("This solves multiple problems.") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("This deletes 2000 lines of code.") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("Here is a patch that explains what I am trying to describe.") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("I tested it on 5 different architectures...") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("Here is a series of small patches that...") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("This increases performance on typical machines...") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 186 cm
+Q
+q
+1 0 0 1 20 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Bad things you should avoid saying:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 162 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 156 cm
+Q
+q
+1 0 0 1 20 156 cm
+Q
+q
+1 0 0 1 20 144 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("We did it this way in AIX/ptx/Solaris, so therefore it must be good...") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 138 cm
+Q
+q
+1 0 0 1 20 126 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("I've being doing this for 20 years, so...") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 120 cm
+Q
+q
+1 0 0 1 20 108 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("This is required for my company to make money") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("This is for our Enterprise product line.") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("Here is my 1000 page design document that describes my idea") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("I've been working on this for 6 months...") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("Here's a 5000 line patch that...") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("I rewrote all of the current mess, and here it is...") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("I have a deadline, and this patch needs to be applied now.") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL 4.606647 Tw (Another way the kernel community is different than most traditional software engineering work) Tj T* 0 Tw .243516 Tw (environments is the faceless nature of interaction. One benefit of using email and irc as the primary forms) Tj T* 0 Tw 3.611318 Tw (of communication is the lack of discrimination based on gender or race. The Linux kernel work) Tj T* 0 Tw 3.129318 Tw (environment is accepting of women and minorities because all you are is an email address. The) Tj T* 0 Tw 1.872485 Tw (international aspect also helps to level the playing field because you can't guess gender based on a) Tj T* 0 Tw .49332 Tw (person's name. A man may be named Andrea and a woman may be named Pat. Most women who have) Tj T* 0 Tw (worked in the Linux kernel and have expressed an opinion have had positive experiences.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 339.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .431235 Tw (The language barrier can cause problems for some people who are not comfortable with English. A good) Tj T* 0 Tw 2.088409 Tw (grasp of the language can be needed in order to get ideas across properly on mailing lists, so it is) Tj T* 0 Tw (recommended that you check your emails to make sure they make sense in English before sending them.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 306.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Break up your changes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 216.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL .845542 Tw (The Linux kernel community does not gladly accept large chunks of code dropped on it all at once. The) Tj T* 0 Tw 1.125984 Tw (changes need to be properly introduced, discussed, and broken up into tiny, individual portions. This is) Tj T* 0 Tw .359985 Tw (almost the exact opposite of what companies are used to doing. Your proposal should also be introduced) Tj T* 0 Tw .907209 Tw (very early in the development process, so that you can receive feedback on what you are doing. It also) Tj T* 0 Tw .599987 Tw (lets the community feel that you are working with them, and not simply using them as a dumping ground) Tj T* 0 Tw .584724 Tw (for your feature. However, don't send 50 emails at one time to a mailing list, your patch series should be) Tj T* 0 Tw (smaller than that almost all of the time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 198.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The reasons for breaking things up are the following:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+Q
+q
+1 0 0 1 62.69291 102.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .911318 Tw (Small patches increase the likelihood that your patches will be applied, since they don't take much) Tj T* 0 Tw 1.054724 Tw (time or effort to verify for correctness. A 5 line patch can be applied by a maintainer with barely a) Tj T* 0 Tw .132927 Tw (second glance. However, a 500 line patch may take hours to review for correctness \(the time it takes) Tj T* 0 Tw (is exponentially proportional to the size of the patch, or something\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .019986 Tw (Small patches also make it very easy to debug when something goes wrong. It's much easier to back) Tj T* 0 Tw 1.156303 Tw (out patches one by one than it is to dissect a very large patch after it's been applied \(and broken) Tj T* 0 Tw (something\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 96.02362 cm
+Q
+ 
+endstream
+endobj
+72 0 obj
+<< /Length 7223 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.552485 Tw (It's important not only to send small patches, but also to rewrite and simplify \(or simply re-order\)) Tj T* 0 Tw (patches before submitting them.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 741.0236 cm
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Here is an analogy from kernel developer Al Viro:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+Q
+q
+1 0 0 1 62.69291 627.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F3 10 Tf 12 TL 1.111751 Tw ("Think of a teacher grading homework from a math student. The teacher does not want to see the) Tj T* 0 Tw .228221 Tw (student's trials and errors before they came up with the solution. They want to see the cleanest, most) Tj T* 0 Tw .126651 Tw (elegant answer. A good student knows this, and would never submit her intermediate work before the) Tj T* 0 Tw (final solution.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F3 10 Tf 12 TL 1.92561 Tw (The same is true of kernel development. The maintainers and reviewers do not want to see the) Tj T* 0 Tw 1.222339 Tw (thought process behind the solution to the problem one is solving. They want to see a simple and) Tj T* 0 Tw (elegant solution.") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 627.0236 cm
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .827318 Tw (It may be challenging to keep the balance between presenting an elegant solution and working together) Tj T* 0 Tw .044431 Tw (with the community and discussing your unfinished work. Therefore it is good to get early in the process to) Tj T* 0 Tw .167209 Tw (get feedback to improve your work, but also keep your changes in small chunks that they may get already) Tj T* 0 Tw (accepted, even when your whole task is not ready for inclusion now.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .379988 Tw (Also realize that it is not acceptable to send patches for inclusion that are unfinished and will be "fixed up) Tj T* 0 Tw (later.") Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Justify your change) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 480.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .071567 Tw (Along with breaking up your patches, it is very important for you to let the Linux community know why they) Tj T* 0 Tw (should add this change. New features must be justified as being needed and useful.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Document your change) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.019431 Tw (When sending in your patches, pay special attention to what you say in the text in your email. This) Tj T* 0 Tw .941984 Tw (information will become the ChangeLog information for the patch, and will be preserved for everyone to) Tj T* 0 Tw (see for all time. It should describe the patch completely, containing:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 399.0236 cm
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (why the change is necessary) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (the overall design approach in the patch) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (implementation details) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (testing results) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+Q
+q
+1 0 0 1 62.69291 309.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (For more details on what this should all look like, please see the ChangeLog section of the document:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 303.0236 cm
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL ("The Perfect Patch") Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.ozlabs.org/~akpm/stuff/tpp.txt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+Q
+q
+1 0 0 1 62.69291 234.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .15856 Tw (All of these things are sometimes very hard to do. It can take years to perfect these practices \(if at all\). It's) Tj T* 0 Tw .41436 Tw (a continuous process of improvement that requires a lot of patience and determination. But don't give up,) Tj T* 0 Tw (it's possible. Many have done it before, and each had to start exactly where you are now.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 205.6772 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 115.6772 cm
+q
+BT 1 0 0 1 0 74 Tm 3.068863 Tw 12 TL /F1 10 Tf 0 0 0 rg (Thanks to Paolo Ciarrocchi who allowed the "Development Process" \() Tj 0 0 .501961 rg (https://lwn.net/Articles/94386/) Tj 0 0 0 rg (\)) Tj T* 0 Tw .426988 Tw (section to be based on text he had written, and to Randy Dunlap and Gerrit Huizenga for some of the list) Tj T* 0 Tw .927045 Tw (of things you should and should not say. Also thanks to Pat Mochel, Hanna Linder, Randy Dunlap, Kay) Tj T* 0 Tw .53284 Tw (Sievers, Vojtech Pavlik, Jan Kara, Josh Boyer, Kees Cook, Andrew Morton, Andi Kleen, Vadim Lobanov,) Tj T* 0 Tw .315318 Tw (Jesper Juhl, Adrian Bunk, Keri Harris, Frans Pop, David A. Wheeler, Junio Hamano, Michael Kerrisk, and) Tj T* 0 Tw .811412 Tw (Alex Shepard for their review, comments, and contributions. Without their help, this document would not) Tj T* 0 Tw (have been possible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 97.67717 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Maintainer: Greg Kroah-Hartman <) Tj 0 0 .501961 rg (greg@kroah.com) Tj 0 0 0 rg (>) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+73 0 obj
+<< /Nums [ 0 74 0 R 1 75 0 R 2 76 0 R 3 77 0 R 4 78 0 R 
+  5 79 0 R 6 80 0 R 7 81 0 R 8 82 0 R ] >>
+endobj
+74 0 obj
+<< /S /D /St 1 >>
+endobj
+75 0 obj
+<< /S /D /St 2 >>
+endobj
+76 0 obj
+<< /S /D /St 3 >>
+endobj
+77 0 obj
+<< /S /D /St 4 >>
+endobj
+78 0 obj
+<< /S /D /St 5 >>
+endobj
+79 0 obj
+<< /S /D /St 6 >>
+endobj
+80 0 obj
+<< /S /D /St 7 >>
+endobj
+81 0 obj
+<< /S /D /St 8 >>
+endobj
+82 0 obj
+<< /S /D /St 9 >>
+endobj
+xref
+0 83
+0000000000 65535 f
+0000000075 00000 n
+0000000140 00000 n
+0000000250 00000 n
+0000000365 00000 n
+0000000483 00000 n
+0000000679 00000 n
+0000000906 00000 n
+0000001090 00000 n
+0000001277 00000 n
+0000001474 00000 n
+0000001667 00000 n
+0000001914 00000 n
+0000002023 00000 n
+0000002204 00000 n
+0000002433 00000 n
+0000002629 00000 n
+0000002836 00000 n
+0000003022 00000 n
+0000003196 00000 n
+0000003372 00000 n
+0000003629 00000 n
+0000003814 00000 n
+0000003993 00000 n
+0000004178 00000 n
+0000004396 00000 n
+0000004646 00000 n
+0000004829 00000 n
+0000005033 00000 n
+0000005216 00000 n
+0000005433 00000 n
+0000005655 00000 n
+0000005862 00000 n
+0000006057 00000 n
+0000006251 00000 n
+0000006440 00000 n
+0000006725 00000 n
+0000006935 00000 n
+0000007145 00000 n
+0000007342 00000 n
+0000007529 00000 n
+0000007706 00000 n
+0000007949 00000 n
+0000008058 00000 n
+0000008302 00000 n
+0000008380 00000 n
+0000008496 00000 n
+0000008625 00000 n
+0000008756 00000 n
+0000008901 00000 n
+0000009082 00000 n
+0000009202 00000 n
+0000009345 00000 n
+0000009479 00000 n
+0000009640 00000 n
+0000009788 00000 n
+0000009919 00000 n
+0000010057 00000 n
+0000010188 00000 n
+0000010332 00000 n
+0000010515 00000 n
+0000010654 00000 n
+0000010791 00000 n
+0000010916 00000 n
+0000011035 00000 n
+0000017400 00000 n
+0000026130 00000 n
+0000032664 00000 n
+0000041123 00000 n
+0000047345 00000 n
+0000054788 00000 n
+0000061803 00000 n
+0000071239 00000 n
+0000078519 00000 n
+0000078639 00000 n
+0000078676 00000 n
+0000078713 00000 n
+0000078750 00000 n
+0000078787 00000 n
+0000078824 00000 n
+0000078861 00000 n
+0000078898 00000 n
+0000078935 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(T\263c\2179\261\353\343\016\325\002|\210uD\275) (T\263c\2179\261\353\343\016\325\002|\210uD\275)]
+ /Info 43 0 R /Root 42 0 R /Size 83 >>
+startxref
+78972
+%%EOF

@@ -1,0 +1,1139 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 23 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+6 0 obj
+<< /A << /S /URI /Type /Action /URI (mailto:stable@vger.kernel.org) >> /Border [ 0 0 0 ] /Rect [ 362.1214 729.7736 469.372 741.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+7 0 obj
+<< /A << /S /URI /Type /Action /URI (mailto:stable@vger.kernel.org) >> /Border [ 0 0 0 ] /Rect [ 356.0087 657.7736 459.5287 669.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+8 0 obj
+<< /Annots [ 6 0 R 7 0 R ] /Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 23 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+9 0 obj
+<< /A << /S /URI /Type /Action /URI (http://git.kernel.org/?p=linux/kernel/git/stable/stable-queue.git) >> /Border [ 0 0 0 ] /Rect [ 125.6929 438.7736 532.5827 450.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+10 0 obj
+<< /A << /S /URI /Type /Action /URI (http://git.kernel.org/?p=linux/kernel/git/stable/linux-stable.git) >> /Border [ 0 0 0 ] /Rect [ 125.6929 390.7736 532.5827 402.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+11 0 obj
+<< /Annots [ 9 0 R 10 0 R ] /Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 23 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+12 0 obj
+<< /Outlines 14 0 R /PageLabels 27 0 R /PageMode /UseNone /Pages 23 0 R /Type /Catalog >>
+endobj
+13 0 obj
+<< /Author () /CreationDate (D:20170628152120-08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Everything you ever wanted to know about Linux -stable releases) >>
+endobj
+14 0 obj
+<< /Count 9 /First 15 0 R /Last 22 0 R /Type /Outlines >>
+endobj
+15 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 383.0236 0 ] /Next 16 0 R /Parent 14 0 R /Title (Procedure for submitting patches to the -stable tree) >>
+endobj
+16 0 obj
+<< /Count 3 /Dest [ 5 0 R /XYZ 62.69291 278.0236 0 ] /First 17 0 R /Last 19 0 R /Next 20 0 R /Parent 14 0 R 
+  /Prev 15 0 R /Title (For all other submissions, choose one of the following procedures) >>
+endobj
+17 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 224.0236 0 ] /Next 18 0 R /Parent 16 0 R /Title (Option 1) >>
+endobj
+18 0 obj
+<< /Dest [ 8 0 R /XYZ 62.69291 765.0236 0 ] /Next 19 0 R /Parent 16 0 R /Prev 17 0 R /Title (Option 2) >>
+endobj
+19 0 obj
+<< /Dest [ 8 0 R /XYZ 62.69291 693.0236 0 ] /Parent 16 0 R /Prev 18 0 R /Title (Option 3) >>
+endobj
+20 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 729.0236 0 ] /Next 21 0 R /Parent 14 0 R /Prev 16 0 R /Title (Review cycle) >>
+endobj
+21 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 510.0236 0 ] /Next 22 0 R /Parent 14 0 R /Prev 20 0 R /Title (Trees) >>
+endobj
+22 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 381.0236 0 ] /Parent 14 0 R /Prev 21 0 R /Title (Review committee) >>
+endobj
+23 0 obj
+<< /Count 3 /Kids [ 5 0 R 8 0 R 11 0 R ] /Type /Pages >>
+endobj
+24 0 obj
+<< /Length 7689 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28 Tm /F2 20 Tf 24 TL 2.114882 0 Td (Everything you ever wanted to know about Linux) Tj T* 157.79 0 Td (-stable releases) Tj T* -159.9049 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 695.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Rules on what kind of patches are accepted, and which ones are not, into the "-stable" tree:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 689.0236 cm
+Q
+q
+1 0 0 1 62.69291 395.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 288 cm
+Q
+q
+1 0 0 1 20 288 cm
+Q
+q
+1 0 0 1 20 276 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (It must be obviously correct and tested.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 270 cm
+Q
+q
+1 0 0 1 20 258 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (It cannot be bigger than 100 lines, with context.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 252 cm
+Q
+q
+1 0 0 1 20 240 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (It must fix only one thing.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 234 cm
+Q
+q
+1 0 0 1 20 222 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (It must fix a real bug that bothers people \(not a, "This could be a problem..." type thing\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 216 cm
+Q
+q
+1 0 0 1 20 180 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .038735 Tw (It must fix a problem that causes a build error \(but not for things marked CONFIG_BROKEN\), an) Tj T* 0 Tw .091163 Tw (oops, a hang, data corruption, a real security issue, or some "oh, that's not good" issue. In short,) Tj T* 0 Tw (something critical.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 174 cm
+Q
+q
+1 0 0 1 20 114 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .279987 Tw (Serious issues as reported by a user of a distribution kernel may also be considered if they fix a) Tj T* 0 Tw .631318 Tw (notable performance or interactivity issue. As these fixes are not as obvious and have a higher) Tj T* 0 Tw .409984 Tw (risk of a subtle regression they should only be submitted by a distribution kernel maintainer and) Tj T* 0 Tw 1.816651 Tw (include an addendum linking to a bugzilla entry if it exists and additional information on the) Tj T* 0 Tw (user-visible impact.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 108 cm
+Q
+q
+1 0 0 1 20 96 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (New device IDs and quirks are also accepted.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 90 cm
+Q
+q
+1 0 0 1 20 66 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .194651 Tw (No "theoretical race condition" issues, unless an explanation of how the race can be exploited is) Tj T* 0 Tw (also provided.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 48 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (It cannot contain any "trivial" fixes in it \(spelling changes, whitespace cleanups, etc\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 4.901953 Tw 12 TL /F1 10 Tf 0 0 0 rg (It must follow the ) Tj 1 0 0 rg (:ref:`Documentation/process/submitting-patches.rst <) Tj (submittingpatches) Tj (>) Tj (`) Tj T* 0 Tw 0 0 0 rg (rules.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (It or an equivalent fix must already exist in Linus' tree \(upstream\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 395.0236 cm
+Q
+q
+1 0 0 1 62.69291 362.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Procedure for submitting patches to the -stable tree) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 350.0236 cm
+Q
+q
+1 0 0 1 62.69291 290.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .717126 Tw (If the patch covers files in net/ or drivers/net please follow netdev stable submission guidelines) Tj T* 0 Tw (as described in Documentation/networking/netdev-FAQ.txt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .518555 Tw 12 TL /F1 10 Tf 0 0 0 rg (Security patches should not be handled \(solely\) by the -stable review process but should follow) Tj T* 0 Tw (the procedures in ) Tj 1 0 0 rg (:ref:`Documentation/admin-guide/security-bugs.rst <) Tj (securitybugs) Tj (>) Tj (`) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 290.0236 cm
+Q
+q
+1 0 0 1 62.69291 236.0236 cm
+q
+BT 1 0 0 1 0 24.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (For all other submissions, choose one of the following) Tj T* (procedures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 206.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Option 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 188.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To have the patch automatically included in the stable tree, add the tag) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 154.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (Cc: stable@vger.kernel.org) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 122.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.064198 Tw (in the sign-off area. Once the patch is merged it will be applied to the stable tree without anything else) Tj T* 0 Tw (needing to be done by the author or subsystem maintainer.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+25 0 obj
+<< /Length 6143 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Option 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .950651 Tw 12 TL /F1 10 Tf 0 0 0 rg (After the patch has been merged to Linus' tree, send an email to ) Tj 0 0 .501961 rg (stable@vger.kernel.org ) Tj 0 0 0 rg (containing the) Tj T* 0 Tw .011488 Tw (subject of the patch, the commit ID, why you think it should be applied, and what kernel version you wish it) Tj T* 0 Tw (to be applied to.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Option 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.004651 Tw 12 TL /F1 10 Tf 0 0 0 rg (Send the patch, after verifying that it follows the above rules, to ) Tj 0 0 .501961 rg (stable@vger.kernel.org) Tj 0 0 0 rg (. You must note) Tj T* 0 Tw .51104 Tw (the upstream commit ID in the changelog of your submission, as well as the kernel version you wish it to) Tj T* 0 Tw (be applied to.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .900814 Tw 12 TL /F1 10 Tf 1 0 0 rg (:ref:`option_1` ) Tj 0 0 0 rg (is ) Tj /F2 10 Tf (strongly ) Tj /F1 10 Tf (preferred, is the easiest and most common. ) Tj 1 0 0 rg (:ref:`option_2` ) Tj 0 0 0 rg (and ) Tj 1 0 0 rg (:ref:`option_3`) Tj T* 0 Tw .608084 Tw 0 0 0 rg (are more useful if the patch isn't deemed worthy at the time it is applied to a public git tree \(for instance,) Tj T* 0 Tw 1.129269 Tw (because it deserves more regression testing first\). ) Tj 1 0 0 rg (:ref:`option_3` ) Tj 0 0 0 rg (is especially useful if the patch needs) Tj T* 0 Tw (some special handling to apply to an older kernel \(e.g., if API's have changed in the meantime\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .15311 Tw 12 TL /F1 10 Tf 0 0 0 rg (Note that for ) Tj 1 0 0 rg (:ref:`option_3`) Tj 0 0 0 rg (, if the patch deviates from the original upstream patch \(for example because it) Tj T* 0 Tw (had to be backported\) this must be very clearly documented and justified in the patch description.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 531.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The upstream commit ID must be specified with a separate line above the commit text, like this:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 497.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (commit ) Tj (<) Tj (sha1) Tj (>) Tj ( upstream.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 465.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .612126 Tw (Additionally, some patches submitted via Option 1 may have additional patch prerequisites which can be) Tj T* 0 Tw (cherry-picked. This can be specified in the following format in the sign-off area:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 384.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+BT 1 0 0 1 0 50 Tm 12 TL /F3 10 Tf 0 0 0 rg (Cc: ) Tj (<) Tj (stable@vger.kernel.org) Tj (>) Tj ( # 3.3.x: a1f84a3: sched: Check for idle) Tj T* (Cc: ) Tj (<) Tj (stable@vger.kernel.org) Tj (>) Tj ( # 3.3.x: 1b9508f: sched: Rate-limit newidle) Tj T* (Cc: ) Tj (<) Tj (stable@vger.kernel.org) Tj (>) Tj ( # 3.3.x: fd21073: sched: Fix affinity logic) Tj T* (Cc: ) Tj (<) Tj (stable@vger.kernel.org) Tj (>) Tj ( # 3.3.x) Tj T* (Signed-off-by: Ingo Molnar ) Tj (<) Tj (mingo@elte.hu) Tj (>) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 364.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The tag sequence has the meaning of:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 295.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+BT 1 0 0 1 0 38 Tm 12 TL /F3 10 Tf 0 0 0 rg (git cherry-pick a1f84a3) Tj T* (git cherry-pick 1b9508f) Tj T* (git cherry-pick fd21073) Tj T* (git cherry-pick ) Tj (<) Tj (this commit) Tj (>) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 263.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .08561 Tw (Also, some patches may have kernel version prerequisites. This can be specified in the following format in) Tj T* 0 Tw (the sign-off area:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 230.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (Cc: ) Tj (<) Tj (stable@vger.kernel.org) Tj (>) Tj ( # 3.3.x) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 210.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The tag has the meaning of:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 177.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (git cherry-pick ) Tj (<) Tj (this commit) Tj (>) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 157.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (For each "-stable" tree starting with the specified version.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Following the submission:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 133.0236 cm
+Q
+q
+1 0 0 1 62.69291 85.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 6 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .524987 Tw (The sender will receive an ACK when the patch has been accepted into the queue, or a NAK if) Tj T* 0 Tw 2.80284 Tw (the patch is rejected. This response might take a few days, according to the developer's) Tj T* 0 Tw (schedules.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+26 0 obj
+<< /Length 5918 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .391751 Tw (If accepted, the patch will be added to the -stable queue, for review by other developers and by) Tj T* 0 Tw (the relevant subsystem maintainer.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 741.0236 cm
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Review cycle) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+Q
+q
+1 0 0 1 62.69291 522.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 168 cm
+Q
+q
+1 0 0 1 20 168 cm
+Q
+q
+1 0 0 1 20 132 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .97561 Tw (When the -stable maintainers decide for a review cycle, the patches will be sent to the review) Tj T* 0 Tw 1.741984 Tw (committee, and the maintainer of the affected area of the patch \(unless the submitter is the) Tj T* 0 Tw (maintainer of the area\) and CC: to the linux-kernel mailing list.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 126 cm
+Q
+q
+1 0 0 1 20 114 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The review committee has 48 hours in which to ACK or NAK the patch.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 108 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.32311 Tw (If the patch is rejected by a member of the committee, or linux-kernel members object to the) Tj T* 0 Tw 1.298651 Tw (patch, bringing up issues that the maintainers and members did not realize, the patch will be) Tj T* 0 Tw (dropped from the queue.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 42 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.046457 Tw (At the end of the review cycle, the ACKed patches will be added to the latest -stable release,) Tj T* 0 Tw (and a new -stable release will happen.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .151318 Tw (Security patches will be accepted into the -stable tree directly from the security kernel team, and) Tj T* 0 Tw .14186 Tw (not go through the normal review cycle. Contact the kernel security team for more details on this) Tj T* 0 Tw (procedure.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 522.0236 cm
+Q
+q
+1 0 0 1 62.69291 489.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Trees) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 48 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The queues of patches, for both completed versions and in progress versions can be found at:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://git.kernel.org/?p=linux/kernel/git/stable/stable-queue.git) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .963318 Tw (The finalized and tagged releases of all stable kernels can be found in separate branches per) Tj T* 0 Tw (version at:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://git.kernel.org/?p=linux/kernel/git/stable/linux-stable.git) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+Q
+q
+1 0 0 1 62.69291 360.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Review committee) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 348.0236 cm
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .217209 Tw (This is made up of a number of kernel developers who have volunteered for this task, and a few) Tj T* 0 Tw (that haven't.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+Q
+ 
+endstream
+endobj
+27 0 obj
+<< /Nums [ 0 28 0 R 1 29 0 R 2 30 0 R ] >>
+endobj
+28 0 obj
+<< /S /D /St 1 >>
+endobj
+29 0 obj
+<< /S /D /St 2 >>
+endobj
+30 0 obj
+<< /S /D /St 3 >>
+endobj
+xref
+0 31
+0000000000 65535 f
+0000000075 00000 n
+0000000129 00000 n
+0000000239 00000 n
+0000000354 00000 n
+0000000462 00000 n
+0000000671 00000 n
+0000000854 00000 n
+0000001038 00000 n
+0000001271 00000 n
+0000001491 00000 n
+0000001712 00000 n
+0000001947 00000 n
+0000002056 00000 n
+0000002330 00000 n
+0000002407 00000 n
+0000002563 00000 n
+0000002785 00000 n
+0000002897 00000 n
+0000003022 00000 n
+0000003134 00000 n
+0000003264 00000 n
+0000003387 00000 n
+0000003508 00000 n
+0000003584 00000 n
+0000011330 00000 n
+0000017530 00000 n
+0000023505 00000 n
+0000023567 00000 n
+0000023604 00000 n
+0000023641 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\)\000\266\235\270\206"\371\311\211\354\002q{\327\353) (\)\000\266\235\270\206"\371\311\211\354\002q{\327\353)]
+ /Info 13 0 R /Root 12 0 R /Size 31 >>
+startxref
+23678
+%%EOF

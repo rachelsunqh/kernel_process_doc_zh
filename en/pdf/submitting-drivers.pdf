@@ -1,0 +1,894 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 6 0 R /F4 10 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.xfree86.org/) >> /Border [ 0 0 0 ] /Rect [ 426.4327 707.7736 529.2527 719.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+5 0 obj
+<< /A << /S /URI /Type /Action /URI (http://x.org/) >> /Border [ 0 0 0 ] /Rect [ 126.0529 695.7736 176.0829 707.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+6 0 obj
+<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+7 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.lanana.org/) >> /Border [ 0 0 0 ] /Rect [ 358.5997 483.7736 458.0897 495.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+8 0 obj
+<< /A << /S /URI /Type /Action /URI (mailto:w@1wt.eu) >> /Border [ 0 0 0 ] /Rect [ 342.5229 277.7736 389.3529 289.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+9 0 obj
+<< /Annots [ 4 0 R 5 0 R 7 0 R 8 0 R ] /Contents 34 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 33 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+10 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+11 0 obj
+<< /A << /S /URI /Type /Action /URI (http://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git) >> /Border [ 0 0 0 ] /Rect [ 82.69291 108.7736 532.5827 120.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+12 0 obj
+<< /A << /S /URI /Type /Action /URI (mailto:linux-kernel@vger.kernel.org) >> /Border [ 0 0 0 ] /Rect [ 82.69291 77.77362 213.4329 89.77362 ] /Subtype /Link /Type /Annot >>
+endobj
+13 0 obj
+<< /A << /S /URI /Type /Action /URI (mailto:majordomo@vger.kernel.org) >> /Border [ 0 0 0 ] /Rect [ 237.3229 77.77362 366.9529 89.77362 ] /Subtype /Link /Type /Annot >>
+endobj
+14 0 obj
+<< /Annots [ 11 0 R 12 0 R 13 0 R ] /Contents 35 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 33 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+15 0 obj
+<< /A << /S /URI /Type /Action /URI (http://lwn.net/Kernel/LDD3/) >> /Border [ 0 0 0 ] /Rect [ 82.69291 738.7736 204.9729 750.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+16 0 obj
+<< /A << /S /URI /Type /Action /URI (http://lwn.net/) >> /Border [ 0 0 0 ] /Rect [ 302.7529 707.7736 362.2329 719.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+17 0 obj
+<< /A << /S /URI /Type /Action /URI (http://lwn.net/Articles/2.6-kernel-api/) >> /Border [ 0 0 0 ] /Rect [ 102.6929 671.7736 532.5827 683.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+18 0 obj
+<< /A << /S /URI /Type /Action /URI (http://lwn.net/Articles/driver-porting/) >> /Border [ 0 0 0 ] /Rect [ 102.6929 635.7736 532.5827 647.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+19 0 obj
+<< /A << /S /URI /Type /Action /URI (http://kernelnewbies.org/) >> /Border [ 0 0 0 ] /Rect [ 102.6929 586.7736 532.5827 598.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+20 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.linux-usb.org/) >> /Border [ 0 0 0 ] /Rect [ 82.69291 555.7736 532.5827 567.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+21 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.fenrus.org/how-to-not-write-a-device-driver-paper.pdf) >> /Border [ 0 0 0 ] /Rect [ 82.69291 524.7736 532.5827 536.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+22 0 obj
+<< /A << /S /URI /Type /Action /URI (http://kernelnewbies.org/KernelJanitors) >> /Border [ 0 0 0 ] /Rect [ 82.69291 493.7736 532.5827 505.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+23 0 obj
+<< /A << /S /URI /Type /Action /URI (http://git-scm.com/) >> /Border [ 0 0 0 ] /Rect [ 82.69291 462.7736 532.5827 474.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+24 0 obj
+<< /Annots [ 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R ] /Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 33 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+25 0 obj
+<< /Outlines 27 0 R /PageLabels 37 0 R /PageMode /UseNone /Pages 33 0 R /Type /Catalog >>
+endobj
+26 0 obj
+<< /Author () /CreationDate (D:20170628152144-08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Submitting Drivers For The Linux Kernel) >>
+endobj
+27 0 obj
+<< /Count 5 /First 28 0 R /Last 32 0 R /Type /Outlines >>
+endobj
+28 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 534.0236 0 ] /Next 29 0 R /Parent 27 0 R /Title (Allocating Device Numbers) >>
+endobj
+29 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 417.0236 0 ] /Next 30 0 R /Parent 27 0 R /Prev 28 0 R /Title (Who To Submit Drivers To) >>
+endobj
+30 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 222.0236 0 ] /Next 31 0 R /Parent 27 0 R /Prev 29 0 R /Title (What Criteria Determine Acceptance) >>
+endobj
+31 0 obj
+<< /Dest [ 14 0 R /XYZ 62.69291 331.0236 0 ] /Next 32 0 R /Parent 27 0 R /Prev 30 0 R /Title (What Criteria Do Not Determine Acceptance) >>
+endobj
+32 0 obj
+<< /Dest [ 14 0 R /XYZ 62.69291 198.0236 0 ] /Parent 27 0 R /Prev 31 0 R /Title (Resources) >>
+endobj
+33 0 obj
+<< /Count 3 /Kids [ 9 0 R 14 0 R 24 0 R ] /Type /Pages >>
+endobj
+34 0 obj
+<< /Length 6213 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 42.68488 0 Td (Submitting Drivers For The Linux Kernel) Tj T* -42.68488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 695.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .383876 Tw 12 TL /F1 10 Tf 0 0 0 rg (This document is intended to explain how to submit device drivers to the various kernel trees. Note that if) Tj T* 0 Tw 1.729213 Tw (you are interested in video card drivers you should probably talk to XFree86 \() Tj 0 0 .501961 rg (http://www.xfree86.org/) Tj 0 0 0 rg (\)) Tj T* 0 Tw (and/or X.Org \() Tj 0 0 .501961 rg (http://x.org/) Tj 0 0 0 rg (\) instead.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 683.0236 cm
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+.960784 .960784 .862745 rg
+n 0 113 469.8898 -113 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 87 Tm  T* ET
+q
+1 0 0 1 16 82 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.439318 Tw (This document is old and has seen little maintenance in recent years; it should probably be) Tj T* 0 Tw 3.43061 Tw (updated or, perhaps better, just deleted. Most of what is here can be found in the other) Tj T* 0 Tw (development documents anyway.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Oh, and we don't really recommend submitting changes to XFree86 :\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 113 m 469.8898 113 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 113 l S
+n 469.8898 0 m 469.8898 113 l S
+Q
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+Q
+q
+1 0 0 1 62.69291 546.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Also read the Documentation/process/submitting-patches.rst document.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Allocating Device Numbers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .501235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Major and minor numbers for block and character devices are allocated by the Linux assigned name and) Tj T* 0 Tw .747674 Tw (number authority \(currently this is Torben Mathiasen\). The site is ) Tj 0 0 .501961 rg (http://www.lanana.org/) Tj 0 0 0 rg (. This also deals) Tj T* 0 Tw 1.64686 Tw (with allocating numbers for devices that are not going to be submitted to the mainstream kernel. See) Tj T* 0 Tw (Documentation/admin-guide/devices.rst for more information on this.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .029987 Tw (If you don't use assigned numbers then when your device is submitted it will be given an assigned number) Tj T* 0 Tw (even if that is different from values you may have shipped to customers before.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 396.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Who To Submit Drivers To) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 378.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Linux 2.0:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (No new drivers are accepted for this kernel tree.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 347.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Linux 2.2:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 332.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (No new drivers are accepted for this kernel tree.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 316.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Linux 2.4:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 277.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 26 Tm 3.696235 Tw 12 TL /F1 10 Tf 0 0 0 rg (If the code area has a general maintainer then please submit it to the maintainer listed in) Tj T* 0 Tw 3.498651 Tw (MAINTAINERS in the kernel file. If the maintainer does not respond or you cannot find the) Tj T* 0 Tw (appropriate maintainer then please contact Willy Tarreau <) Tj 0 0 .501961 rg (w@1wt.eu) Tj 0 0 0 rg (>) Tj (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 261.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Linux 2.6 and upper:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 234.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .22881 Tw (The same rules apply as 2.4 except that you should follow linux-kernel to track changes in API's. The) Tj T* 0 Tw (final contact point for Linux 2.6+ submissions is Andrew Morton.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 201.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (What Criteria Determine Acceptance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 183.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Licensing:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 132.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .246654 Tw (The code must be released to us under the GNU General Public License. We don't insist on any kind) Tj T* 0 Tw .353876 Tw (of exclusive GPL licensing, and if you wish the driver to be useful to other communities such as BSD) Tj T* 0 Tw 8.451647 Tw (you may well wish to release under multiple licenses. See accepted licenses at) Tj T* 0 Tw (include/linux/module.h) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 116.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Copyright:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 77.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .431654 Tw (The copyright owner must agree to use of GPL. It's best if the submitter and copyright owner are the) Tj T* 0 Tw .95061 Tw (same person/entity. If not, the name of the person/entity authorizing use of GPL should be listed in) Tj T* 0 Tw (case it's necessary to verify the will of the copyright owner.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+35 0 obj
+<< /Length 7349 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Interfaces:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .324431 Tw (If your driver uses existing interfaces and behaves like other drivers in the same class it will be much) Tj T* 0 Tw .259987 Tw (more likely to be accepted than if it invents gratuitous new ones. If you need to implement a common) Tj T* 0 Tw (API over Linux and NT drivers do it in userspace.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 698.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Code:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 647.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 38 Tm 16.91898 Tw 12 TL /F1 10 Tf 0 0 0 rg (Please use the Linux style of code formatting as documented in) Tj T* 0 Tw 1.198863 Tw 1 0 0 rg (:ref:`Documentation/process/coding-style.rst <) Tj (codingStyle) Tj (>) Tj (`) Tj 0 0 0 rg (. If you have sections of code that need) Tj T* 0 Tw .042093 Tw (to be in other formats, for example because they are shared with a windows driver kit and you want to) Tj T* 0 Tw (maintain them just once separate them out nicely and note this fact.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 631.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Portability:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 580.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 38 Tm .078221 Tw 12 TL /F1 10 Tf 0 0 0 rg (Pointers are not always 32bits, not all computers are little endian, people do not all have floating point) Tj T* 0 Tw 1.111984 Tw (and you shouldn't use inline x86 assembler in your driver without careful thought. Pure x86 drivers) Tj T* 0 Tw .733988 Tw (generally are not popular. If you only have x86 hardware it is hard to test portability but it is easy to) Tj T* 0 Tw (make sure the code can easily be made portable.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Clarity:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 537.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .176488 Tw (It helps if anyone can see how to fix the driver. It helps you because you get patches not bug reports.) Tj T* 0 Tw (If you submit a driver that intentionally obfuscates how the hardware works it will go in the bitbucket.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 521.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (PM support:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 410.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 98 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 98 Tm /F1 10 Tf 12 TL .188409 Tw (Since Linux is used on many portable and desktop systems, your driver is likely to be used on such a) Tj T* 0 Tw .660751 Tw (system and therefore it should support basic power management by implementing, if necessary, the) Tj T* 0 Tw .99248 Tw (.suspend and .resume methods used during the system-wide suspend and resume transitions. You) Tj T* 0 Tw 1.612485 Tw (should verify that your driver correctly handles the suspend and resume, but if you are unable to) Tj T* 0 Tw 2.479213 Tw (ensure that, please at least define the .suspend method returning the -ENOSYS \("Function not) Tj T* 0 Tw .036457 Tw (implemented"\) error. You should also try to make sure that your driver uses as little power as possible) Tj T* 0 Tw 15.72898 Tw (when it's not doing anything. For the driver testing instructions see) Tj T* 0 Tw 5.094418 Tw (Documentation/power/drivers-testing.txt and for a relatively complete overview of the power) Tj T* 0 Tw (management issues related to drivers see Documentation/power/admin-guide/devices.rst .) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 394.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Control:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 343.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .877209 Tw (In general if there is active maintenance of a driver by the author then patches will be redirected to) Tj T* 0 Tw .473876 Tw (them unless they are totally obvious and without need of checking. If you want to be the contact and) Tj T* 0 Tw 1.344488 Tw (update point for the driver it is a good idea to state this in the comments, and include an entry in) Tj T* 0 Tw (MAINTAINERS for your driver.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 310.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (What Criteria Do Not Determine Acceptance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 292.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Vendor:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 253.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.039398 Tw (Being the hardware vendor and maintaining the driver is often a good thing. If there is a stable) Tj T* 0 Tw .15832 Tw (working driver from other people already in the tree don't expect 'we are the vendor' to get your driver) Tj T* 0 Tw (chosen. Ideally work with the existing driver author to build a single perfect driver.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 237.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Author:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 210.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .031098 Tw (It doesn't matter if a large Linux company wrote the driver, or you did. Nobody has any special access) Tj T* 0 Tw (to the kernel tree. Anyone who tells you otherwise isn't telling the whole story.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 177.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Resources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 159.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Linux kernel master tree:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 108.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (ftp.) Tj /F4 10 Tf (country_code) Tj /F1 10 Tf (.kernel.org:/pub/linux/kernel/...) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (where ) Tj /F4 10 Tf (country_code ) Tj /F1 10 Tf (== your country code, such as ) Tj /F2 10 Tf (us) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (uk) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (fr) Tj /F1 10 Tf (, etc.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 92.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Linux kernel mailing list:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 77.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (linux-kernel@vger.kernel.org ) Tj 0 0 0 rg ([mail ) Tj 0 0 .501961 rg (majordomo@vger.kernel.org ) Tj 0 0 0 rg (to subscribe]) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+36 0 obj
+<< /Length 3746 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Linux Device Drivers, Third Edition \(covers 2.6.10\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 738.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (http://lwn.net/Kernel/LDD3/ ) Tj 0 0 0 rg (\(free version\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 722.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (LWN.net:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 635.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 74 Tm  T* ET
+q
+1 0 0 1 20 72 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Weekly summary of kernel development activity - ) Tj 0 0 .501961 rg (http://lwn.net/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2.6 API changes:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://lwn.net/Articles/2.6-kernel-api/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Porting drivers from prior kernels to 2.6:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://lwn.net/Articles/driver-porting/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 619.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (KernelNewbies:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 586.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 20 Tm  T* ET
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Documentation and assistance for new kernel programmers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://kernelnewbies.org/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Linux USB project:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.linux-usb.org/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 539.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (How to NOT write kernel driver by Arjan van de Ven:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 524.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.fenrus.org/how-to-not-write-a-device-driver-paper.pdf) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 508.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Kernel Janitor:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 493.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://kernelnewbies.org/KernelJanitors) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (GIT, Fast Version Control System:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 462.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://git-scm.com/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+37 0 obj
+<< /Nums [ 0 38 0 R 1 39 0 R 2 40 0 R ] >>
+endobj
+38 0 obj
+<< /S /D /St 1 >>
+endobj
+39 0 obj
+<< /S /D /St 2 >>
+endobj
+40 0 obj
+<< /S /D /St 3 >>
+endobj
+xref
+0 41
+0000000000 65535 f
+0000000075 00000 n
+0000000140 00000 n
+0000000250 00000 n
+0000000365 00000 n
+0000000543 00000 n
+0000000711 00000 n
+0000000833 00000 n
+0000001010 00000 n
+0000001180 00000 n
+0000001425 00000 n
+0000001544 00000 n
+0000001760 00000 n
+0000001951 00000 n
+0000002139 00000 n
+0000002382 00000 n
+0000002565 00000 n
+0000002736 00000 n
+0000002931 00000 n
+0000003126 00000 n
+0000003307 00000 n
+0000003488 00000 n
+0000003708 00000 n
+0000003903 00000 n
+0000004078 00000 n
+0000004363 00000 n
+0000004472 00000 n
+0000004722 00000 n
+0000004799 00000 n
+0000004928 00000 n
+0000005069 00000 n
+0000005220 00000 n
+0000005379 00000 n
+0000005493 00000 n
+0000005570 00000 n
+0000011840 00000 n
+0000019246 00000 n
+0000023049 00000 n
+0000023111 00000 n
+0000023148 00000 n
+0000023185 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\016]\340,6\221\303\251_\234\011\372\207\0063k) (\016]\340,6\221\303\251_\234\011\372\207\0063k)]
+ /Info 26 0 R /Root 25 0 R /Size 41 >>
+startxref
+23222
+%%EOF

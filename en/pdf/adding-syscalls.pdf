@@ -1,0 +1,2783 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /Contents 53 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 52 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+6 0 obj
+<< /Contents 54 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 52 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+7 0 obj
+<< /A << /S /URI /Type /Action /URI (mailto:linux-api@vger.kernel.org) >> /Border [ 0 0 0 ] /Rect [ 62.69291 217.5736 176.7629 229.5736 ] /Subtype /Link /Type /Annot >>
+endobj
+8 0 obj
+<< /Annots [ 7 0 R ] /Contents 55 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 52 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+9 0 obj
+<< /Contents 56 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 52 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+10 0 obj
+<< /Contents 57 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 52 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+11 0 obj
+<< /Contents 58 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 52 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+12 0 obj
+<< /Contents 59 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 52 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+13 0 obj
+<< /A << /S /URI /Type /Action /URI (https://linux-test-project.github.io/) >> /Border [ 0 0 0 ] /Rect [ 105.6929 714.7736 532.5827 726.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+14 0 obj
+<< /A << /S /URI /Type /Action /URI (mailto:linux-man@vger.kernel.org) >> /Border [ 0 0 0 ] /Rect [ 278.3646 606.7736 410.6591 618.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+15 0 obj
+<< /A << /S /URI /Type /Action /URI (https://www.kernel.org/doc/man-pages/patches.html) >> /Border [ 0 0 0 ] /Rect [ 62.69291 594.7736 292.7829 606.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+16 0 obj
+<< /A << /S /URI /Type /Action /URI (https://lwn.net/Articles/585415/) >> /Border [ 0 0 0 ] /Rect [ 105.6929 600.7736 241.8729 612.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+17 0 obj
+<< /A << /S /URI /Type /Action /URI (https://lwn.net/Articles/588444/) >> /Border [ 0 0 0 ] /Rect [ 105.6929 570.7736 241.8729 582.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+18 0 obj
+<< /A << /S /URI /Type /Action /URI (https://lwn.net/Articles/311630/) >> /Border [ 0 0 0 ] /Rect [ 105.6929 540.7736 241.8729 552.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+19 0 obj
+<< /A << /S /URI /Type /Action /URI (https://lwn.net/Articles/604287/) >> /Border [ 0 0 0 ] /Rect [ 148.6929 483.7736 532.5827 495.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+20 0 obj
+<< /A << /S /URI /Type /Action /URI (https://lwn.net/Articles/604515/) >> /Border [ 0 0 0 ] /Rect [ 148.6929 465.7736 532.5827 477.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+21 0 obj
+<< /A << /S /URI /Type /Action /URI (http://man7.org/linux/man-pages/man2/syscall.2.html#NOTES) >> /Border [ 0 0 0 ] /Rect [ 156.2729 438.7736 430.2629 450.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+22 0 obj
+<< /A << /S /URI /Type /Action /URI (http://yarchive.net/comp/linux/ioctl.html) >> /Border [ 0 0 0 ] /Rect [ 105.6929 408.7736 277.4229 420.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+23 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.ukuug.org/events/linux2007/2007/papers/Bergmann.pdf) >> /Border [ 0 0 0 ] /Rect [ 105.6929 378.7736 401.4029 390.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+24 0 obj
+<< /A << /S /URI /Type /Action /URI (https://lwn.net/Articles/486306/) >> /Border [ 0 0 0 ] /Rect [ 105.6929 348.7736 241.8729 360.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+25 0 obj
+<< /A << /S /URI /Type /Action /URI (https://lkml.org/lkml/2014/7/24/641) >> /Border [ 0 0 0 ] /Rect [ 247.9729 318.7736 400.2629 330.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+26 0 obj
+<< /A << /S /URI /Type /Action /URI (https://lkml.org/lkml/2014/6/13/309) >> /Border [ 0 0 0 ] /Rect [ 105.6929 288.7736 257.9829 300.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+27 0 obj
+<< /A << /S /URI /Type /Action /URI (https://lkml.org/lkml/2014/11/19/254) >> /Border [ 0 0 0 ] /Rect [ 105.6929 258.7736 263.5429 270.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+28 0 obj
+<< /A << /S /URI /Type /Action /URI (https://lkml.org/lkml/2014/3/19/710) >> /Border [ 0 0 0 ] /Rect [ 200.1829 228.7736 352.4729 240.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+29 0 obj
+<< /A << /S /URI /Type /Action /URI (https://lkml.org/lkml/2014/6/3/411) >> /Border [ 0 0 0 ] /Rect [ 105.6929 198.7736 252.4229 210.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+30 0 obj
+<< /A << /S /URI /Type /Action /URI (https://lkml.org/lkml/2015/7/30/117) >> /Border [ 0 0 0 ] /Rect [ 105.6929 156.7736 257.9829 168.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+31 0 obj
+<< /Annots [ 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 
+  23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R ] /Contents 60 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 52 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+32 0 obj
+<< /A << /S /URI /Type /Action /URI (https://lkml.org/lkml/2008/12/12/187) >> /Border [ 0 0 0 ] /Rect [ 105.6929 690.7736 263.5429 702.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+33 0 obj
+<< /A << /S /URI /Type /Action /URI (https://lkml.org/lkml/2014/7/17/577) >> /Border [ 0 0 0 ] /Rect [ 105.6929 660.7736 257.9829 672.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+34 0 obj
+<< /A << /S /URI /Type /Action /URI (https://lkml.org/lkml/2011/8/31/244) >> /Border [ 0 0 0 ] /Rect [ 295.2129 630.7736 447.5029 642.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+35 0 obj
+<< /Annots [ 32 0 R 33 0 R 34 0 R ] /Contents 61 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 52 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+36 0 obj
+<< /Outlines 38 0 R /PageLabels 62 0 R /PageMode /UseNone /Pages 52 0 R /Type /Catalog >>
+endobj
+37 0 obj
+<< /Author () /CreationDate (D:20170628151621-08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Adding a New System Call) >>
+endobj
+38 0 obj
+<< /Count 13 /First 39 0 R /Last 51 0 R /Type /Outlines >>
+endobj
+39 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 683.0236 0 ] /Next 40 0 R /Parent 38 0 R /Title (System Call Alternatives) >>
+endobj
+40 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 272.0236 0 ] /Next 41 0 R /Parent 38 0 R /Prev 39 0 R /Title (Designing the API: Planning for Extension) >>
+endobj
+41 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 420.6236 0 ] /Next 42 0 R /Parent 38 0 R /Prev 40 0 R /Title (Designing the API: Other Considerations) >>
+endobj
+42 0 obj
+<< /Dest [ 8 0 R /XYZ 62.69291 423.8236 0 ] /Next 43 0 R /Parent 38 0 R /Prev 41 0 R /Title (Proposing the API) >>
+endobj
+43 0 obj
+<< /Dest [ 8 0 R /XYZ 62.69291 204.8236 0 ] /Next 44 0 R /Parent 38 0 R /Prev 42 0 R /Title (Generic System Call Implementation) >>
+endobj
+44 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 295.4236 0 ] /Next 45 0 R /Parent 38 0 R /Prev 43 0 R /Title (x86 System Call Implementation) >>
+endobj
+45 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 765.0236 0 ] /Next 46 0 R /Parent 38 0 R /Prev 44 0 R /Title (Compatibility System Calls \(Generic\)) >>
+endobj
+46 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 492.6236 0 ] /Next 47 0 R /Parent 38 0 R /Prev 45 0 R /Title (Compatibility System Calls \(x86\)) >>
+endobj
+47 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 161.2236 0 ] /Next 48 0 R /Parent 38 0 R /Prev 46 0 R /Title (System Calls Returning Elsewhere) >>
+endobj
+48 0 obj
+<< /Dest [ 12 0 R /XYZ 62.69291 361.4236 0 ] /Next 49 0 R /Parent 38 0 R /Prev 47 0 R /Title (Other Details) >>
+endobj
+49 0 obj
+<< /Dest [ 12 0 R /XYZ 62.69291 214.4236 0 ] /Next 50 0 R /Parent 38 0 R /Prev 48 0 R /Title (Testing) >>
+endobj
+50 0 obj
+<< /Dest [ 31 0 R /XYZ 62.69291 687.0236 0 ] /Next 51 0 R /Parent 38 0 R /Prev 49 0 R /Title (Man Page) >>
+endobj
+51 0 obj
+<< /Dest [ 31 0 R /XYZ 62.69291 582.0236 0 ] /Parent 38 0 R /Prev 50 0 R /Title (References and Sources) >>
+endobj
+52 0 obj
+<< /Count 9 /Kids [ 5 0 R 6 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 31 0 R 35 0 R ] /Type /Pages >>
+endobj
+53 0 obj
+<< /Length 8350 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 109.3549 0 Td (Adding a New System Call) Tj T* -109.3549 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 695.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .261163 Tw 12 TL /F1 10 Tf 0 0 0 rg (This document describes what's involved in adding a new system call to the Linux kernel, over and above) Tj T* 0 Tw 19.72995 Tw (the normal submission advice in ) Tj 1 0 0 rg (:ref:`Documentation/process/submitting-patches.rst) Tj T* 0 Tw (<) Tj (submittingpatches) Tj (>) Tj (`) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 662.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (System Call Alternatives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 620.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.43332 Tw (The first thing to consider when adding a new system call is whether one of the alternatives might be) Tj T* 0 Tw 2.626136 Tw (suitable instead. Although system calls are the most traditional and most obvious interaction points) Tj T* 0 Tw (between userspace and the kernel, there are other possibilities -- choose what fits best for your interface.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 614.0236 cm
+Q
+q
+1 0 0 1 62.69291 284.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 324 cm
+Q
+q
+1 0 0 1 20 324 cm
+Q
+q
+1 0 0 1 20 198 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.04561 Tw (If the operations involved can be made to look like a filesystem-like object, it may make more) Tj T* 0 Tw 1.07936 Tw (sense to create a new filesystem or device. This also makes it easier to encapsulate the new) Tj T* 0 Tw (functionality in a kernel module rather than requiring it to be built into the main kernel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 81 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 42 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.549979 Tw 12 TL /F1 10 Tf 0 0 0 rg (If the new functionality involves operations where the kernel notifies userspace that) Tj T* 0 Tw 1.141647 Tw (something has happened, then returning a new file descriptor for the relevant object) Tj T* 0 Tw (allows userspace to use ) Tj /F3 10 Tf 0 0 0 rg (poll) Tj /F1 10 Tf 0 0 0 rg (/) Tj /F3 10 Tf 0 0 0 rg (select) Tj /F1 10 Tf 0 0 0 rg (/) Tj /F3 10 Tf 0 0 0 rg (epoll ) Tj /F1 10 Tf 0 0 0 rg (to receive that notification.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 2.993294 Tw 12 TL /F1 10 Tf 0 0 0 rg (However, operations that don't map to ) Tj 1 0 0 rg (:manpage:`read\(2\)`) Tj 0 0 0 rg (/) Tj 1 0 0 rg (:manpage:`write\(2\)`) Tj 0 0 0 rg (-like) Tj T* 0 Tw .33816 Tw (operations have to be implemented as ) Tj 1 0 0 rg (:manpage:`ioctl\(2\)` ) Tj 0 0 0 rg (requests, which can lead to) Tj T* 0 Tw (a somewhat opaque API.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 192 cm
+Q
+q
+1 0 0 1 20 120 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 62 Tm 7.67248 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you're just exposing runtime system information, a new node in sysfs \(see) Tj T* 0 Tw 5.835681 Tw /F3 10 Tf 0 0 0 rg (Documentation/filesystems/sysfs.txt) Tj /F1 10 Tf 0 0 0 rg (\) or the ) Tj /F3 10 Tf 0 0 0 rg (/proc ) Tj /F1 10 Tf 0 0 0 rg (filesystem may be more) Tj T* 0 Tw 2.430888 Tw (appropriate. However, access to these mechanisms requires that the relevant filesystem is) Tj T* 0 Tw 2.729069 Tw (mounted, which might not always be the case \(e.g. in a namespaced/sandboxed/chrooted) Tj T* 0 Tw .164269 Tw (environment\). Avoid adding any API to debugfs, as this is not considered a 'production' interface) Tj T* 0 Tw (to userspace.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 114 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 50 Tm 5.480697 Tw 12 TL /F1 10 Tf 0 0 0 rg (If the operation is specific to a particular file or file descriptor, then an additional) Tj T* 0 Tw .687752 Tw 1 0 0 rg (:manpage:`fcntl\(2\)` ) Tj 0 0 0 rg (command option may be more appropriate. However, ) Tj 1 0 0 rg (:manpage:`fcntl\(2\)` ) Tj 0 0 0 rg (is) Tj T* 0 Tw .527209 Tw (a multiplexing system call that hides a lot of complexity, so this option is best for when the new) Tj T* 0 Tw .104524 Tw (function is closely analogous to existing ) Tj 1 0 0 rg (:manpage:`fcntl\(2\)` ) Tj 0 0 0 rg (functionality, or the new functionality) Tj T* 0 Tw (is very simple \(for example, getting/setting a simple flag related to a file descriptor\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm .558555 Tw 12 TL /F1 10 Tf 0 0 0 rg (If the operation is specific to a particular task or process, then an additional ) Tj 1 0 0 rg (:manpage:`prctl\(2\)`) Tj T* 0 Tw 1.673059 Tw 0 0 0 rg (command option may be more appropriate. As with ) Tj 1 0 0 rg (:manpage:`fcntl\(2\)`) Tj 0 0 0 rg (, this system call is a) Tj T* 0 Tw .081647 Tw (complicated multiplexor so is best reserved for near-analogs of existing ) Tj /F3 10 Tf 0 0 0 rg (prctl\(\) ) Tj /F1 10 Tf 0 0 0 rg (commands or) Tj T* 0 Tw (getting/setting a simple flag related to a process.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 284.0236 cm
+Q
+q
+1 0 0 1 62.69291 251.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Designing the API: Planning for Extension) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 209.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .342846 Tw (A new system call forms part of the API of the kernel, and has to be supported indefinitely. As such, it's a) Tj T* 0 Tw 1.111654 Tw (very good idea to explicitly discuss the interface on the kernel mailing list, and it's important to plan for) Tj T* 0 Tw (future extensions of the interface.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 155.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 4.090697 Tw 12 TL /F1 10 Tf 0 0 0 rg (\(The syscall table is littered with historical examples where this wasn't done, together with the) Tj T* 0 Tw 23.73163 Tw (corresponding follow-up system calls -- ) Tj /F3 10 Tf 0 0 0 rg (eventfd) Tj /F1 10 Tf 0 0 0 rg (/) Tj /F3 10 Tf 0 0 0 rg (eventfd2) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (dup2) Tj /F1 10 Tf 0 0 0 rg (/) Tj /F3 10 Tf 0 0 0 rg (dup3) Tj /F1 10 Tf 0 0 0 rg (,) Tj T* 0 Tw 1.178863 Tw /F3 10 Tf 0 0 0 rg (inotify_init) Tj /F1 10 Tf 0 0 0 rg (/) Tj /F3 10 Tf 0 0 0 rg (inotify_init1) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (pipe) Tj /F1 10 Tf 0 0 0 rg (/) Tj /F3 10 Tf 0 0 0 rg (pipe2) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (renameat) Tj /F1 10 Tf 0 0 0 rg (/) Tj /F3 10 Tf 0 0 0 rg (renameat2 ) Tj /F1 10 Tf 0 0 0 rg (-- so learn from the history of) Tj T* 0 Tw (the kernel and plan for extensions from the start.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 101.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 2.107633 Tw 12 TL /F1 10 Tf 0 0 0 rg (For simpler system calls that only take a couple of arguments, the preferred way to allow for future) Tj T* 0 Tw .374692 Tw (extensibility is to include a flags argument to the system call. To make sure that userspace programs can) Tj T* 0 Tw 1.237318 Tw (safely use flags between kernel versions, check whether the flags value holds any unknown flags, and) Tj T* 0 Tw (reject the system call \(with ) Tj /F3 10 Tf 0 0 0 rg (EINVAL) Tj /F1 10 Tf 0 0 0 rg (\) if it does:) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+54 0 obj
+<< /Length 6961 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 727.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F3 10 Tf 0 0 0 rg (if \(flags ) Tj (&) Tj ( ~\(THING_FLAG1 | THING_FLAG2 | THING_FLAG3\)\)) Tj T* (    return -EINVAL;) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 707.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\(If no flags values are used yet, check that the flags argument is zero.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 665.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.654269 Tw (For more sophisticated system calls that involve a larger number of arguments, it's preferred to) Tj T* 0 Tw .862927 Tw (encapsulate the majority of the arguments into a structure that is passed in by pointer. Such a structure) Tj T* 0 Tw (can cope with future extension by including a size argument in the structure:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 572.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+BT 1 0 0 1 0 62 Tm 12 TL /F3 10 Tf 0 0 0 rg (struct xyzzy_params {) Tj T* (    u32 size; /* userspace sets p-) Tj (>) Tj (size = sizeof\(struct xyzzy_params\) */) Tj T* (    u32 param_1;) Tj T* (    u64 param_2;) Tj T* (    u64 param_3;) Tj T* (};) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 540.6236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.118221 Tw 12 TL /F1 10 Tf 0 0 0 rg (As long as any subsequently added field, say ) Tj /F3 10 Tf 0 0 0 rg (param_4) Tj /F1 10 Tf 0 0 0 rg (, is designed so that a zero value gives the) Tj T* 0 Tw (previous behaviour, then this allows both directions of version mismatch:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 534.6236 cm
+Q
+q
+1 0 0 1 62.69291 462.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.039984 Tw 12 TL /F1 10 Tf 0 0 0 rg (To cope with a later userspace program calling an older kernel, the kernel code should check) Tj T* 0 Tw .071235 Tw (that any memory beyond the size of the structure that it expects is zero \(effectively checking that) Tj T* 0 Tw /F3 10 Tf 0 0 0 rg (param_4) Tj ( ) Tj (==) Tj ( ) Tj (0) Tj /F1 10 Tf 0 0 0 rg (\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 3.575697 Tw 12 TL /F1 10 Tf 0 0 0 rg (To cope with an older userspace program calling a newer kernel, the kernel code can) Tj T* 0 Tw (zero-extend a smaller instance of the structure \(effectively setting ) Tj /F3 10 Tf 0 0 0 rg (param_4) Tj ( ) Tj (=) Tj ( ) Tj (0) Tj /F1 10 Tf 0 0 0 rg (\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 462.6236 cm
+Q
+q
+1 0 0 1 62.69291 432.6236 cm
+q
+BT 1 0 0 1 0 14 Tm 19.71829 Tw 12 TL /F1 10 Tf 0 0 0 rg (See ) Tj 1 0 0 rg (:manpage:`perf_event_open\(2\)` ) Tj 0 0 0 rg (and the ) Tj /F3 10 Tf 0 0 0 rg (perf_copy_attr\(\) ) Tj /F1 10 Tf 0 0 0 rg (function \(in) Tj T* 0 Tw /F3 10 Tf 0 0 0 rg (kernel/events/core.c) Tj /F1 10 Tf 0 0 0 rg (\) for an example of this approach.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 399.6236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Designing the API: Other Considerations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 357.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .679488 Tw (If your new system call allows userspace to refer to a kernel object, it should use a file descriptor as the) Tj T* 0 Tw .676654 Tw (handle for that object -- don't invent a new type of userspace object handle when the kernel already has) Tj T* 0 Tw (mechanisms and well-defined semantics for using file descriptors.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 267.6236 cm
+q
+BT 1 0 0 1 0 74 Tm 1.277318 Tw 12 TL /F1 10 Tf 0 0 0 rg (If your new ) Tj 1 0 0 rg (:manpage:`xyzzy\(2\)` ) Tj 0 0 0 rg (system call does return a new file descriptor, then the flags argument) Tj T* 0 Tw .199431 Tw (should include a value that is equivalent to setting ) Tj /F3 10 Tf 0 0 0 rg (O_CLOEXEC ) Tj /F1 10 Tf 0 0 0 rg (on the new FD. This makes it possible for) Tj T* 0 Tw 18.34553 Tw (userspace to close the timing window between ) Tj /F3 10 Tf 0 0 0 rg (xyzzy\(\) ) Tj /F1 10 Tf 0 0 0 rg (and calling) Tj T* 0 Tw 2.600976 Tw /F3 10 Tf 0 0 0 rg (fcntl\(fd,) Tj ( ) Tj (F_SETFD,) Tj ( ) Tj (FD_CLOEXEC\)) Tj /F1 10 Tf 0 0 0 rg (, where an unexpected ) Tj /F3 10 Tf 0 0 0 rg (fork\(\) ) Tj /F1 10 Tf 0 0 0 rg (and ) Tj /F3 10 Tf 0 0 0 rg (execve\(\) ) Tj /F1 10 Tf 0 0 0 rg (in another) Tj T* 0 Tw .103735 Tw (thread could leak a descriptor to the exec'ed program. \(However, resist the temptation to re-use the actual) Tj T* 0 Tw .499398 Tw (value of the ) Tj /F3 10 Tf 0 0 0 rg (O_CLOEXEC ) Tj /F1 10 Tf 0 0 0 rg (constant, as it is architecture-specific and is part of a numbering space of ) Tj /F3 10 Tf 0 0 0 rg (O_*) Tj T* 0 Tw /F1 10 Tf 0 0 0 rg (flags that is fairly full.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 213.6236 cm
+q
+BT 1 0 0 1 0 38 Tm 2.082765 Tw 12 TL /F1 10 Tf 0 0 0 rg (If your system call returns a new file descriptor, you should also consider what it means to use the) Tj T* 0 Tw .574651 Tw 1 0 0 rg (:manpage:`poll\(2\)` ) Tj 0 0 0 rg (family of system calls on that file descriptor. Making a file descriptor ready for reading) Tj T* 0 Tw 1.445251 Tw (or writing is the normal way for the kernel to indicate to userspace that an event has occurred on the) Tj T* 0 Tw (corresponding kernel object.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 195.6236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (If your new ) Tj 1 0 0 rg (:manpage:`xyzzy\(2\)` ) Tj 0 0 0 rg (system call involves a filename argument:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 162.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (int sys_xyzzy\(const char __user *path, ..., unsigned int flags\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 142.4236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (you should also consider whether an ) Tj 1 0 0 rg (:manpage:`xyzzyat\(2\)` ) Tj 0 0 0 rg (version is more appropriate:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 109.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (int sys_xyzzyat\(int dfd, const char __user *path, ..., unsigned int flags\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+55 0 obj
+<< /Length 7729 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .01811 Tw 12 TL /F1 10 Tf 0 0 0 rg (This allows more flexibility for how userspace specifies the file in question; in particular it allows userspace) Tj T* 0 Tw 3.439147 Tw (to request the functionality for an already-opened file descriptor using the ) Tj /F3 10 Tf 0 0 0 rg (AT_EMPTY_PATH ) Tj /F1 10 Tf 0 0 0 rg (flag,) Tj T* 0 Tw (effectively giving an ) Tj 1 0 0 rg (:manpage:`fxyzzy\(3\)` ) Tj 0 0 0 rg (operation for free:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 683.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F3 10 Tf 12 TL (- xyzzyat\(AT_FDCWD, path, ..., 0\) is equivalent to xyzzy\(path,...\)) Tj T* (- xyzzyat\(fd, "", ..., AT_EMPTY_PATH\) is equivalent to fxyzzy\(fd, ...\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 651.8236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.13311 Tw 12 TL /F1 10 Tf 0 0 0 rg (\(For more details on the rationale of the *at\(\) calls, see the ) Tj 1 0 0 rg (:manpage:`openat\(2\)` ) Tj 0 0 0 rg (man page; for an) Tj T* 0 Tw (example of AT_EMPTY_PATH, see the ) Tj 1 0 0 rg (:manpage:`fstatat\(2\)` ) Tj 0 0 0 rg (man page.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 621.8236 cm
+q
+BT 1 0 0 1 0 14 Tm .500651 Tw 12 TL /F1 10 Tf 0 0 0 rg (If your new ) Tj 1 0 0 rg (:manpage:`xyzzy\(2\)` ) Tj 0 0 0 rg (system call involves a parameter describing an offset within a file, make) Tj T* 0 Tw (its type ) Tj /F3 10 Tf 0 0 0 rg (loff_t ) Tj /F1 10 Tf 0 0 0 rg (so that 64-bit offsets can be supported even on 32-bit architectures.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.8236 cm
+q
+BT 1 0 0 1 0 62 Tm .81284 Tw 12 TL /F1 10 Tf 0 0 0 rg (If your new ) Tj 1 0 0 rg (:manpage:`xyzzy\(2\)` ) Tj 0 0 0 rg (system call involves privileged functionality, it needs to be governed by) Tj T* 0 Tw 4.814269 Tw (the appropriate Linux capability bit \(checked with a call to ) Tj /F3 10 Tf 0 0 0 rg (capable\(\)) Tj /F1 10 Tf 0 0 0 rg (\), as described in the) Tj T* 0 Tw .829979 Tw 1 0 0 rg (:manpage:`capabilities\(7\)` ) Tj 0 0 0 rg (man page. Choose an existing capability bit that governs related functionality,) Tj T* 0 Tw .443876 Tw (but try to avoid combining lots of only vaguely related functions together under the same bit, as this goes) Tj T* 0 Tw 1.63061 Tw (against capabilities' purpose of splitting the power of root. In particular, avoid adding new uses of the) Tj T* 0 Tw (already overly-general ) Tj /F3 10 Tf 0 0 0 rg (CAP_SYS_ADMIN ) Tj /F1 10 Tf 0 0 0 rg (capability.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 489.8236 cm
+q
+BT 1 0 0 1 0 38 Tm 2.004269 Tw 12 TL /F1 10 Tf 0 0 0 rg (If your new ) Tj 1 0 0 rg (:manpage:`xyzzy\(2\)` ) Tj 0 0 0 rg (system call manipulates a process other than the calling process, it) Tj T* 0 Tw 1.790651 Tw (should be restricted \(using a call to ) Tj /F3 10 Tf 0 0 0 rg (ptrace_may_access\(\)) Tj /F1 10 Tf 0 0 0 rg (\) so that only a calling process with the) Tj T* 0 Tw 1.605697 Tw (same permissions as the target process, or with the necessary capabilities, can manipulate the target) Tj T* 0 Tw (process.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 435.8236 cm
+q
+BT 1 0 0 1 0 38 Tm .537485 Tw 12 TL /F1 10 Tf 0 0 0 rg (Finally, be aware that some non-x86 architectures have an easier time if system call parameters that are) Tj T* 0 Tw .64061 Tw (explicitly 64-bit fall on odd-numbered arguments \(i.e. parameter 1, 3, 5\), to allow use of contiguous pairs) Tj T* 0 Tw .028409 Tw (of 32-bit registers. \(This concern does not apply if the arguments are part of a structure that's passed in by) Tj T* 0 Tw (pointer.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 402.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Proposing the API) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 372.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .401098 Tw (To make new system calls easy to review, it's best to divide up the patchset into separate chunks. These) Tj T* 0 Tw (should include at least the following items as distinct commits \(each of which is described further below\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 366.8236 cm
+Q
+q
+1 0 0 1 62.69291 246.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 114 cm
+Q
+q
+1 0 0 1 20 114 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.035433 Tw (The core implementation of the system call, together with prototypes, generic numbering,) Tj T* 0 Tw (Kconfig changes and fallback stub implementation.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.708651 Tw (Wiring up of the new system call for one particular architecture, usually x86 \(including all of) Tj T* 0 Tw (x86_64, x86_32 and x32\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 5.189318 Tw 12 TL /F1 10 Tf 0 0 0 rg (A demonstration of the use of the new system call in userspace via a selftest in) Tj T* 0 Tw /F3 10 Tf 0 0 0 rg (tools/testing/selftests/) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .223488 Tw (A draft man-page for the new system call, either as plain text in the cover letter, or as a patch to) Tj T* 0 Tw (the \(separate\) man-pages repository.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 246.8236 cm
+Q
+q
+1 0 0 1 62.69291 216.8236 cm
+q
+BT 1 0 0 1 0 14 Tm 4.911984 Tw 12 TL /F1 10 Tf 0 0 0 rg (New system call proposals, like any change to the kernel's API, should always be cc'ed to) Tj T* 0 Tw 0 0 .501961 rg (linux-api@vger.kernel.org) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 183.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Generic System Call Implementation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 117.8236 cm
+q
+BT 1 0 0 1 0 50 Tm .546651 Tw 12 TL /F1 10 Tf 0 0 0 rg (The main entry point for your new ) Tj 1 0 0 rg (:manpage:`xyzzy\(2\)` ) Tj 0 0 0 rg (system call will be called ) Tj /F3 10 Tf 0 0 0 rg (sys_xyzzy\(\)) Tj /F1 10 Tf 0 0 0 rg (, but you) Tj T* 0 Tw 2.276136 Tw (add this entry point with the appropriate ) Tj /F3 10 Tf 0 0 0 rg (SYSCALL_DEFINEn\(\) ) Tj /F1 10 Tf 0 0 0 rg (macro rather than explicitly. The 'n') Tj T* 0 Tw .210574 Tw (indicates the number of arguments to the system call, and the macro takes the system call name followed) Tj T* 0 Tw .744985 Tw (by the \(type, name\) pairs for the parameters as arguments. Using this macro allows metadata about the) Tj T* 0 Tw (new system call to be made available for other tools.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 87.82362 cm
+q
+BT 1 0 0 1 0 14 Tm 1.025433 Tw 12 TL /F1 10 Tf 0 0 0 rg (The new entry point also needs a corresponding function prototype, in ) Tj /F3 10 Tf 0 0 0 rg (include/linux/syscalls.h) Tj /F1 10 Tf 0 0 0 rg (,) Tj T* 0 Tw (marked as asmlinkage to match the way that system calls are invoked:) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+56 0 obj
+<< /Length 8107 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 739.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (asmlinkage long sys_xyzzy\(...\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 695.8236 cm
+q
+BT 1 0 0 1 0 26 Tm 3.079147 Tw 12 TL /F1 10 Tf 0 0 0 rg (Some architectures \(e.g. x86\) have their own architecture-specific syscall tables, but several other) Tj T* 0 Tw .075542 Tw (architectures share a generic syscall table. Add your new system call to the generic list by adding an entry) Tj T* 0 Tw (to the list in ) Tj /F3 10 Tf 0 0 0 rg (include/uapi/asm-generic/unistd.h) Tj /F1 10 Tf 0 0 0 rg (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 650.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F3 10 Tf 12 TL (#define __NR_xyzzy 292) Tj T* (__SYSCALL\(__NR_xyzzy, sys_xyzzy\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 606.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.16061 Tw (Also update the __NR_syscalls count to reflect the additional system call, and note that if multiple new) Tj T* 0 Tw .309986 Tw (system calls are added in the same merge window, your new syscall number may get adjusted to resolve) Tj T* 0 Tw (conflicts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 576.6236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.53498 Tw 12 TL /F1 10 Tf 0 0 0 rg (The file ) Tj /F3 10 Tf 0 0 0 rg (kernel/sys_ni.c ) Tj /F1 10 Tf 0 0 0 rg (provides a fallback stub implementation of each system call, returning) Tj T* 0 Tw /F3 10 Tf 0 0 0 rg (-ENOSYS) Tj /F1 10 Tf 0 0 0 rg (. Add your new system call here too:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (cond_syscall\(sys_xyzzy\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 511.4236 cm
+q
+BT 1 0 0 1 0 14 Tm .863516 Tw 12 TL /F1 10 Tf 0 0 0 rg (Your new kernel functionality, and the system call that controls it, should normally be optional, so add a) Tj T* 0 Tw /F3 10 Tf 0 0 0 rg (CONFIG ) Tj /F1 10 Tf 0 0 0 rg (option \(typically to ) Tj /F3 10 Tf 0 0 0 rg (init/Kconfig) Tj /F1 10 Tf 0 0 0 rg (\) for it. As usual for new ) Tj /F3 10 Tf 0 0 0 rg (CONFIG ) Tj /F1 10 Tf 0 0 0 rg (options:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 505.4236 cm
+Q
+q
+1 0 0 1 62.69291 421.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 66 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Include a description of the new functionality and system call controlled by the option.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 48 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Make the option depend on EXPERT if it should be hidden from normal users.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .914269 Tw 12 TL /F1 10 Tf 0 0 0 rg (Make any new source files implementing the function dependent on the CONFIG option in the) Tj T* 0 Tw (Makefile \(e.g. ) Tj /F3 10 Tf 0 0 0 rg (obj-$\(CONFIG_XYZZY_SYSCALL\)) Tj ( ) Tj (+=) Tj ( ) Tj (xyzzy.c) Tj /F1 10 Tf 0 0 0 rg (\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Double check that the kernel still builds with the new CONFIG option turned off.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 421.4236 cm
+Q
+q
+1 0 0 1 62.69291 403.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To summarize, you need a commit that includes:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 397.4236 cm
+Q
+q
+1 0 0 1 62.69291 307.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (CONFIG ) Tj /F1 10 Tf 0 0 0 rg (option for the new function, normally in ) Tj /F3 10 Tf 0 0 0 rg (init/Kconfig) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (SYSCALL_DEFINEn\(xyzzy,) Tj ( ) Tj (...\) ) Tj /F1 10 Tf 0 0 0 rg (for the entry point) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (corresponding prototype in ) Tj /F3 10 Tf 0 0 0 rg (include/linux/syscalls.h) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (generic table entry in ) Tj /F3 10 Tf 0 0 0 rg (include/uapi/asm-generic/unistd.h) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (fallback stub in ) Tj /F3 10 Tf 0 0 0 rg (kernel/sys_ni.c) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 307.4236 cm
+Q
+q
+1 0 0 1 62.69291 274.4236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (x86 System Call Implementation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 232.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.597633 Tw (To wire up your new system call for x86 platforms, you need to update the master syscall tables.) Tj T* 0 Tw .239986 Tw (Assuming your new system call isn't special in some way \(see below\), this involves a "common" entry \(for) Tj T* 0 Tw (x86_64 and x32\) in arch/x86/entry/syscalls/syscall_64.tbl:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 199.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (333   common   xyzzy     sys_xyzzy) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 179.2236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (and an "i386" entry in ) Tj /F3 10 Tf 0 0 0 rg (arch/x86/entry/syscalls/syscall_32.tbl) Tj /F1 10 Tf 0 0 0 rg (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 146.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (380   i386     xyzzy     sys_xyzzy) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 126.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Again, these numbers are liable to be changed if there are conflicts in the relevant merge window.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+57 0 obj
+<< /Length 7512 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Compatibility System Calls \(Generic\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 702.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .276651 Tw (For most system calls the same 64-bit implementation can be invoked even when the userspace program) Tj T* 0 Tw 4.187984 Tw (is itself 32-bit; even if the system call's parameters include an explicit pointer, this is handled) Tj T* 0 Tw (transparently.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.79436 Tw (However, there are a couple of situations where a compatibility layer is needed to cope with size) Tj T* 0 Tw (differences between 32-bit and 64-bit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 630.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .784987 Tw 12 TL /F1 10 Tf 0 0 0 rg (The first is if the 64-bit kernel also supports 32-bit userspace programs, and so needs to parse areas of) Tj T* 0 Tw .89186 Tw (\() Tj /F3 10 Tf 0 0 0 rg (__user) Tj /F1 10 Tf 0 0 0 rg (\) memory that could hold either 32-bit or 64-bit values. In particular, this is needed whenever a) Tj T* 0 Tw (system call argument is:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (a pointer to a pointer) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (a pointer to a struct containing a pointer \(e.g. ) Tj /F3 10 Tf 0 0 0 rg (struct) Tj ( ) Tj (iovec) Tj ( ) Tj (__user) Tj ( ) Tj (*) Tj /F1 10 Tf 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (a pointer to a varying sized integral type \() Tj /F3 10 Tf 0 0 0 rg (time_t) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (off_t) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (long) Tj /F1 10 Tf 0 0 0 rg (, ...\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (a pointer to a struct containing a varying sized integral type.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+Q
+q
+1 0 0 1 62.69291 498.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .308876 Tw 12 TL /F1 10 Tf 0 0 0 rg (The second situation that requires a compatibility layer is if one of the system call's arguments has a type) Tj T* 0 Tw .397765 Tw (that is explicitly 64-bit even on a 32-bit architecture, for example ) Tj /F3 10 Tf 0 0 0 rg (loff_t ) Tj /F1 10 Tf 0 0 0 rg (or ) Tj /F3 10 Tf 0 0 0 rg (__u64) Tj /F1 10 Tf 0 0 0 rg (. In this case, a value) Tj T* 0 Tw .393145 Tw (that arrives at a 64-bit kernel from a 32-bit application will be split into two 32-bit values, which then need) Tj T* 0 Tw (to be re-assembled in the compatibility layer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 456.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .586654 Tw 12 TL /F1 10 Tf 0 0 0 rg (\(Note that a system call argument that's a pointer to an explicit 64-bit type does ) Tj /F2 10 Tf (not ) Tj /F1 10 Tf (need a compatibility) Tj T* 0 Tw .288555 Tw (layer; for example, ) Tj 1 0 0 rg (:manpage:`splice\(2\)`) Tj 0 0 0 rg ('s arguments of type ) Tj /F3 10 Tf 0 0 0 rg (loff_t) Tj ( ) Tj (__user) Tj ( ) Tj (* ) Tj /F1 10 Tf 0 0 0 rg (do not trigger the need) Tj T* 0 Tw (for a ) Tj /F3 10 Tf 0 0 0 rg (compat_ ) Tj /F1 10 Tf 0 0 0 rg (system call.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 378.0236 cm
+q
+BT 1 0 0 1 0 62 Tm 2.149269 Tw 12 TL /F1 10 Tf 0 0 0 rg (The compatibility version of the system call is called ) Tj /F3 10 Tf 0 0 0 rg (compat_sys_xyzzy\(\)) Tj /F1 10 Tf 0 0 0 rg (, and is added with the) Tj T* 0 Tw 5.30497 Tw /F3 10 Tf 0 0 0 rg (COMPAT_SYSCALL_DEFINEn\(\) ) Tj /F1 10 Tf 0 0 0 rg (macro, analogously to SYSCALL_DEFINEn. This version of the) Tj T* 0 Tw .917485 Tw (implementation runs as part of a 64-bit kernel, but expects to receive 32-bit parameter values and does) Tj T* 0 Tw .181318 Tw (whatever is needed to deal with them. \(Typically, the ) Tj /F3 10 Tf 0 0 0 rg (compat_sys_ ) Tj /F1 10 Tf 0 0 0 rg (version converts the values to 64-bit) Tj T* 0 Tw 1.192339 Tw (versions and either calls on to the ) Tj /F3 10 Tf 0 0 0 rg (sys_ ) Tj /F1 10 Tf 0 0 0 rg (version, or both of them call a common inner implementation) Tj T* 0 Tw (function.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 348.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .802706 Tw 12 TL /F1 10 Tf 0 0 0 rg (The compat entry point also needs a corresponding function prototype, in ) Tj /F3 10 Tf 0 0 0 rg (include/linux/compat.h) Tj /F1 10 Tf 0 0 0 rg (,) Tj T* 0 Tw (marked as asmlinkage to match the way that system calls are invoked:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 314.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (asmlinkage long compat_sys_xyzzy\(...\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 246.8236 cm
+q
+BT 1 0 0 1 0 50 Tm 2.728221 Tw 12 TL /F1 10 Tf 0 0 0 rg (If the system call involves a structure that is laid out differently on 32-bit and 64-bit systems, say) Tj T* 0 Tw .689147 Tw /F3 10 Tf 0 0 0 rg (struct) Tj ( ) Tj (xyzzy_args) Tj /F1 10 Tf 0 0 0 rg (, then the include/linux/compat.h header file should also include a compat version) Tj T* 0 Tw 2.392706 Tw (of the structure \() Tj /F3 10 Tf 0 0 0 rg (struct compat_xyzzy_args) Tj /F1 10 Tf 0 0 0 rg (\) where each variable-size field has the appropriate) Tj T* 0 Tw 2.485433 Tw /F3 10 Tf 0 0 0 rg (compat_ ) Tj /F1 10 Tf 0 0 0 rg (type that corresponds to the type in ) Tj /F3 10 Tf 0 0 0 rg (struct) Tj ( ) Tj (xyzzy_args) Tj /F1 10 Tf 0 0 0 rg (. The ) Tj /F3 10 Tf 0 0 0 rg (compat_sys_xyzzy\(\)) Tj T* 0 Tw /F1 10 Tf 0 0 0 rg (routine can then use this ) Tj /F3 10 Tf 0 0 0 rg (compat_ ) Tj /F1 10 Tf 0 0 0 rg (structure to parse the arguments from a 32-bit invocation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 228.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (For example, if there are fields:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 135.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F3 10 Tf 12 TL (struct xyzzy_args {) Tj T* (    const char __user *ptr;) Tj T* (    __kernel_long_t varying_val;) Tj T* (    u64 fixed_val;) Tj T* (    /* ... */) Tj T* (};) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 115.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (in struct xyzzy_args, then struct compat_xyzzy_args would have:) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+58 0 obj
+<< /Length 6545 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 679.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F3 10 Tf 12 TL (struct compat_xyzzy_args {) Tj T* (    compat_uptr_t ptr;) Tj T* (    compat_long_t varying_val;) Tj T* (    u64 fixed_val;) Tj T* (    /* ... */) Tj T* (};) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 647.8236 cm
+q
+BT 1 0 0 1 0 14 Tm 3.906235 Tw 12 TL /F1 10 Tf 0 0 0 rg (The generic system call list also needs adjusting to allow for the compat version; the entry in) Tj T* 0 Tw /F3 10 Tf 0 0 0 rg (include/uapi/asm-generic/unistd.h ) Tj /F1 10 Tf 0 0 0 rg (should use ) Tj /F3 10 Tf 0 0 0 rg (__SC_COMP ) Tj /F1 10 Tf 0 0 0 rg (rather than ) Tj /F3 10 Tf 0 0 0 rg (__SYSCALL) Tj /F1 10 Tf 0 0 0 rg (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 602.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F3 10 Tf 12 TL (#define __NR_xyzzy 292) Tj T* (__SC_COMP\(__NR_xyzzy, sys_xyzzy, compat_sys_xyzzy\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 582.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To summarize, you need:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 576.6236 cm
+Q
+q
+1 0 0 1 62.69291 504.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (a ) Tj /F3 10 Tf 0 0 0 rg (COMPAT_SYSCALL_DEFINEn\(xyzzy,) Tj ( ) Tj (...\) ) Tj /F1 10 Tf 0 0 0 rg (for the compat entry point) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (corresponding prototype in ) Tj /F3 10 Tf 0 0 0 rg (include/linux/compat.h) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (\(if needed\) 32-bit mapping struct in ) Tj /F3 10 Tf 0 0 0 rg (include/linux/compat.h) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (instance of ) Tj /F3 10 Tf 0 0 0 rg (__SC_COMP ) Tj /F1 10 Tf 0 0 0 rg (not ) Tj /F3 10 Tf 0 0 0 rg (__SYSCALL ) Tj /F1 10 Tf 0 0 0 rg (in ) Tj /F3 10 Tf 0 0 0 rg (include/uapi/asm-generic/unistd.h) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 504.6236 cm
+Q
+q
+1 0 0 1 62.69291 471.6236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Compatibility System Calls \(x86\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 441.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.497209 Tw (To wire up the x86 architecture of a system call with a compatibility version, the entries in the syscall) Tj T* 0 Tw (tables need to be adjusted.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 411.6236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.745976 Tw 12 TL /F1 10 Tf 0 0 0 rg (First, the entry in ) Tj /F3 10 Tf 0 0 0 rg (arch/x86/entry/syscalls/syscall_32.tbl ) Tj /F1 10 Tf 0 0 0 rg (gets an extra column to indicate) Tj T* 0 Tw (that a 32-bit userspace program running on a 64-bit kernel should hit the compat entry point:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 378.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (380   i386     xyzzy     sys_xyzzy    compat_sys_xyzzy) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 334.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.86332 Tw (Second, you need to figure out what should happen for the x32 ABI version of the new system call.) Tj T* 0 Tw 1.273516 Tw (There's a choice here: the layout of the arguments should either match the 64-bit version or the 32-bit) Tj T* 0 Tw (version.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 292.4236 cm
+q
+BT 1 0 0 1 0 26 Tm .096457 Tw 12 TL /F1 10 Tf 0 0 0 rg (If there's a pointer-to-a-pointer involved, the decision is easy: x32 is ILP32, so the layout should match the) Tj T* 0 Tw 1.73816 Tw (32-bit version, and the entry in ) Tj /F3 10 Tf 0 0 0 rg (arch/x86/entry/syscalls/syscall_64.tbl ) Tj /F1 10 Tf 0 0 0 rg (is split so that x32) Tj T* 0 Tw (programs hit the compatibility wrapper:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 235.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F3 10 Tf 12 TL (333   64       xyzzy     sys_xyzzy) Tj T* (...) Tj T* (555   x32      xyzzy     compat_sys_xyzzy) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 203.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.796303 Tw (If no pointers are involved, then it is preferable to re-use the 64-bit system call for the x32 ABI \(and) Tj T* 0 Tw (consequently the entry in arch/x86/entry/syscalls/syscall_64.tbl is unchanged\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 173.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .862339 Tw (In either case, you should check that the types involved in your argument layout do indeed map exactly) Tj T* 0 Tw (from x32 \(-mx32\) to either the 32-bit \(-m32\) or 64-bit \(-m64\) equivalents.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 140.2236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (System Calls Returning Elsewhere) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 98.22362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .670574 Tw (For most system calls, once the system call is complete the user program continues exactly where it left) Tj T* 0 Tw 1.177988 Tw (off -- at the next instruction, with the stack the same and most of the registers the same as before the) Tj T* 0 Tw (system call, and with the same virtual memory space.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+59 0 obj
+<< /Length 7369 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 5.33784 Tw 12 TL /F1 10 Tf 0 0 0 rg (However, a few system calls do things differently. They might return to a different location) Tj T* 0 Tw 7.644418 Tw (\() Tj /F3 10 Tf 0 0 0 rg (rt_sigreturn) Tj /F1 10 Tf 0 0 0 rg (\) or change the memory space \() Tj /F3 10 Tf 0 0 0 rg (fork) Tj /F1 10 Tf 0 0 0 rg (/) Tj /F3 10 Tf 0 0 0 rg (vfork) Tj /F1 10 Tf 0 0 0 rg (/) Tj /F3 10 Tf 0 0 0 rg (clone) Tj /F1 10 Tf 0 0 0 rg (\) or even architecture) Tj T* 0 Tw (\() Tj /F3 10 Tf 0 0 0 rg (execve) Tj /F1 10 Tf 0 0 0 rg (/) Tj /F3 10 Tf 0 0 0 rg (execveat) Tj /F1 10 Tf 0 0 0 rg (\) of the program.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.125868 Tw (To allow for this, the kernel implementation of the system call may need to save and restore additional) Tj T* 0 Tw 1.163984 Tw (registers to the kernel stack, allowing complete control of where and how execution continues after the) Tj T* 0 Tw (system call.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.106647 Tw (This is arch-specific, but typically involves defining assembly entry points that save/restore additional) Tj T* 0 Tw (registers and invoke the real system call entry point.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 627.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .453314 Tw 12 TL /F1 10 Tf 0 0 0 rg (For x86_64, this is implemented as a ) Tj /F3 10 Tf 0 0 0 rg (stub_xyzzy ) Tj /F1 10 Tf 0 0 0 rg (entry point in ) Tj /F3 10 Tf 0 0 0 rg (arch/x86/entry/entry_64.S) Tj /F1 10 Tf 0 0 0 rg (, and) Tj T* 0 Tw (the entry in the syscall table \() Tj /F3 10 Tf 0 0 0 rg (arch/x86/entry/syscalls/syscall_64.tbl) Tj /F1 10 Tf 0 0 0 rg (\) is adjusted to match:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 593.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (333   common   xyzzy     stub_xyzzy) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 549.8236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.711412 Tw 12 TL /F1 10 Tf 0 0 0 rg (The equivalent for 32-bit programs running on a 64-bit kernel is normally called ) Tj /F3 10 Tf 0 0 0 rg (stub32_xyzzy ) Tj /F1 10 Tf 0 0 0 rg (and) Tj T* 0 Tw 6.272823 Tw (implemented in ) Tj /F3 10 Tf 0 0 0 rg (arch/x86/entry/entry_64_compat.S) Tj /F1 10 Tf 0 0 0 rg (, with the corresponding syscall table) Tj T* 0 Tw (adjustment in ) Tj /F3 10 Tf 0 0 0 rg (arch/x86/entry/syscalls/syscall_32.tbl) Tj /F1 10 Tf 0 0 0 rg (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 516.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (380   i386     xyzzy     sys_xyzzy    stub32_xyzzy) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 460.6236 cm
+q
+BT 1 0 0 1 0 38 Tm .03528 Tw 12 TL /F1 10 Tf 0 0 0 rg (If the system call needs a compatibility layer \(as in the previous section\) then the ) Tj /F3 10 Tf 0 0 0 rg (stub32_ ) Tj /F1 10 Tf 0 0 0 rg (version needs) Tj T* 0 Tw .142093 Tw (to call on to the ) Tj /F3 10 Tf 0 0 0 rg (compat_sys_ ) Tj /F1 10 Tf 0 0 0 rg (version of the system call rather than the native 64-bit version. Also, if the) Tj T* 0 Tw 1.15881 Tw (x32 ABI implementation is not common with the x86_64 version, then its syscall table will also need to) Tj T* 0 Tw (invoke a stub that calls on to the ) Tj /F3 10 Tf 0 0 0 rg (compat_sys_ ) Tj /F1 10 Tf 0 0 0 rg (version.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 406.6236 cm
+q
+BT 1 0 0 1 0 38 Tm .235777 Tw 12 TL /F1 10 Tf 0 0 0 rg (For completeness, it's also nice to set up a mapping so that user-mode Linux still works -- its syscall table) Tj T* 0 Tw 5.51664 Tw (will reference stub_xyzzy, but the UML build doesn't include ) Tj /F3 10 Tf 0 0 0 rg (arch/x86/entry/entry_64.S) Tj T* 0 Tw 1.463318 Tw /F1 10 Tf 0 0 0 rg (implementation \(because UML simulates registers etc\). Fixing this is as simple as adding a #define to) Tj T* 0 Tw /F3 10 Tf 0 0 0 rg (arch/x86/um/sys_call_table_64.c) Tj /F1 10 Tf 0 0 0 rg (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 373.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (#define stub_xyzzy sys_xyzzy) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 340.4236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Other Details) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 310.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.217765 Tw (Most of the kernel treats system calls in a generic way, but there is the occasional exception that may) Tj T* 0 Tw (need updating for your particular system call.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 256.4236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.845697 Tw 12 TL /F1 10 Tf 0 0 0 rg (The audit subsystem is one such special case; it includes \(arch-specific\) functions that classify some) Tj T* 0 Tw 7.909979 Tw (special types of system call -- specifically file open \() Tj /F3 10 Tf 0 0 0 rg (open) Tj /F1 10 Tf 0 0 0 rg (/) Tj /F3 10 Tf 0 0 0 rg (openat) Tj /F1 10 Tf 0 0 0 rg (\), program execution) Tj T* 0 Tw .28748 Tw (\() Tj /F3 10 Tf 0 0 0 rg (execve) Tj /F1 10 Tf 0 0 0 rg (/) Tj /F3 10 Tf 0 0 0 rg (exeveat) Tj /F1 10 Tf 0 0 0 rg (\) or socket multiplexor \() Tj /F3 10 Tf 0 0 0 rg (socketcall) Tj /F1 10 Tf 0 0 0 rg (\) operations. If your new system call is analogous) Tj T* 0 Tw (to one of these, then the audit system should be updated.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 226.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.391098 Tw (More generally, if there is an existing system call that is analogous to your new system call, it's worth) Tj T* 0 Tw (doing a kernel-wide grep for the existing system call to check there are no other special cases.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 193.4236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 151.4236 cm
+q
+BT 1 0 0 1 0 26 Tm .636457 Tw 12 TL /F1 10 Tf 0 0 0 rg (A new system call should obviously be tested; it is also useful to provide reviewers with a demonstration) Tj T* 0 Tw .735488 Tw (of how user space programs will use the system call. A good way to combine these aims is to include a) Tj T* 0 Tw (simple self-test program in a new directory under ) Tj /F3 10 Tf 0 0 0 rg (tools/testing/selftests/) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 109.4236 cm
+q
+BT 1 0 0 1 0 26 Tm .03856 Tw 12 TL /F1 10 Tf 0 0 0 rg (For a new system call, there will obviously be no libc wrapper function and so the test will need to invoke it) Tj T* 0 Tw .783059 Tw (using ) Tj /F3 10 Tf 0 0 0 rg (syscall\(\)) Tj /F1 10 Tf 0 0 0 rg (; also, if the system call involves a new userspace-visible structure, the corresponding) Tj T* 0 Tw (header will need to be installed to compile the test.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 79.42362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .684651 Tw (Make sure the selftest runs successfully on all supported architectures. For example, check that it works) Tj T* 0 Tw (when compiled as an x86_64 \(-m64\), x86_32 \(-m32\) and x32 \(-mx32\) ABI program.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+60 0 obj
+<< /Length 10832 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .15186 Tw (For more extensive and thorough testing of new functionality, you should also consider adding tests to the) Tj T* 0 Tw (Linux Test Project, or to the xfstests project for filesystem-related changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://linux-test-project.github.io/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (git://git.kernel.org/pub/scm/fs/xfs/xfstests-dev.git) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Man Page) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .169431 Tw (All new system calls should come with a complete man page, ideally using groff markup, but plain text will) Tj T* 0 Tw .304488 Tw (do. If groff is used, it's helpful to include a pre-rendered ASCII version of the man page in the cover email) Tj T* 0 Tw (for the patchset, for the convenience of reviewers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 594.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 9.334524 Tw 12 TL /F1 10 Tf 0 0 0 rg (The man page should be cc'ed to ) Tj 0 0 .501961 rg (linux-man@vger.kernel.org ) Tj 0 0 0 rg (For more details, see) Tj T* 0 Tw 0 0 .501961 rg (https://www.kernel.org/doc/man-pages/patches.html) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (References and Sources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+Q
+q
+1 0 0 1 62.69291 76.86614 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 550.1575 cm
+Q
+q
+1 0 0 1 20 550.1575 cm
+Q
+q
+1 0 0 1 20 526.1575 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 8.159147 Tw 12 TL /F1 10 Tf 0 0 0 rg (LWN article from Michael Kerrisk on use of flags argument in system calls:) Tj T* 0 Tw 0 0 .501961 rg (https://lwn.net/Articles/585415/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 520.1575 cm
+Q
+q
+1 0 0 1 20 496.1575 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 4.412126 Tw 12 TL /F1 10 Tf 0 0 0 rg (LWN article from Michael Kerrisk on how to handle unknown flags in a system call:) Tj T* 0 Tw 0 0 .501961 rg (https://lwn.net/Articles/588444/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 490.1575 cm
+Q
+q
+1 0 0 1 20 466.1575 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 5.109979 Tw 12 TL /F1 10 Tf 0 0 0 rg (LWN article from Jake Edge describing constraints on 64-bit system call arguments:) Tj T* 0 Tw 0 0 .501961 rg (https://lwn.net/Articles/311630/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 460.1575 cm
+Q
+q
+1 0 0 1 20 394.1575 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .562126 Tw (Pair of LWN articles from David Drysdale that describe the system call implementation paths in) Tj T* 0 Tw (detail for v3.14:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 33 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://lwn.net/Articles/604287/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://lwn.net/Articles/604515/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 388.1575 cm
+Q
+q
+1 0 0 1 20 364.1575 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.493307 Tw 12 TL /F1 10 Tf 0 0 0 rg (Architecture-specific requirements for system calls are discussed in the ) Tj 1 0 0 rg (:manpage:`syscall\(2\)`) Tj T* 0 Tw 0 0 0 rg (man-page: ) Tj 0 0 .501961 rg (http://man7.org/linux/man-pages/man2/syscall.2.html#NOTES) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 358.1575 cm
+Q
+q
+1 0 0 1 20 334.1575 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 9.977752 Tw 12 TL /F1 10 Tf 0 0 0 rg (Collated emails from Linus Torvalds discussing the problems with ) Tj /F3 10 Tf 0 0 0 rg (ioctl\(\)) Tj /F1 10 Tf 0 0 0 rg (:) Tj T* 0 Tw 0 0 .501961 rg (http://yarchive.net/comp/linux/ioctl.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 328.1575 cm
+Q
+q
+1 0 0 1 20 304.1575 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 26.85997 Tw 12 TL /F1 10 Tf 0 0 0 rg ("How to not invent kernel interfaces", Arnd Bergmann,) Tj T* 0 Tw 0 0 .501961 rg (http://www.ukuug.org/events/linux2007/2007/papers/Bergmann.pdf) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 298.1575 cm
+Q
+q
+1 0 0 1 20 274.1575 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 8.178976 Tw 12 TL /F1 10 Tf 0 0 0 rg (LWN article from Michael Kerrisk on avoiding new uses of CAP_SYS_ADMIN:) Tj T* 0 Tw 0 0 .501961 rg (https://lwn.net/Articles/486306/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 268.1575 cm
+Q
+q
+1 0 0 1 20 244.1575 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .689213 Tw 12 TL /F1 10 Tf 0 0 0 rg (Recommendation from Andrew Morton that all related information for a new system call should) Tj T* 0 Tw (come in the same email thread: ) Tj 0 0 .501961 rg (https://lkml.org/lkml/2014/7/24/641) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 238.1575 cm
+Q
+q
+1 0 0 1 20 214.1575 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.077126 Tw 12 TL /F1 10 Tf 0 0 0 rg (Recommendation from Michael Kerrisk that a new system call should come with a man page:) Tj T* 0 Tw 0 0 .501961 rg (https://lkml.org/lkml/2014/6/13/309) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 208.1575 cm
+Q
+q
+1 0 0 1 20 184.1575 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 4.728314 Tw 12 TL /F1 10 Tf 0 0 0 rg (Suggestion from Thomas Gleixner that x86 wire-up should be in a separate commit:) Tj T* 0 Tw 0 0 .501961 rg (https://lkml.org/lkml/2014/11/19/254) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 178.1575 cm
+Q
+q
+1 0 0 1 20 154.1575 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.765697 Tw 12 TL /F1 10 Tf 0 0 0 rg (Suggestion from Greg Kroah-Hartman that it's good for new system calls to come with a) Tj T* 0 Tw (man-page & selftest: ) Tj 0 0 .501961 rg (https://lkml.org/lkml/2014/3/19/710) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 148.1575 cm
+Q
+q
+1 0 0 1 20 124.1575 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 4.845976 Tw 12 TL /F1 10 Tf 0 0 0 rg (Discussion from Michael Kerrisk of new system call vs. ) Tj 1 0 0 rg (:manpage:`prctl\(2\)` ) Tj 0 0 0 rg (extension:) Tj T* 0 Tw 0 0 .501961 rg (https://lkml.org/lkml/2014/6/3/411) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 118.1575 cm
+Q
+q
+1 0 0 1 20 82.15748 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 4.450888 Tw 12 TL /F1 10 Tf 0 0 0 rg (Suggestion from Ingo Molnar that system calls that involve multiple arguments should) Tj T* 0 Tw 2.226136 Tw (encapsulate those arguments in a struct, which includes a size field for future extensibility:) Tj T* 0 Tw 0 0 .501961 rg (https://lkml.org/lkml/2015/7/30/117) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 76.15748 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 61.15748 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 61.15748 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Numbering oddities arising from \(re-\)use of O_* numbering space flags:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 55.15748 cm
+Q
+q
+1 0 0 1 23 19.15748 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 6 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .98247 Tw (commit 75069f2b5bfb \("vfs: renumber FMODE_NONOTIFY and add to uniqueness) Tj T* 0 Tw (check"\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+61 0 obj
+<< /Length 2496 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 633.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 29 Tm  T* ET
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.237109 Tw (commit 12ed2e36c98a \("fanotify: FMODE_NONOTIFY and __O_SYNC in sparc) Tj T* 0 Tw (conflict"\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (commit bb458c644a59 \("Safer ABI for O_TMPFILE"\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 13.69622 Tw 12 TL /F1 10 Tf 0 0 0 rg (Discussion from Matthew Wilcox about restrictions on 64-bit arguments:) Tj T* 0 Tw 0 0 .501961 rg (https://lkml.org/lkml/2008/12/12/187) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 6.674418 Tw 12 TL /F1 10 Tf 0 0 0 rg (Recommendation from Greg Kroah-Hartman that unknown flags should be policed:) Tj T* 0 Tw 0 0 .501961 rg (https://lkml.org/lkml/2014/7/17/577) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.079069 Tw 12 TL /F1 10 Tf 0 0 0 rg (Recommendation from Linus Torvalds that x32 system calls should prefer compatibility with) Tj T* 0 Tw (64-bit versions rather than 32-bit versions: ) Tj 0 0 .501961 rg (https://lkml.org/lkml/2011/8/31/244) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+Q
+ 
+endstream
+endobj
+62 0 obj
+<< /Nums [ 0 63 0 R 1 64 0 R 2 65 0 R 3 66 0 R 4 67 0 R 
+  5 68 0 R 6 69 0 R 7 70 0 R 8 71 0 R ] >>
+endobj
+63 0 obj
+<< /S /D /St 1 >>
+endobj
+64 0 obj
+<< /S /D /St 2 >>
+endobj
+65 0 obj
+<< /S /D /St 3 >>
+endobj
+66 0 obj
+<< /S /D /St 4 >>
+endobj
+67 0 obj
+<< /S /D /St 5 >>
+endobj
+68 0 obj
+<< /S /D /St 6 >>
+endobj
+69 0 obj
+<< /S /D /St 7 >>
+endobj
+70 0 obj
+<< /S /D /St 8 >>
+endobj
+71 0 obj
+<< /S /D /St 9 >>
+endobj
+xref
+0 72
+0000000000 65535 f
+0000000075 00000 n
+0000000129 00000 n
+0000000239 00000 n
+0000000354 00000 n
+0000000462 00000 n
+0000000671 00000 n
+0000000880 00000 n
+0000001067 00000 n
+0000001294 00000 n
+0000001503 00000 n
+0000001713 00000 n
+0000001923 00000 n
+0000002133 00000 n
+0000002326 00000 n
+0000002514 00000 n
+0000002719 00000 n
+0000002907 00000 n
+0000003095 00000 n
+0000003283 00000 n
+0000003471 00000 n
+0000003659 00000 n
+0000003872 00000 n
+0000004069 00000 n
+0000004287 00000 n
+0000004475 00000 n
+0000004666 00000 n
+0000004857 00000 n
+0000005049 00000 n
+0000005240 00000 n
+0000005430 00000 n
+0000005621 00000 n
+0000005973 00000 n
+0000006165 00000 n
+0000006356 00000 n
+0000006547 00000 n
+0000006790 00000 n
+0000006899 00000 n
+0000007134 00000 n
+0000007212 00000 n
+0000007340 00000 n
+0000007498 00000 n
+0000007654 00000 n
+0000007788 00000 n
+0000007939 00000 n
+0000008086 00000 n
+0000008242 00000 n
+0000008394 00000 n
+0000008544 00000 n
+0000008675 00000 n
+0000008800 00000 n
+0000008926 00000 n
+0000009053 00000 n
+0000009169 00000 n
+0000017576 00000 n
+0000024594 00000 n
+0000032380 00000 n
+0000040544 00000 n
+0000048113 00000 n
+0000054715 00000 n
+0000062141 00000 n
+0000073031 00000 n
+0000075584 00000 n
+0000075704 00000 n
+0000075741 00000 n
+0000075778 00000 n
+0000075815 00000 n
+0000075852 00000 n
+0000075889 00000 n
+0000075926 00000 n
+0000075963 00000 n
+0000076000 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(WLj\307\251\324\001zt\353\007\216\004\\MM) (WLj\307\251\324\001zt\353\007\216\004\\MM)]
+ /Info 37 0 R /Root 36 0 R /Size 72 >>
+startxref
+76037
+%%EOF

@@ -1,0 +1,2953 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /Contents 13 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+6 0 obj
+<< /Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+7 0 obj
+<< /Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+8 0 obj
+<< /Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+9 0 obj
+<< /Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+10 0 obj
+<< /Outlines 18 0 R /PageLabels 19 0 R /PageMode /UseNone /Pages 12 0 R /Type /Catalog >>
+endobj
+11 0 obj
+<< /Author () /CreationDate (D:20170628152020-08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Linux magic numbers) >>
+endobj
+12 0 obj
+<< /Count 5 /Kids [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R ] /Type /Pages >>
+endobj
+13 0 obj
+<< /Length 3945 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 131.5849 0 Td (Linux magic numbers) Tj T* -131.5849 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 695.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .791488 Tw 12 TL /F1 10 Tf 0 0 0 rg (This file is a registry of magic numbers which are in use. When you add a magic number to a structure,) Tj T* 0 Tw 1.373988 Tw (you should also add it to this file, since it is best if the magic numbers used by various structures are) Tj T* 0 Tw (unique.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 629.0236 cm
+q
+BT 1 0 0 1 0 50 Tm .831567 Tw 12 TL /F1 10 Tf 0 0 0 rg (It is a ) Tj /F2 10 Tf (very ) Tj /F1 10 Tf (good idea to protect kernel data structures with magic numbers. This allows you to check at) Tj T* 0 Tw 2.124692 Tw (run time whether \(a\) a structure has been clobbered, or \(b\) you've passed the wrong structure to a) Tj T* 0 Tw .310574 Tw (routine. This last is especially useful --- particularly when you are passing pointers to structures via a void) Tj T* 0 Tw .276651 Tw (* pointer. The tty code, for example, does this frequently to pass driver-specific and line discipline-specific) Tj T* 0 Tw (structures back and forth.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 611.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The way to use magic numbers is to declare then at the beginning of the structure, like so:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 541.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F3 10 Tf 12 TL (struct tty_ldisc {) Tj T* (        int     magic;) Tj T* (        ...) Tj T* (};) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 485.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.40311 Tw (Please follow this discipline when you are adding future enhancements to the kernel! It has saved me) Tj T* 0 Tw 2.015984 Tw (countless hours of debugging, especially in the screwy cases where an array has been overrun and) Tj T* 0 Tw 2.369982 Tw (structures following the array have been overwritten. Using this discipline, these cases get detected) Tj T* 0 Tw (quickly and safely.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 467.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Changelog:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 98.62362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 360 re B*
+Q
+q
+BT 1 0 0 1 0 338 Tm 12 TL /F3 10 Tf 0 0 0 rg (                                      Theodore Ts'o) Tj T* (                                      31 Mar 94) Tj T*  T* (The magic table is current to Linux 2.1.55.) Tj T*  T* (                                      Michael Chastain) Tj T* (                                      ) Tj (<) Tj (mailto:mec@shout.net) Tj (>) Tj  T* (                                      22 Sep 1997) Tj T*  T* (Now it should be up to date with Linux 2.1.112. Because) Tj T* (we are in feature freeze time it is very unlikely that) Tj T* (something will change before 2.2.x. The entries are) Tj T* (sorted by number field.) Tj T*  T* (                                      Krzysztof G. Baranowski) Tj T* (                                      ) Tj (<) Tj (mailto: kgb@knm.org.pl) Tj (>) Tj  T* (                                      29 Jul 1998) Tj T*  T* (Updated the magic table to Linux 2.5.45. Right over the feature freeze,) Tj T* (but it is possible that some new magic numbers will sneak into the) Tj T* (kernel before 2.6.x yet.) Tj T*  T* (                                      Petr Baudis) Tj T* (                                      ) Tj (<) Tj (pasky@ucw.cz) Tj (>) Tj  T* (                                      03 Nov 2002) Tj T*  T* (Updated the magic table to Linux 2.5.74.) Tj T*  T* (                                      Fabian Frederick) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+14 0 obj
+<< /Length 15365 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 727.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F3 10 Tf 0 0 0 rg (                                      ) Tj (<) Tj (ffrederick@users.sourceforge.net) Tj (>) Tj  T* (                                      09 Jul 2003) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 713.8236 cm
+Q
+q
+1 0 0 1 62.69291 83.82362 cm
+1 1 1 rg
+n 0 630 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 612 469.8898 -18 re f*
+1 1 1 rg
+n 0 594 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 576 469.8898 -30 re f*
+1 1 1 rg
+n 0 546 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 528 469.8898 -30 re f*
+1 1 1 rg
+n 0 498 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 468 469.8898 -18 re f*
+1 1 1 rg
+n 0 450 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 432 469.8898 -18 re f*
+1 1 1 rg
+n 0 414 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 396 469.8898 -18 re f*
+1 1 1 rg
+n 0 378 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 360 469.8898 -18 re f*
+1 1 1 rg
+n 0 342 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 324 469.8898 -18 re f*
+1 1 1 rg
+n 0 306 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 288 469.8898 -18 re f*
+1 1 1 rg
+n 0 270 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 252 469.8898 -18 re f*
+1 1 1 rg
+n 0 234 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 216 469.8898 -18 re f*
+1 1 1 rg
+n 0 198 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 180 469.8898 -30 re f*
+1 1 1 rg
+n 0 150 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 120 469.8898 -30 re f*
+1 1 1 rg
+n 0 90 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 60 469.8898 -30 re f*
+1 1 1 rg
+n 0 30 469.8898 -30 re f*
+.960784 .960784 .862745 rg
+n 0 630 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 615 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 81.97795 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 12.92898 0 Td (Magic Name) Tj T* -12.92898 0 Td ET
+Q
+Q
+q
+1 0 0 1 99.97795 615 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 59.60225 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 12.02112 0 Td (Number) Tj T* -12.02112 0 Td ET
+Q
+Q
+q
+1 0 0 1 171.5802 615 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 95.40337 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 27.41669 0 Td (Structure) Tj T* -27.41669 0 Td ET
+Q
+Q
+q
+1 0 0 1 278.9836 615 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 184.9062 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 84.39809 0 Td (File) Tj T* -84.39809 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 597 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PG_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 597 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ('P') Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 597 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (pg_{read,write}_hdr) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 597 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/linux/pg.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 579 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (CMAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 579 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x0111) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 579 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (user) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 579 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/linux/a.out.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 549 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (MKISS_DRIVER_) Tj T* (MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 561 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x04bf) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 561 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (mkiss_channel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 561 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/net/mkiss.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 531 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HDLC_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 531 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x239e) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 531 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (n_hdlc) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 531 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/char/n_hdlc.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 501 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (APM_BIOS_MAG) Tj T* (IC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x4101) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (apm_user) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (arch/x86/kernel/apm_32.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 471 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (CYCLADES_MA) Tj T* (GIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x4359) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (cyclades_port) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/linux/cyclades.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (DB_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x4442) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (fc_info) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/net/iph5526_novram.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (DL_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x444d) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (fc_info) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/net/iph5526_novram.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 417 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (FASYNC_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 417 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x4601) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 417 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (fasync_struct) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 417 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/linux/fs.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 399 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (FF_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 399 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x4646) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 399 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (fc_info) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 399 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/net/iph5526_novram.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 381 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ISICOM_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 381 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x4d54) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 381 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (isi_port) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 381 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/linux/isicom.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PTY_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5001) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/char/pty.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PPP_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5002) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ppp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/linux/if_pppvar.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 327 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SERIAL_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 327 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5301) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 327 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (async_struct) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 327 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/linux/serial.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 309 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SSTATE_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 309 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5302) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 309 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (serial_state) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 309 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/linux/serial.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SLIP_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5302) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (slip) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/net/slip.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (STRIP_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5303) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (strip) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/net/strip.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (X25_ASY_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5303) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (x25_asy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/net/x25_asy.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 237 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SIXPACK_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 237 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5304) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 237 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sixpack) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 237 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/net/hamradio/6pack.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 219 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (AX25_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 219 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5316) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 219 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ax_disp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 219 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/net/mkiss.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 201 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TTY_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 201 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5401) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 201 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (tty_struct) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 201 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/linux/tty.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (MGSL_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5401) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (mgsl_info) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/char/synclink.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (TTY_DRIVER_M) Tj T* (AGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5402) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (tty_driver) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/linux/tty_driver.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (MGSLPC_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5402) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (mgslpc_info) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F3 10 Tf 12 TL (drivers/char/pcmcia/synclink_c) Tj T* (s.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (TTY_LDISC_MA) Tj T* (GIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5403) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (tty_ldisc) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/linux/tty_ldisc.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (USB_SERIAL_M) Tj T* (AGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x6702) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (usb_serial) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F3 10 Tf 12 TL (drivers/usb/serial/usb-serial.) Tj T* (h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (FULL_DUPLEX_) Tj T* (MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x6969) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F3 10 Tf 12 TL (drivers/net/ethernet/dec/tulip) Tj T* (/de2104x.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (USB_BLUETOOT) Tj T* (H_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x6d02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (usb_bluetooth) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/usb/class/bluetty.c) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 469.8898 0 l S
+n 0 612 m 469.8898 612 l S
+n 0 594 m 469.8898 594 l S
+n 0 576 m 469.8898 576 l S
+n 0 546 m 469.8898 546 l S
+n 0 528 m 469.8898 528 l S
+n 0 498 m 469.8898 498 l S
+n 0 468 m 469.8898 468 l S
+n 0 450 m 469.8898 450 l S
+n 0 432 m 469.8898 432 l S
+n 0 414 m 469.8898 414 l S
+n 0 396 m 469.8898 396 l S
+n 0 378 m 469.8898 378 l S
+n 0 360 m 469.8898 360 l S
+n 0 342 m 469.8898 342 l S
+n 0 324 m 469.8898 324 l S
+n 0 306 m 469.8898 306 l S
+n 0 288 m 469.8898 288 l S
+n 0 270 m 469.8898 270 l S
+n 0 252 m 469.8898 252 l S
+n 0 234 m 469.8898 234 l S
+n 0 216 m 469.8898 216 l S
+n 0 198 m 469.8898 198 l S
+n 0 180 m 469.8898 180 l S
+n 0 150 m 469.8898 150 l S
+n 0 120 m 469.8898 120 l S
+n 0 90 m 469.8898 90 l S
+n 0 60 m 469.8898 60 l S
+n 0 30 m 469.8898 30 l S
+n 93.97795 0 m 93.97795 630 l S
+n 165.5802 0 m 165.5802 630 l S
+n 272.9836 0 m 272.9836 630 l S
+n 0 630 m 469.8898 630 l S
+n 0 0 m 0 630 l S
+n 469.8898 0 m 469.8898 630 l S
+Q
+Q
+ 
+endstream
+endobj
+15 0 obj
+<< /Length 13770 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 99.02362 cm
+1 1 1 rg
+n 0 666 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 636 469.8898 -30 re f*
+1 1 1 rg
+n 0 606 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 588 469.8898 -18 re f*
+1 1 1 rg
+n 0 570 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 552 469.8898 -30 re f*
+1 1 1 rg
+n 0 522 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 504 469.8898 -30 re f*
+1 1 1 rg
+n 0 474 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 456 469.8898 -18 re f*
+1 1 1 rg
+n 0 438 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 408 469.8898 -18 re f*
+1 1 1 rg
+n 0 390 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 372 469.8898 -18 re f*
+1 1 1 rg
+n 0 354 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 324 469.8898 -30 re f*
+1 1 1 rg
+n 0 294 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 264 469.8898 -30 re f*
+1 1 1 rg
+n 0 234 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 204 469.8898 -30 re f*
+1 1 1 rg
+n 0 174 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 144 469.8898 -30 re f*
+1 1 1 rg
+n 0 114 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 96 469.8898 -18 re f*
+1 1 1 rg
+n 0 78 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 48 469.8898 -30 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 639 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (RFCOMM_TTY_) Tj T* (MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 651 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x6d02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 651 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (net/bluetooth/rfcomm/tty.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 609 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (USB_SERIAL_PO) Tj T* (RT_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 621 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x7301) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 621 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (usb_serial_port) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 609 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F3 10 Tf 12 TL (drivers/usb/serial/usb-serial.) Tj T* (h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 591 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (CG_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 591 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x00090255) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 591 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ufs_cylinder_group) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 591 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/linux/ufs_fs.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 573 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (RPORT_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 573 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x00525001) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 573 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (r_port) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 573 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/char/rocket_int.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (LSEMAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x05091998) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (lse) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/fc4/fc.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (GDTIOCTL_MAGI) Tj T* (C) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 537 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x06030f07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 537 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (gdth_iowr_str) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 537 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/scsi/gdth_ioctl.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 507 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (RIEBL_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 507 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x09051990) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 507 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/net/atarilance.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 477 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (NBD_REQUEST_) Tj T* (MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 489 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x12560953) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 489 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (nbd_request) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 489 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/linux/nbd.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 459 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (RED_MAGIC2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 459 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x170fc2a5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 459 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\(any\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 459 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (mm/slab.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 441 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (BAYCOM_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 441 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x19730510) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 441 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (baycom_state) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 441 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/net/baycom_epp.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 411 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (ISDN_X25IFACE) Tj T* (_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x1e75a2b9) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 411 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (isdn_x25iface_proto_) Tj T* (data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/isdn/isdn_x25iface.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ECP_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x21504345) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (cdkecpsig) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/linux/cdk.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (LSOMAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x27091997) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (lso) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/fc4/fc.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 357 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (LSMAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 357 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x2a3b4d2a) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 357 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ls) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 357 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/fc4/fc.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 327 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (WANPIPE_MAGI) Tj T* (C) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x414C4453) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sdla_{dump,exec}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/linux/wanpipe.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 297 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (CS_CARD_MAGI) Tj T* (C) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 309 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x43525553) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 309 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (cs_card) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 309 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (sound/oss/cs46xx.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 267 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (LABELCL_MAGI) Tj T* (C) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 279 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x4857434c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 279 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (labelcl_info_s) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 279 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/asm/ia64/sn/labelcl.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 237 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (ISDN_ASYNC_M) Tj T* (AGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 249 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x49344C01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 249 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (modem_info) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 249 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/linux/isdn.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 207 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (CTC_ASYNC_MA) Tj T* (GIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 219 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x49344C01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 219 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ctc_tty_info) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 219 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/s390/net/ctctty.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 177 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (ISDN_NET_MAGI) Tj T* (C) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 189 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x49344C02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 189 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (isdn_net_local_s) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 177 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F3 10 Tf 12 TL (drivers/isdn/i4l/isdn_net_lib.) Tj T* (h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (SAVEKMSG_MA) Tj T* (GIC2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x4B4D5347) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (savekmsg) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (arch/*/amiga/config.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (CS_STATE_MAG) Tj T* (IC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x4c4f4749) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (cs_state) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (sound/oss/cs46xx.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SLAB_C_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x4f17a36d) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (kmem_cache) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (mm/slab.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (COW_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x4f4f4f4d) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (cow_header_v1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (arch/um/drivers/ubd_user.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (I810_CARD_MAG) Tj T* (IC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5072696E) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (i810_card) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (sound/oss/i810_audio.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (TRIDENT_CARD) Tj T* (_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5072696E) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (trident_card) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (sound/oss/trident.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ROUTER_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x524d4157) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (wan_device) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg ([in ) Tj /F3 10 Tf 0 0 0 rg (wanrouter.h ) Tj /F1 10 Tf 0 0 0 rg (pre 3.9]) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 666 m 469.8898 666 l S
+n 0 0 m 469.8898 0 l S
+n 0 636 m 469.8898 636 l S
+n 0 606 m 469.8898 606 l S
+n 0 588 m 469.8898 588 l S
+n 0 570 m 469.8898 570 l S
+n 0 552 m 469.8898 552 l S
+n 0 522 m 469.8898 522 l S
+n 0 504 m 469.8898 504 l S
+n 0 474 m 469.8898 474 l S
+n 0 456 m 469.8898 456 l S
+n 0 438 m 469.8898 438 l S
+n 0 408 m 469.8898 408 l S
+n 0 390 m 469.8898 390 l S
+n 0 372 m 469.8898 372 l S
+n 0 354 m 469.8898 354 l S
+n 0 324 m 469.8898 324 l S
+n 0 294 m 469.8898 294 l S
+n 0 264 m 469.8898 264 l S
+n 0 234 m 469.8898 234 l S
+n 0 204 m 469.8898 204 l S
+n 0 174 m 469.8898 174 l S
+n 0 144 m 469.8898 144 l S
+n 0 114 m 469.8898 114 l S
+n 0 96 m 469.8898 96 l S
+n 0 78 m 469.8898 78 l S
+n 0 48 m 469.8898 48 l S
+n 0 18 m 469.8898 18 l S
+n 93.97795 0 m 93.97795 666 l S
+n 165.5802 0 m 165.5802 666 l S
+n 272.9836 0 m 272.9836 666 l S
+n 0 0 m 0 666 l S
+n 469.8898 0 m 469.8898 666 l S
+Q
+Q
+ 
+endstream
+endobj
+16 0 obj
+<< /Length 13382 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 105.0236 cm
+1 1 1 rg
+n 0 660 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 630 469.8898 -18 re f*
+1 1 1 rg
+n 0 612 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 594 469.8898 -30 re f*
+1 1 1 rg
+n 0 564 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 534 469.8898 -18 re f*
+1 1 1 rg
+n 0 516 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 486 469.8898 -30 re f*
+1 1 1 rg
+n 0 456 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 426 469.8898 -30 re f*
+1 1 1 rg
+n 0 396 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 366 469.8898 -18 re f*
+1 1 1 rg
+n 0 348 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 330 469.8898 -18 re f*
+1 1 1 rg
+n 0 312 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 282 469.8898 -30 re f*
+1 1 1 rg
+n 0 252 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 222 469.8898 -30 re f*
+1 1 1 rg
+n 0 192 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 162 469.8898 -30 re f*
+1 1 1 rg
+n 0 132 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 114 469.8898 -30 re f*
+1 1 1 rg
+n 0 84 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 66 469.8898 -18 re f*
+1 1 1 rg
+n 0 48 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 30 469.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 633 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (SAVEKMSG_MA) Tj T* (GIC1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x53415645) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (savekmsg) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (arch/*/amiga/config.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GDA_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x58464552) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (gda) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (arch/mips/include/asm/sn/gda.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 597 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (RED_MAGIC1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 597 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5a2cf071) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 597 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\(any\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 597 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (mm/slab.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 567 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (EEPROM_MAGIC) Tj T* (_VALUE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 579 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5ab478d2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 579 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (lanai_dev) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 579 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/atm/lanai.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 537 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (HDLCDRV_MAGI) Tj T* (C) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 549 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5ac6e778) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 549 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (hdlcdrv_state) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 549 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/linux/hdlcdrv.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 519 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PCXX_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 519 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5c6df104) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 519 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (channel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 519 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/char/pcxx.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 501 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (KV_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 501 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x5f4b565f) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 501 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (kernel_vars_s) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 489 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F3 10 Tf 12 TL (arch/mips/include/asm/sn/klker) Tj T* (nvars.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 459 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (I810_STATE_MA) Tj T* (GIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 471 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x63657373) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 471 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (i810_state) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 471 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (sound/oss/i810_audio.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 429 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (TRIDENT_STATE) Tj T* (_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 441 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x63657373) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 441 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (trient_state) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 441 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (sound/oss/trident.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 399 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (M3_CARD_MAGI) Tj T* (C) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 411 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x646e6f50) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 411 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (m3_card) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 411 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (sound/oss/maestro3.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 369 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (FW_HEADER_M) Tj T* (AGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 381 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x65726F66) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 381 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (fw_header) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 381 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/atm/fore200e.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 351 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SLOT_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 351 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x67267321) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 351 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (slot) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 351 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/hotplug/cpqphp.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SLOT_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x67267322) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (slot) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/hotplug/acpiphp.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (LO_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x68797548) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (nbd_device) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/linux/nbd.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (OPROFILE_MAGI) Tj T* (C) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 297 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x6f70726f) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 297 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (super_block) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 297 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/oprofile/oprofilefs.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (M3_STATE_MAG) Tj T* (IC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 267 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x734d724d) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 267 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (m3_state) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 267 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (sound/oss/maestro3.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (VMALLOC_MAGI) Tj T* (C) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 237 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x87654320) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 237 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (snd_alloc_track) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 237 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (sound/core/memory.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (KMALLOC_MAGI) Tj T* (C) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 207 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x87654321) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 207 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (snd_alloc_track) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 207 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (sound/core/memory.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 177 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PWC_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (0x89DC10A) Tj T* (B) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 177 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (pwc_device) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 177 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/usb/media/pwc.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (NBD_REPLY_MA) Tj T* (GIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0x96744668) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (nbd_reply) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (include/linux/nbd.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ENI155_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0xa54b872d) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (midway_eprom) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/atm/eni.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (CODA_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (0xC0DAC0D) Tj T* (A) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (coda_file_info) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (fs/coda/coda_fs_i.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (DPMEM_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0xc0ffee11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (gdt_pci_sram) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/scsi/gdth.h) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (YAM_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0xF10A7654) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (yam_port) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/net/hamradio/yam.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (CCB_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0xf2691ad2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ccb) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/scsi/ncr53c8xx.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (QUEUE_MAGIC_) Tj T* (FREE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0xf7e1c9a3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (queue_entry) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/scsi/arm/queue.c) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 660 m 469.8898 660 l S
+n 0 0 m 469.8898 0 l S
+n 0 630 m 469.8898 630 l S
+n 0 612 m 469.8898 612 l S
+n 0 594 m 469.8898 594 l S
+n 0 564 m 469.8898 564 l S
+n 0 534 m 469.8898 534 l S
+n 0 516 m 469.8898 516 l S
+n 0 486 m 469.8898 486 l S
+n 0 456 m 469.8898 456 l S
+n 0 426 m 469.8898 426 l S
+n 0 396 m 469.8898 396 l S
+n 0 366 m 469.8898 366 l S
+n 0 348 m 469.8898 348 l S
+n 0 330 m 469.8898 330 l S
+n 0 312 m 469.8898 312 l S
+n 0 282 m 469.8898 282 l S
+n 0 252 m 469.8898 252 l S
+n 0 222 m 469.8898 222 l S
+n 0 192 m 469.8898 192 l S
+n 0 162 m 469.8898 162 l S
+n 0 132 m 469.8898 132 l S
+n 0 114 m 469.8898 114 l S
+n 0 84 m 469.8898 84 l S
+n 0 66 m 469.8898 66 l S
+n 0 48 m 469.8898 48 l S
+n 0 30 m 469.8898 30 l S
+n 93.97795 0 m 93.97795 660 l S
+n 165.5802 0 m 165.5802 660 l S
+n 272.9836 0 m 272.9836 660 l S
+n 0 0 m 0 660 l S
+n 469.8898 0 m 469.8898 660 l S
+Q
+Q
+ 
+endstream
+endobj
+17 0 obj
+<< /Length 2834 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 675.0236 cm
+1 1 1 rg
+n 0 90 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 60 469.8898 -30 re f*
+1 1 1 rg
+n 0 30 469.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (QUEUE_MAGIC_) Tj T* (USED) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0xf7e1cc33) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (queue_entry) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (drivers/scsi/arm/queue.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HTB_CMAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (0xFEFAFEF) Tj T* (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (htb_class) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (net/sched/sch_htb.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (NMI_MAGIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99.97795 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (0x48414d4d) Tj T* (455201) Tj T* ET
+Q
+Q
+q
+1 0 0 1 171.5802 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (nmi_s) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.9836 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (arch/mips/include/asm/sn/nmi.h) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 90 m 469.8898 90 l S
+n 0 60 m 469.8898 60 l S
+n 0 30 m 469.8898 30 l S
+n 93.97795 0 m 93.97795 90 l S
+n 165.5802 0 m 165.5802 90 l S
+n 272.9836 0 m 272.9836 90 l S
+n 0 0 m 0 90 l S
+n 469.8898 0 m 469.8898 90 l S
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.089983 Tw 12 TL /F1 10 Tf 0 0 0 rg (Note that there are also defined special per-driver magic numbers in sound memory management. See) Tj T* 0 Tw 2.009147 Tw /F3 10 Tf 0 0 0 rg (include/sound/sndmagic.h ) Tj /F1 10 Tf 0 0 0 rg (for complete list of them. Many OSS sound drivers have their magic) Tj T* 0 Tw (numbers constructed from the soundcard PCI ID - these are not listed here as well.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .059213 Tw 12 TL /F1 10 Tf 0 0 0 rg (IrDA subsystem also uses large number of own magic numbers, see ) Tj /F3 10 Tf 0 0 0 rg (include/net/irda/irda.h ) Tj /F1 10 Tf 0 0 0 rg (for a) Tj T* 0 Tw (complete list of them.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 585.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (HFS is another larger user of magic numbers - you can find them in ) Tj /F3 10 Tf 0 0 0 rg (fs/hfs/hfs.h) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+18 0 obj
+<< /Count 0 /Type /Outlines >>
+endobj
+19 0 obj
+<< /Nums [ 0 20 0 R 1 21 0 R 2 22 0 R 3 23 0 R 4 24 0 R ] >>
+endobj
+20 0 obj
+<< /S /D /St 1 >>
+endobj
+21 0 obj
+<< /S /D /St 2 >>
+endobj
+22 0 obj
+<< /S /D /St 3 >>
+endobj
+23 0 obj
+<< /S /D /St 4 >>
+endobj
+24 0 obj
+<< /S /D /St 5 >>
+endobj
+xref
+0 25
+0000000000 65535 f
+0000000075 00000 n
+0000000129 00000 n
+0000000239 00000 n
+0000000354 00000 n
+0000000462 00000 n
+0000000671 00000 n
+0000000880 00000 n
+0000001089 00000 n
+0000001298 00000 n
+0000001507 00000 n
+0000001616 00000 n
+0000001846 00000 n
+0000001933 00000 n
+0000005935 00000 n
+0000021358 00000 n
+0000035186 00000 n
+0000048626 00000 n
+0000051517 00000 n
+0000051567 00000 n
+0000051647 00000 n
+0000051684 00000 n
+0000051721 00000 n
+0000051758 00000 n
+0000051795 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\307\311Q\250\212m\015\274WAg5b\232\251\012) (\307\311Q\250\212m\015\274WAg5b\232\251\012)]
+ /Info 11 0 R /Root 10 0 R /Size 25 >>
+startxref
+51832
+%%EOF

@@ -1,0 +1,1306 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /Contents 31 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+6 0 obj
+<< /A << /S /URI /Type /Action /URI (https://bugs.kde.org/show_bug.cgi?id=174034) >> /Border [ 0 0 0 ] /Rect [ 62.69291 248.7736 266.9829 260.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+7 0 obj
+<< /Annots [ 6 0 R ] /Contents 32 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+8 0 obj
+<< /Contents 33 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+9 0 obj
+<< /A << /S /URI /Type /Action /URI (http://dev.mutt.org/trac/wiki/UseCases/Gmail) >> /Border [ 0 0 0 ] /Rect [ 82.69291 630.5736 532.5827 642.5736 ] /Subtype /Link /Type /Annot >>
+endobj
+10 0 obj
+<< /A << /S /URI /Type /Action /URI (http://dev.mutt.org/doc/manual.html) >> /Border [ 0 0 0 ] /Rect [ 82.69291 612.5736 532.5827 624.5736 ] /Subtype /Link /Type /Annot >>
+endobj
+11 0 obj
+<< /Annots [ 9 0 R 10 0 R ] /Contents 34 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+12 0 obj
+<< /Contents 35 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+13 0 obj
+<< /Outlines 15 0 R /PageLabels 36 0 R /PageMode /UseNone /Pages 30 0 R /Type /Catalog >>
+endobj
+14 0 obj
+<< /Author () /CreationDate (D:20170628151915-08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Email clients info for Linux) >>
+endobj
+15 0 obj
+<< /Count 15 /First 16 0 R /Last 18 0 R /Type /Outlines >>
+endobj
+16 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 729.0236 0 ] /Next 17 0 R /Parent 15 0 R /Title (Git) >>
+endobj
+17 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 624.0236 0 ] /Next 18 0 R /Parent 15 0 R /Prev 16 0 R /Title (General Preferences) >>
+endobj
+18 0 obj
+<< /Count 11 /Dest [ 5 0 R /XYZ 62.69291 297.0236 0 ] /First 19 0 R /Last 29 0 R /Parent 15 0 R /Prev 17 0 R 
+  /Title (Some email client \(MUA\) hints) >>
+endobj
+19 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 180.0236 0 ] /Next 20 0 R /Parent 18 0 R /Title (Alpine \(TUI\)) >>
+endobj
+20 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 729.0236 0 ] /Next 21 0 R /Parent 18 0 R /Prev 19 0 R /Title (Claws Mail \(GUI\)) >>
+endobj
+21 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 633.0236 0 ] /Next 22 0 R /Parent 18 0 R /Prev 20 0 R /Title (Evolution \(GUI\)) >>
+endobj
+22 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 506.0236 0 ] /Next 23 0 R /Parent 18 0 R /Prev 21 0 R /Title (Kmail \(GUI\)) >>
+endobj
+23 0 obj
+<< /Dest [ 8 0 R /XYZ 62.69291 765.0236 0 ] /Next 24 0 R /Parent 18 0 R /Prev 22 0 R /Title (Lotus Notes \(GUI\)) >>
+endobj
+24 0 obj
+<< /Dest [ 8 0 R /XYZ 62.69291 717.0236 0 ] /Next 25 0 R /Parent 18 0 R /Prev 23 0 R /Title (Mutt \(TUI\)) >>
+endobj
+25 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 599.8236 0 ] /Next 26 0 R /Parent 18 0 R /Prev 24 0 R /Title (Pine \(TUI\)) >>
+endobj
+26 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 479.8236 0 ] /Next 27 0 R /Parent 18 0 R /Prev 25 0 R /Title (Sylpheed \(GUI\)) >>
+endobj
+27 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 335.8236 0 ] /Next 28 0 R /Parent 18 0 R /Prev 26 0 R /Title (Thunderbird \(GUI\)) >>
+endobj
+28 0 obj
+<< /Dest [ 12 0 R /XYZ 62.69291 705.0236 0 ] /Next 29 0 R /Parent 18 0 R /Prev 27 0 R /Title (TkRat \(GUI\)) >>
+endobj
+29 0 obj
+<< /Dest [ 12 0 R /XYZ 62.69291 657.0236 0 ] /Parent 18 0 R /Prev 28 0 R /Title (Gmail \(Web GUI\)) >>
+endobj
+30 0 obj
+<< /Count 5 /Kids [ 5 0 R 7 0 R 8 0 R 11 0 R 12 0 R ] /Type /Pages >>
+endobj
+31 0 obj
+<< /Length 6901 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 107.1349 0 Td (Email clients info for Linux) Tj T* -107.1349 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Git) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .722651 Tw 12 TL /F1 10 Tf 0 0 0 rg (These days most developers use ) Tj /F3 10 Tf 0 0 0 rg (git) Tj ( ) Tj (send-email ) Tj /F1 10 Tf 0 0 0 rg (instead of regular email clients. The man page for) Tj T* 0 Tw (this is quite good. On the receiving end, maintainers use ) Tj /F3 10 Tf 0 0 0 rg (git) Tj ( ) Tj (am ) Tj /F1 10 Tf 0 0 0 rg (to apply the patches.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .349513 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you are new to ) Tj /F3 10 Tf 0 0 0 rg (git ) Tj /F1 10 Tf 0 0 0 rg (then send your first patch to yourself. Save it as raw text including all the headers.) Tj T* 0 Tw 1.264651 Tw (Run ) Tj /F3 10 Tf 0 0 0 rg (git) Tj ( ) Tj (am) Tj ( ) Tj (raw_email.txt ) Tj /F1 10 Tf 0 0 0 rg (and then review the changelog with ) Tj /F3 10 Tf 0 0 0 rg (git) Tj ( ) Tj (log) Tj /F1 10 Tf 0 0 0 rg (. When that works then) Tj T* 0 Tw (send the patch to the appropriate mailing list\(s\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (General Preferences) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.278876 Tw 12 TL /F1 10 Tf 0 0 0 rg (Patches for the Linux kernel are submitted via email, preferably as inline text in the body of the email.) Tj T* 0 Tw .374524 Tw (Some maintainers accept attachments, but then the attachments should have content-type ) Tj /F3 10 Tf 0 0 0 rg (text/plain) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* 0 Tw .809983 Tw (However, attachments are generally frowned upon because it makes quoting portions of the patch more) Tj T* 0 Tw (difficult in the patch review process.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .67311 Tw (Email clients that are used for Linux kernel patches should send the patch text untouched. For example,) Tj T* 0 Tw (they should not modify or delete tabs or spaces, even at the beginning or end of lines.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 501.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Don't send patches with ) Tj /F3 10 Tf 0 0 0 rg (format=flowed) Tj /F1 10 Tf 0 0 0 rg (. This can cause unexpected and unwanted line breaks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Don't let your email client do automatic word wrapping for you. This can also corrupt your patch.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 441.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .012927 Tw (Email clients should not modify the character set encoding of the text. Emailed patches should be in ASCII) Tj T* 0 Tw .342339 Tw (or UTF-8 encoding only. If you configure your email client to send emails with UTF-8 encoding, you avoid) Tj T* 0 Tw (some possible charset problems.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 411.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .414983 Tw (Email clients should generate and maintain References: or In-Reply-To: headers so that mail threading is) Tj T* 0 Tw (not broken.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 369.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.155366 Tw (Copy-and-paste \(or cut-and-paste\) usually does not work for patches because tabs are converted to) Tj T* 0 Tw .371654 Tw (spaces. Using xclipboard, xclip, and/or xcutsel may work, but it's best to test this for yourself or just avoid) Tj T* 0 Tw (copy-and-paste.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 339.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.555984 Tw (Don't use PGP/GPG signatures in mail that contains patches. This breaks many scripts that read and) Tj T* 0 Tw (apply the patches. \(This should be fixable.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 309.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.171654 Tw (It's a good idea to send a patch to yourself, save the received message, and successfully apply it with) Tj T* 0 Tw ('patch' before sending patches to Linux mailing lists.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Some email client \(MUA\) hints) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 246.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.757318 Tw (Here are some specific MUA configuration hints for editing and sending patches for the Linux kernel.) Tj T* 0 Tw (These are not meant to be complete software package configuration summaries.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 228.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Legend:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 222.0236 cm
+Q
+q
+1 0 0 1 62.69291 222.0236 cm
+Q
+q
+1 0 0 1 62.69291 210.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TUI = text-based user interface) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 204.0236 cm
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GUI = graphical user interface) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+Q
+q
+1 0 0 1 62.69291 162.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Alpine \(TUI\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 144.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Config options:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 126.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (In the ) Tj 1 0 0 rg (:menuselection:`Sending Preferences` ) Tj 0 0 0 rg (section:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 120.0236 cm
+Q
+q
+1 0 0 1 62.69291 120.0236 cm
+Q
+q
+1 0 0 1 62.69291 108.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 1 0 0 rg (:menuselection:`Do Not Send Flowed Text` ) Tj 0 0 0 rg (must be ) Tj /F3 10 Tf 0 0 0 rg (enabled) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 102.0236 cm
+Q
+q
+1 0 0 1 62.69291 90.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 1 0 0 rg (:menuselection:`Strip Whitespace Before Sending` ) Tj 0 0 0 rg (must be ) Tj /F3 10 Tf 0 0 0 rg (disabled) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 90.02362 cm
+Q
+ 
+endstream
+endobj
+32 0 obj
+<< /Length 6710 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.309984 Tw 12 TL /F1 10 Tf 0 0 0 rg (When composing the message, the cursor should be placed where the patch should appear, and then) Tj T* 0 Tw (pressing ) Tj 1 0 0 rg (:kbd:`CTRL-R` ) Tj 0 0 0 rg (let you specify the patch file to insert into the message.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Claws Mail \(GUI\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Works. Some people use this successfully for patches.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (To insert a patch use ) Tj 1 0 0 rg (:menuselection:`Message--) Tj (>) Tj (Insert` ) Tj 0 0 0 rg (File \() Tj 1 0 0 rg (:kbd:`CTRL-I`) Tj 0 0 0 rg (\) or an external editor.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 4.951318 Tw 12 TL /F1 10 Tf 0 0 0 rg (If the inserted patch has to be edited in the Claws composition window "Auto wrapping" in) Tj T* 0 Tw 1 0 0 rg (:menuselection:`Configuration--) Tj (>) Tj (Preferences--) Tj (>) Tj (Compose--) Tj (>) Tj (Wrapping` ) Tj 0 0 0 rg (should be disabled.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Evolution \(GUI\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Some people use this successfully for patches.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 581.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (When composing mail select: Preformat) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 566.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (from ) Tj 1 0 0 rg (:menuselection:`Format--) Tj (>) Tj (Paragraph Style--) Tj (>) Tj (Preformatted` ) Tj 0 0 0 rg (\() Tj 1 0 0 rg (:kbd:`CTRL-7`) Tj 0 0 0 rg (\) or the toolbar) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 548.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Then use: ) Tj 1 0 0 rg (:menuselection:`Insert--) Tj (>) Tj (Text File...` ) Tj 0 0 0 rg (\() Tj 1 0 0 rg (:kbd:`ALT-N x`) Tj 0 0 0 rg (\) to insert the patch.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 518.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .57152 Tw 12 TL /F1 10 Tf 0 0 0 rg (You can also ) Tj /F3 10 Tf 0 0 0 rg (diff) Tj ( ) Tj (-Nru) Tj ( ) Tj (old.c) Tj ( ) Tj (new.c) Tj ( ) Tj (|) Tj ( ) Tj (xclip) Tj /F1 10 Tf 0 0 0 rg (, select ) Tj 1 0 0 rg (:menuselection:`Preformat`) Tj 0 0 0 rg (, then paste with) Tj T* 0 Tw (the middle button.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 488.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Kmail \(GUI\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 470.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Some people use Kmail successfully for patches.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 452.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The default setting of not composing in HTML is appropriate; do not enable it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 386.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .949984 Tw (When composing an email, under options, uncheck "word wrap". The only disadvantage is any text you) Tj T* 0 Tw .568935 Tw (type in the email will not be word-wrapped so you will have to manually word wrap text before the patch.) Tj T* 0 Tw 1.065777 Tw (The easiest way around this is to compose your email with word wrap enabled, then save it as a draft.) Tj T* 0 Tw .312093 Tw (Once you pull it up again from your drafts it is now hard word-wrapped and you can uncheck "word wrap") Tj T* 0 Tw (without losing the existing wrapping.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 356.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.571984 Tw 12 TL /F1 10 Tf 0 0 0 rg (At the bottom of your email, put the commonly-used patch delimiter before inserting your patch: three) Tj T* 0 Tw (hyphens \() Tj /F3 10 Tf 0 0 0 rg (---) Tj /F1 10 Tf 0 0 0 rg (\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 314.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 2.042126 Tw 12 TL /F1 10 Tf 0 0 0 rg (Then from the ) Tj 1 0 0 rg (:menuselection:`Message` ) Tj 0 0 0 rg (menu item, select insert file and choose your patch. As an) Tj T* 0 Tw 1.04229 Tw (added bonus you can customise the message creation toolbar menu and put the ) Tj 1 0 0 rg (:menuselection:`insert) Tj T* 0 Tw (file` ) Tj 0 0 0 rg (icon there.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 248.0236 cm
+q
+BT 1 0 0 1 0 50 Tm .168876 Tw 12 TL /F1 10 Tf 0 0 0 rg (Make the composer window wide enough so that no lines wrap. As of KMail 1.13.5 \(KDE 4.5.4\), KMail will) Tj T* 0 Tw 1.683735 Tw (apply word wrapping when sending the email if the lines wrap in the composer window. Having word) Tj T* 0 Tw 1.241163 Tw (wrapping disabled in the Options menu isn't enough. Thus, if your patch has very long lines, you must) Tj T* 0 Tw 16.25398 Tw (make the composer window very wide before sending the email. See:) Tj T* 0 Tw 0 0 .501961 rg (https://bugs.kde.org/show_bug.cgi?id=174034) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 206.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .41332 Tw (You can safely GPG sign attachments, but inlined text is preferred for patches so do not GPG sign them.) Tj T* 0 Tw 1.257045 Tw (Signing patches that have been inserted as inlined text will make them tricky to extract from their 7-bit) Tj T* 0 Tw (encoding.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 164.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.484104 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you absolutely must send patches as attachments instead of inlining them as text, right click on the) Tj T* 0 Tw 1.030888 Tw (attachment and select properties, and highlight ) Tj 1 0 0 rg (:menuselection:`Suggest automatic display` ) Tj 0 0 0 rg (to make the) Tj T* 0 Tw (attachment inlined to make it more viewable.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 86.02362 cm
+q
+BT 1 0 0 1 0 62 Tm 2.006457 Tw 12 TL /F1 10 Tf 0 0 0 rg (When saving patches that are sent as inlined text, select the email that contains the patch from the) Tj T* 0 Tw 3.31284 Tw (message list pane, right click and select ) Tj 1 0 0 rg (:menuselection:`save as`) Tj 0 0 0 rg (. You can use the whole email) Tj T* 0 Tw .908876 Tw (unmodified as a patch if it was properly composed. There is no option currently to save the email when) Tj T* 0 Tw 1.609461 Tw (you are actually viewing it in its own window -- there has been a request filed at kmail's bugzilla and) Tj T* 0 Tw .756098 Tw (hopefully this will be addressed. Emails are saved as read-write for user only so you will have to chmod) Tj T* 0 Tw (them to make them group and world readable if you copy them elsewhere.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+33 0 obj
+<< /Length 4867 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Lotus Notes \(GUI\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Run away from it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Mutt \(TUI\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Plenty of Linux developers use ) Tj /F3 10 Tf 0 0 0 rg (mutt) Tj /F1 10 Tf 0 0 0 rg (, so it must work pretty well.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .748488 Tw 12 TL /F1 10 Tf 0 0 0 rg (Mutt doesn't come with an editor, so whatever editor you use should be used in a way that there are no) Tj T* 0 Tw .135697 Tw (automatic linebreaks. Most editors have an ) Tj 1 0 0 rg (:menuselection:`insert file` ) Tj 0 0 0 rg (option that inserts the contents of a) Tj T* 0 Tw (file unaltered.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (To use ) Tj /F3 10 Tf 0 0 0 rg (vim ) Tj /F1 10 Tf 0 0 0 rg (with mutt:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 587.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (set editor="vi") Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 567.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If using xclip, type the command:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 534.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (:set paste) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 514.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (before middle button or shift-insert or use:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 481.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (:r filename) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 461.4236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (if you want to include the patch inline. \(a\)ttach works fine without ) Tj /F3 10 Tf 0 0 0 rg (set) Tj ( ) Tj (paste) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 443.4236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You can also generate patches with ) Tj /F3 10 Tf 0 0 0 rg (git) Tj ( ) Tj (format-patch ) Tj /F1 10 Tf 0 0 0 rg (and then use Mutt to send them:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 410.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL ($ mutt -H 0001-some-bug-fix.patch) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 390.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Config options:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 372.2236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (It should work with default settings. However, it's a good idea to set the ) Tj /F3 10 Tf 0 0 0 rg (send_charset ) Tj /F1 10 Tf 0 0 0 rg (to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 339.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (set send_charset="us-ascii:utf-8") Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 307.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .57186 Tw (Mutt is highly customizable. Here is a minimum configuration to start using Mutt to send patches through) Tj T* 0 Tw (Gmail:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 81.82362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 216 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 194 Tm /F3 10 Tf 12 TL (# .muttrc) Tj T* (# ================  IMAP ====================) Tj T* (set imap_user = 'yourusername@gmail.com') Tj T* (set imap_pass = 'yourpassword') Tj T* (set spoolfile = imaps://imap.gmail.com/INBOX) Tj T* (set folder = imaps://imap.gmail.com/) Tj T* (set record="imaps://imap.gmail.com/[Gmail]/Sent Mail") Tj T* (set postponed="imaps://imap.gmail.com/[Gmail]/Drafts") Tj T* (set mbox="imaps://imap.gmail.com/[Gmail]/All Mail") Tj T*  T* (# ================  SMTP  ====================) Tj T* (set smtp_url = "smtp://username@smtp.gmail.com:587/") Tj T* (set smtp_pass = $imap_pass) Tj T* (set ssl_force_tls = yes # Require encrypted connection) Tj T*  T* (# ================  Composition  ====================) Tj T* (set editor = `echo \\$EDITOR`) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+34 0 obj
+<< /Length 8528 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 667.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 96 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F3 10 Tf 12 TL (set edit_headers = yes  # See the headers when editing) Tj T* (set charset = UTF-8     # value of $LANG; also fallback for send_charset) Tj T* (# Sender, email address, and sign-off line must match) Tj T* (unset use_domain        # because joe@localhost is just embarrassing) Tj T* (set realname = "YOUR NAME") Tj T* (set from = "username@gmail.com") Tj T* (set use_from = yes) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 647.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Mutt docs have lots more information:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 641.8236 cm
+Q
+q
+1 0 0 1 62.69291 611.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 18 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://dev.mutt.org/trac/wiki/UseCases/Gmail) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://dev.mutt.org/doc/manual.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 611.8236 cm
+Q
+q
+1 0 0 1 62.69291 581.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Pine \(TUI\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 563.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Pine has had some whitespace truncation issues in the past, but these should all be fixed now.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 545.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Use alpine \(pine's successor\) if you can.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 527.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Config options:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 521.8236 cm
+Q
+q
+1 0 0 1 62.69291 521.8236 cm
+Q
+q
+1 0 0 1 62.69291 509.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (quell-flowed-text ) Tj /F1 10 Tf 0 0 0 rg (is needed for recent versions) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 503.8236 cm
+Q
+q
+1 0 0 1 62.69291 491.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (the ) Tj /F3 10 Tf 0 0 0 rg (no-strip-whitespace-before-send ) Tj /F1 10 Tf 0 0 0 rg (option is needed) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 491.8236 cm
+Q
+q
+1 0 0 1 62.69291 461.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Sylpheed \(GUI\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 449.8236 cm
+Q
+q
+1 0 0 1 62.69291 449.8236 cm
+Q
+q
+1 0 0 1 62.69291 437.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Works well for inlining text \(or using attachments\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 431.8236 cm
+Q
+q
+1 0 0 1 62.69291 419.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Allows use of an external editor.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 413.8236 cm
+Q
+q
+1 0 0 1 62.69291 401.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Is slow on large folders.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 395.8236 cm
+Q
+q
+1 0 0 1 62.69291 383.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Won't do TLS SMTP auth over a non-SSL connection.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 377.8236 cm
+Q
+q
+1 0 0 1 62.69291 365.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Has a helpful ruler bar in the compose window.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 359.8236 cm
+Q
+q
+1 0 0 1 62.69291 347.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Adding addresses to address book doesn't understand the display name properly.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 347.8236 cm
+Q
+q
+1 0 0 1 62.69291 317.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Thunderbird \(GUI\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 299.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Thunderbird is an Outlook clone that likes to mangle text, but there are ways to coerce it into behaving.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 293.8236 cm
+Q
+q
+1 0 0 1 62.69291 293.8236 cm
+Q
+q
+1 0 0 1 62.69291 155.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 75 cm
+q
+BT 1 0 0 1 0 50 Tm .987765 Tw 12 TL /F1 10 Tf 0 0 0 rg (Allow use of an external editor: The easiest thing to do with Thunderbird and patches is to use an) Tj T* 0 Tw 1.569147 Tw ("external editor" extension and then just use your favorite ) Tj /F3 10 Tf 0 0 0 rg ($EDITOR ) Tj /F1 10 Tf 0 0 0 rg (for reading/merging patches) Tj T* 0 Tw 1.696098 Tw (into the body text. To do this, download and install the extension, then add a button for it using) Tj T* 0 Tw 7.233307 Tw 1 0 0 rg (:menuselection:`View--) Tj (>) Tj (Toolbars--) Tj (>) Tj (Customize...` ) Tj 0 0 0 rg (and finally just click on it when in the) Tj T* 0 Tw 1 0 0 rg (:menuselection:`Compose` ) Tj 0 0 0 rg (dialog.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 62 Tm .302339 Tw 12 TL /F1 10 Tf 0 0 0 rg (Please note that "external editor" requires that your editor must not fork, or in other words, the editor) Tj T* 0 Tw .359398 Tw (must not return before closing. You may have to pass additional flags or change the settings of your) Tj T* 0 Tw 2.162209 Tw (editor. Most notably if you are using gvim then you must pass the -f option to gvim by putting) Tj T* 0 Tw .038555 Tw /F3 10 Tf 0 0 0 rg (/usr/bin/gvim) Tj ( ) Tj (-f ) Tj /F1 10 Tf 0 0 0 rg (\(if the binary is in ) Tj /F3 10 Tf 0 0 0 rg (/usr/bin) Tj /F1 10 Tf 0 0 0 rg (\) to the text editor field in ) Tj 1 0 0 rg (:menuselection:`external) Tj T* 0 Tw .438409 Tw (editor` ) Tj 0 0 0 rg (settings. If you are using some other editor then please read its manual to find out how to do) Tj T* 0 Tw (this.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 155.8236 cm
+Q
+q
+1 0 0 1 62.69291 137.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (To beat some sense out of the internal editor, do this:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 131.8236 cm
+Q
+q
+1 0 0 1 62.69291 131.8236 cm
+Q
+q
+1 0 0 1 62.69291 95.82362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 7.329147 Tw 12 TL /F1 10 Tf 0 0 0 rg (Edit your Thunderbird config settings so that it won't use ) Tj /F3 10 Tf 0 0 0 rg (format=flowed) Tj /F1 10 Tf 0 0 0 rg (. Go to) Tj T* 0 Tw .487109 Tw 1 0 0 rg (:menuselection:`edit--) Tj (>) Tj (preferences--) Tj (>) Tj (advanced--) Tj (>) Tj (config editor` ) Tj 0 0 0 rg (to bring up the thunderbird's registry) Tj T* 0 Tw (editor.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 89.82362 cm
+Q
+q
+1 0 0 1 62.69291 77.82362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Set ) Tj /F3 10 Tf 0 0 0 rg (mailnews.send_plaintext_flowed ) Tj /F1 10 Tf 0 0 0 rg (to ) Tj /F3 10 Tf 0 0 0 rg (false) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 76.86614 cm
+Q
+ 
+endstream
+endobj
+35 0 obj
+<< /Length 2470 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Set ) Tj /F3 10 Tf 0 0 0 rg (mailnews.wraplength ) Tj /F1 10 Tf 0 0 0 rg (from ) Tj /F3 10 Tf 0 0 0 rg (72 ) Tj /F1 10 Tf 0 0 0 rg (to ) Tj /F3 10 Tf 0 0 0 rg (0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 747.0236 cm
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 1 0 0 rg (:menuselection:`View--) Tj (>) Tj (Message Body As--) Tj (>) Tj (Plain Text`) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 1 0 0 rg (:menuselection:`View--) Tj (>) Tj (Character Encoding--) Tj (>) Tj (Unicode \(UTF-8\)`) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (TkRat \(GUI\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Works. Use "Insert file..." or external editor.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Gmail \(Web GUI\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Does not work for sending patches.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Gmail web client converts tabs to spaces automatically.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .767633 Tw (At the same time it wraps lines every 78 chars with CRLF style line breaks although tab2space problem) Tj T* 0 Tw (can be solved with external editor.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.525697 Tw (Another problem is that Gmail will base64-encode any message that has a non-ASCII character. That) Tj T* 0 Tw (includes things like European names.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+36 0 obj
+<< /Nums [ 0 37 0 R 1 38 0 R 2 39 0 R 3 40 0 R 4 41 0 R ] >>
+endobj
+37 0 obj
+<< /S /D /St 1 >>
+endobj
+38 0 obj
+<< /S /D /St 2 >>
+endobj
+39 0 obj
+<< /S /D /St 3 >>
+endobj
+40 0 obj
+<< /S /D /St 4 >>
+endobj
+41 0 obj
+<< /S /D /St 5 >>
+endobj
+xref
+0 42
+0000000000 65535 f
+0000000075 00000 n
+0000000129 00000 n
+0000000239 00000 n
+0000000354 00000 n
+0000000462 00000 n
+0000000671 00000 n
+0000000869 00000 n
+0000001096 00000 n
+0000001305 00000 n
+0000001504 00000 n
+0000001695 00000 n
+0000001930 00000 n
+0000002140 00000 n
+0000002249 00000 n
+0000002488 00000 n
+0000002566 00000 n
+0000002673 00000 n
+0000002809 00000 n
+0000002985 00000 n
+0000003103 00000 n
+0000003238 00000 n
+0000003372 00000 n
+0000003502 00000 n
+0000003638 00000 n
+0000003767 00000 n
+0000003897 00000 n
+0000004031 00000 n
+0000004168 00000 n
+0000004299 00000 n
+0000004421 00000 n
+0000004510 00000 n
+0000011468 00000 n
+0000018235 00000 n
+0000023159 00000 n
+0000031744 00000 n
+0000034271 00000 n
+0000034351 00000 n
+0000034388 00000 n
+0000034425 00000 n
+0000034462 00000 n
+0000034499 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\014-a\312wH\372\3734\324\370t\363\307\177\261) (\014-a\312wH\372\3734\324\370t\363\307\177\261)]
+ /Info 14 0 R /Root 13 0 R /Size 42 >>
+startxref
+34536
+%%EOF

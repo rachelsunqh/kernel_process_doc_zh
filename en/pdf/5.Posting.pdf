@@ -1,0 +1,1279 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 5 0 R /F4 7 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+5 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /Contents 23 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+7 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+8 0 obj
+<< /Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+9 0 obj
+<< /A << /S /URI /Type /Action /URI (mailto:stable@vger.kernel.org) >> /Border [ 0 0 0 ] /Rect [ 105.6929 153.7736 212.2579 165.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+10 0 obj
+<< /A << /S /URI /Type /Action /URI (mailto:stable@vger.kernel.org) >> /Border [ 0 0 0 ] /Rect [ 425.5127 153.7736 529.0327 165.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+11 0 obj
+<< /Annots [ 9 0 R 10 0 R ] /Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+12 0 obj
+<< /Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+13 0 obj
+<< /Outlines 15 0 R /PageLabels 27 0 R /PageMode /UseNone /Pages 21 0 R /Type /Catalog >>
+endobj
+14 0 obj
+<< /Author () /CreationDate (D:20170628151535-08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Posting patches) >>
+endobj
+15 0 obj
+<< /Count 5 /First 16 0 R /Last 20 0 R /Type /Outlines >>
+endobj
+16 0 obj
+<< /Dest [ 4 0 R /XYZ 62.69291 647.0236 0 ] /Next 17 0 R /Parent 15 0 R /Title (When to post) >>
+endobj
+17 0 obj
+<< /Dest [ 4 0 R /XYZ 62.69291 494.0236 0 ] /Next 18 0 R /Parent 15 0 R /Prev 16 0 R /Title (Before creating patches) >>
+endobj
+18 0 obj
+<< /Dest [ 4 0 R /XYZ 62.69291 263.0236 0 ] /Next 19 0 R /Parent 15 0 R /Prev 17 0 R /Title (Patch preparation) >>
+endobj
+19 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 333.0236 0 ] /Next 20 0 R /Parent 15 0 R /Prev 18 0 R /Title (Patch formatting and changelogs) >>
+endobj
+20 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 591.0236 0 ] /Parent 15 0 R /Prev 19 0 R /Title (Sending the patch) >>
+endobj
+21 0 obj
+<< /Count 5 /Kids [ 4 0 R 6 0 R 8 0 R 11 0 R 12 0 R ] /Type /Pages >>
+endobj
+22 0 obj
+<< /Length 6522 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 157.7049 0 Td (Posting patches) Tj T* -157.7049 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 659.0236 cm
+q
+BT 1 0 0 1 0 62 Tm .013145 Tw 12 TL /F1 10 Tf 0 0 0 rg (Sooner or later, the time comes when your work is ready to be presented to the community for review and,) Tj T* 0 Tw 2.399069 Tw (eventually, inclusion into the mainline kernel. Unsurprisingly, the kernel development community has) Tj T* 0 Tw .241751 Tw (evolved a set of conventions and procedures which are used in the posting of patches; following them will) Tj T* 0 Tw .721318 Tw (make life much easier for everybody involved. This document will attempt to cover these expectations in) Tj T* 0 Tw 3.861797 Tw (reasonable detail; more information can also be found in the files process/submitting-patches.rst,) Tj T* 0 Tw (process/submitting-drivers.rst, and process/submit-checklist.rst in the kernel documentation directory.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 626.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (When to post) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 560.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.135318 Tw (There is a constant temptation to avoid posting patches before they are completely "ready." For simple) Tj T* 0 Tw .829513 Tw (patches, that is not a problem. If the work being done is complex, though, there is a lot to be gained by) Tj T* 0 Tw 2.597126 Tw (getting feedback from the community before the work is complete. So you should consider posting) Tj T* 0 Tw .275868 Tw (in-progress work, or even making a git tree available so that interested developers can catch up with your) Tj T* 0 Tw (work at any time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 506.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.594988 Tw (When posting code which is not yet considered ready for inclusion, it is a good idea to say so in the) Tj T* 0 Tw 1.023735 Tw (posting itself. Also mention any major work which remains to be done and any known problems. Fewer) Tj T* 0 Tw .316988 Tw (people will look at patches which are known to be half-baked, but those who do will come in with the idea) Tj T* 0 Tw (that they can help you drive the work in the right direction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 473.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Before creating patches) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 443.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.964985 Tw (There are a number of things which should be done before you consider sending patches to the) Tj T* 0 Tw (development community. These include:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 437.0236 cm
+Q
+q
+1 0 0 1 62.69291 305.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 126 cm
+Q
+q
+1 0 0 1 20 126 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .507045 Tw (Test the code to the extent that you can. Make use of the kernel's debugging tools, ensure that) Tj T* 0 Tw 6.117251 Tw (the kernel will build with all reasonable combinations of configuration options, use) Tj T* 0 Tw (cross-compilers to build for different architectures, etc.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Make sure your code is compliant with the kernel coding style guidelines.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.02248 Tw (Does your change have performance implications? If so, you should run benchmarks showing) Tj T* 0 Tw .296457 Tw (what the impact \(or benefit\) of your change is; a summary of the results should be included with) Tj T* 0 Tw (the patch.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.374724 Tw (Be sure that you have the right to post the code. If this work was done for an employer, the) Tj T* 0 Tw (employer likely has a right to the work and must be agreeable with its release under the GPL.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 305.0236 cm
+Q
+q
+1 0 0 1 62.69291 275.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .166098 Tw (As a general rule, putting in some extra thought before posting code almost always pays back the effort in) Tj T* 0 Tw (short order.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 242.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Patch preparation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 212.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .305868 Tw (The preparation of patches for posting can be a surprising amount of work, but, once again, attempting to) Tj T* 0 Tw (save time here is not generally advisable even in the short term.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 158.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .814431 Tw (Patches must be prepared against a specific version of the kernel. As a general rule, a patch should be) Tj T* 0 Tw 2.810574 Tw (based on the current mainline as found in Linus's git tree. When basing on mainline, start with a) Tj T* 0 Tw .878876 Tw (well-known release point - a stable or -rc release - rather than branching off the mainline at an arbitrary) Tj T* 0 Tw (spot.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 104.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.869984 Tw (It may become necessary to make versions against -mm, linux-next, or a subsystem tree, though, to) Tj T* 0 Tw .568221 Tw (facilitate wider testing and review. Depending on the area of your patch and what is going on elsewhere,) Tj T* 0 Tw .708735 Tw (basing a patch against these other trees can require a significant amount of work resolving conflicts and) Tj T* 0 Tw (dealing with API changes.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+23 0 obj
+<< /Length 6116 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .40528 Tw (Only the most simple changes should be formatted as a single patch; everything else should be made as) Tj T* 0 Tw 1.298409 Tw (a logical series of changes. Splitting up patches is a bit of an art; some developers spend a long time) Tj T* 0 Tw .316988 Tw (figuring out how to do it in the way that the community expects. There are a few rules of thumb, however,) Tj T* 0 Tw (which can help considerably:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 330 cm
+Q
+q
+1 0 0 1 20 330 cm
+Q
+q
+1 0 0 1 20 282 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 2.15561 Tw (The patch series you post will almost certainly not be the series of changes found in your) Tj T* 0 Tw .43784 Tw (working revision control system. Instead, the changes you have made need to be considered in) Tj T* 0 Tw 1.485318 Tw (their final form, then split apart in ways which make sense. The developers are interested in) Tj T* 0 Tw (discrete, self-contained changes, not the path you took to get to those changes.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 276 cm
+Q
+q
+1 0 0 1 20 216 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.388314 Tw (Each logically independent change should be formatted as a separate patch. These changes) Tj T* 0 Tw 2.651235 Tw (can be small \("add a field to this structure"\) or large \(adding a significant new driver, for) Tj T* 0 Tw .813828 Tw (example\), but they should be conceptually small and amenable to a one-line description. Each) Tj T* 0 Tw .001098 Tw (patch should make a specific change which can be reviewed on its own and verified to do what it) Tj T* 0 Tw (says it does.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 210 cm
+Q
+q
+1 0 0 1 20 174 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.242339 Tw (As a way of restating the guideline above: do not mix different types of changes in the same) Tj T* 0 Tw .855318 Tw (patch. If a single patch fixes a critical security bug, rearranges a few structures, and reformats) Tj T* 0 Tw (the code, there is a good chance that it will be passed over and the important fix will be lost.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 168 cm
+Q
+q
+1 0 0 1 20 108 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 3.041318 Tw (Each patch should yield a kernel which builds and runs properly; if your patch series is) Tj T* 0 Tw .17561 Tw (interrupted in the middle, the result should still be a working kernel. Partial application of a patch) Tj T* 0 Tw .287765 Tw (series is a common scenario when the "git bisect" tool is used to find regressions; if the result is) Tj T* 0 Tw 1.426235 Tw (a broken kernel, you will make life harder for developers and users who are engaging in the) Tj T* 0 Tw (noble work of tracking down problems.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 66 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.974987 Tw 12 TL /F1 10 Tf 0 0 0 rg (Do not overdo it, though. One developer once posted a set of edits to a single file as 500) Tj T* 0 Tw .067045 Tw (separate patches - an act which did not make him the most popular person on the kernel mailing) Tj T* 0 Tw (list. A single patch can be reasonably large as long as it still contains a single ) Tj /F3 10 Tf (logical ) Tj /F1 10 Tf (change.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .741098 Tw (It can be tempting to add a whole new infrastructure with a series of patches, but to leave that) Tj T* 0 Tw .596412 Tw (infrastructure unused until the final patch in the series enables the whole thing. This temptation) Tj T* 0 Tw .557984 Tw (should be avoided if possible; if that series adds regressions, bisection will finger the last patch) Tj T* 0 Tw 2.541412 Tw (as the one which caused the problem, even though the real bug is elsewhere. Whenever) Tj T* 0 Tw (possible, a patch which adds new code should make that code active immediately.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+Q
+q
+1 0 0 1 62.69291 345.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .275251 Tw (Working to create the perfect patch series can be a frustrating process which takes quite a bit of time and) Tj T* 0 Tw (thought after the "real work" has been done. When done properly, though, it is time well spent.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 312.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Patch formatting and changelogs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 270.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .787488 Tw (So now you have a perfect series of patches for posting, but the work is not done quite yet. Each patch) Tj T* 0 Tw .700574 Tw (needs to be formatted into a message which quickly and clearly communicates its purpose to the rest of) Tj T* 0 Tw (the world. To that end, each patch will be composed of the following:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 264.0236 cm
+Q
+ 
+endstream
+endobj
+24 0 obj
+<< /Length 8060 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 575.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 183.2 cm
+Q
+q
+1 0 0 1 20 183.2 cm
+Q
+q
+1 0 0 1 20 159.2 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.21881 Tw (An optional "From" line naming the author of the patch. This line is only necessary if you are) Tj T* 0 Tw (passing on somebody else's patch via email, but it never hurts to add it when in doubt.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 153.2 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 66.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 30.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .10436 Tw (A one-line description of what the patch does. This message should be enough for a reader who) Tj T* 0 Tw .176807 Tw (sees it with no other context to figure out the scope of the patch; it is the line that will show up in) Tj T* 0 Tw 1.77498 Tw (the "short form" changelogs. This message is usually formatted with the relevant subsystem) Tj T* 0 Tw (name first, followed by the purpose of the patch. For example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 419.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (gpio: fix build on CONFIG_GPIO_SYSFS=n) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .45186 Tw (A blank line followed by a detailed description of the contents of the patch. This description can) Tj T* 0 Tw .388488 Tw (be as long as is required; it should say what the patch does and why it should be applied to the) Tj T* 0 Tw (kernel.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .459398 Tw (One or more tag lines, with, at a minimum, one Signed-off-by: line from the author of the patch.) Tj T* 0 Tw (Tags will be described in more detail below.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 575.8236 cm
+Q
+q
+1 0 0 1 62.69291 473.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL 1.36811 Tw (The items above, together, form the changelog for the patch. Writing good changelogs is a crucial but) Tj T* 0 Tw .426905 Tw (often-neglected art; it's worth spending another moment discussing this issue. When writing a changelog,) Tj T* 0 Tw 1.77881 Tw (you should bear in mind that a number of different people will be reading your words. These include) Tj T* 0 Tw 3.223828 Tw (subsystem maintainers and reviewers who need to decide whether the patch should be included,) Tj T* 0 Tw .273984 Tw (distributors and other maintainers trying to decide whether a patch should be backported to other kernels,) Tj T* 0 Tw .569985 Tw (bug hunters wondering whether the patch is responsible for a problem they are chasing, users who want) Tj T* 0 Tw .30528 Tw (to know how the kernel has changed, and more. A good changelog conveys the needed information to all) Tj T* 0 Tw (of these people in the most direct and concise way possible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 359.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 98 Tm /F1 10 Tf 12 TL 1.308876 Tw (To that end, the summary line should describe the effects of and motivation for the change as well as) Tj T* 0 Tw 2.039983 Tw (possible given the one-line constraint. The detailed description can then amplify on those topics and) Tj T* 0 Tw .67311 Tw (provide any needed additional information. If the patch fixes a bug, cite the commit which introduced the) Tj T* 0 Tw .510514 Tw (bug if possible \(and please provide both the commit ID and the title when citing commits\). If a problem is) Tj T* 0 Tw .60436 Tw (associated with specific log or compiler output, include that output to help others searching for a solution) Tj T* 0 Tw 1.093145 Tw (to the same problem. If the change is meant to support other changes coming in later patch, say so. If) Tj T* 0 Tw 1.124983 Tw (internal APIs are changed, detail those changes and how other developers should respond. In general,) Tj T* 0 Tw .351098 Tw (the more you can put yourself into the shoes of everybody who will be reading your changelog, the better) Tj T* 0 Tw (that changelog \(and the kernel as a whole\) will be.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 329.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .273516 Tw (Needless to say, the changelog should be the text used when committing the change to a revision control) Tj T* 0 Tw (system. It will be followed by:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 323.8236 cm
+Q
+q
+1 0 0 1 62.69291 293.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.719985 Tw (The patch itself, in the unified \("-u"\) patch format. Using the "-p" option to diff will associate) Tj T* 0 Tw (function names with changes, making the resulting patch easier for others to read.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 293.8236 cm
+Q
+q
+1 0 0 1 62.69291 251.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .273984 Tw (You should avoid including changes to irrelevant files \(those generated by the build process, for example,) Tj T* 0 Tw 1.81881 Tw (or editor backup files\) in the patch. The file "dontdiff" in the Documentation directory can help in this) Tj T* 0 Tw (regard; pass it to diff with the "-X" option.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 209.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .865984 Tw (The tags mentioned above are used to describe how various developers have been associated with the) Tj T* 0 Tw 1.038314 Tw (development of this patch. They are described in detail in the process/submitting-patches.rst document;) Tj T* 0 Tw (what follows here is a brief summary. Each of these lines has the format:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 176.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (tag: Full Name ) Tj (<) Tj (email address) Tj (>) Tj (  optional-other-stuff) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 156.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The tags in common use are:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 150.6236 cm
+Q
+q
+1 0 0 1 62.69291 90.62362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 6 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .749985 Tw (Signed-off-by: this is a developer's certification that he or she has the right to submit the patch) Tj T* 0 Tw .99436 Tw (for inclusion into the kernel. It is an agreement to the Developer's Certificate of Origin, the full) Tj T* 0 Tw 1.947976 Tw (text of which can be found in Documentation/process/submitting-patches.rst. Code without a) Tj T* 0 Tw (proper signoff cannot be merged into the mainline.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+25 0 obj
+<< /Length 8968 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 633.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 108 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.224147 Tw (Acked-by: indicates an agreement by another developer \(often a maintainer of the relevant) Tj T* 0 Tw (code\) that the patch is appropriate for inclusion into the kernel.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Tested-by: states that the named person has tested the patch and found it to work.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .770814 Tw (Reviewed-by: the named developer has reviewed the patch for correctness; see the reviewer's) Tj T* 0 Tw (statement in Documentation/process/submitting-patches.rst for more detail.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .231163 Tw (Reported-by: names a user who reported a problem which is fixed by this patch; this tag is used) Tj T* 0 Tw 1.04186 Tw (to give credit to the \(often underappreciated\) people who test our code and let us know when) Tj T* 0 Tw (things do not work correctly.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Cc: the named person received a copy of the patch and had the opportunity to comment on it.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .783876 Tw (Be careful in the addition of tags to your patches: only Cc: is appropriate for addition without the explicit) Tj T* 0 Tw (permission of the person named.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Sending the patch) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Before you mail your patches, there are a couple of other things you should take care of:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 546.0236 cm
+Q
+q
+1 0 0 1 62.69291 396.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 144 cm
+Q
+q
+1 0 0 1 20 144 cm
+Q
+q
+1 0 0 1 20 66 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .891318 Tw (Are you sure that your mailer will not corrupt the patches? Patches which have had gratuitous) Tj T* 0 Tw 1.373984 Tw (white-space changes or line wrapping performed by the mail client will not apply at the other) Tj T* 0 Tw .860988 Tw (end, and often will not be examined in any detail. If there is any doubt at all, mail the patch to) Tj T* 0 Tw (yourself and convince yourself that it shows up intact.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.121085 Tw (Documentation/process/email-clients.rst has some helpful hints on making specific mail clients) Tj T* 0 Tw (work for sending patches.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 2.299984 Tw (Are you sure your patch is free of silly mistakes? You should always run patches through) Tj T* 0 Tw 1.627674 Tw (scripts/checkpatch.pl and address the complaints it comes up with. Please bear in mind that) Tj T* 0 Tw 2.650751 Tw (checkpatch.pl, while being the embodiment of a fair amount of thought about what kernel) Tj T* 0 Tw .150651 Tw (patches should look like, is not smarter than you. If fixing a checkpatch.pl complaint would make) Tj T* 0 Tw (the code worse, don't do it.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 396.0236 cm
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .011654 Tw (Patches should always be sent as plain text. Please do not send them as attachments; that makes it much) Tj T* 0 Tw .506098 Tw (harder for reviewers to quote sections of the patch in their replies. Instead, just put the patch directly into) Tj T* 0 Tw (your message.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 300.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.583516 Tw (When mailing patches, it is important to send copies to anybody who might be interested in it. Unlike) Tj T* 0 Tw .912927 Tw (some other projects, the kernel encourages people to err on the side of sending too many copies; don't) Tj T* 0 Tw .667633 Tw (assume that the relevant people will see your posting on the mailing lists. In particular, copies should go) Tj T* 0 Tw (to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 294.0236 cm
+Q
+q
+1 0 0 1 62.69291 132.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 156 cm
+Q
+q
+1 0 0 1 20 156 cm
+Q
+q
+1 0 0 1 20 132 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .840814 Tw (The maintainer\(s\) of the affected subsystem\(s\). As described earlier, the MAINTAINERS file is) Tj T* 0 Tw (the first place to look for these people.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 126 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.521318 Tw (Other developers who have been working in the same area - especially those who might be) Tj T* 0 Tw .681098 Tw (working there now. Using git to see who else has modified the files you are working on can be) Tj T* 0 Tw (helpful.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If you are responding to a bug report or a feature request, copy the original poster as well.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Send a copy to the relevant mailing list, or, if nothing else applies, the linux-kernel list.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm .817356 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you are fixing a bug, think about whether the fix should go into the next stable update. If so,) Tj T* 0 Tw .26498 Tw 0 0 .501961 rg (stable@vger.kernel.org ) Tj 0 0 0 rg (should get a copy of the patch. Also add a "Cc: ) Tj 0 0 .501961 rg (stable@vger.kernel.org) Tj 0 0 0 rg (") Tj T* 0 Tw .524987 Tw (to the tags within the patch itself; that will cause the stable team to get a notification when your) Tj T* 0 Tw (fix goes into the mainline.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 132.0236 cm
+Q
+q
+1 0 0 1 62.69291 90.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .038488 Tw (When selecting recipients for a patch, it is good to have an idea of who you think will eventually accept the) Tj T* 0 Tw 1.526098 Tw (patch and get it merged. While it is possible to send patches directly to Linus Torvalds and have him) Tj T* 0 Tw .709985 Tw (merge them, things are not normally done that way. Linus is busy, and there are subsystem maintainers) Tj T* 0 Tw ET
+Q
+Q
+ 
+endstream
+endobj
+26 0 obj
+<< /Length 2326 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.355868 Tw (who watch over specific parts of the kernel. Usually you will be wanting that maintainer to merge your) Tj T* 0 Tw (patches. If there is no obvious maintainer, Andrew Morton is often the patch target of last resort.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Patches need good subject lines. The canonical format for a patch line is something like:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 689.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL ([PATCH nn/mm] subsys: one-line description of the patch) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 645.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.487356 Tw (where "nn" is the ordinal number of the patch, "mm" is the total number of patches in the series, and) Tj T* 0 Tw .821235 Tw ("subsys" is the name of the affected subsystem. Clearly, nn/mm can be omitted for a single, standalone) Tj T* 0 Tw (patch.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 591.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .19832 Tw (If you have a significant series of patches, it is customary to send an introductory description as part zero.) Tj T* 0 Tw 2.943318 Tw (This convention is not universally followed though; if you use it, remember that information in the) Tj T* 0 Tw .420651 Tw (introduction does not make it into the kernel changelogs. So please ensure that the patches, themselves,) Tj T* 0 Tw (have complete changelog information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 537.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .649488 Tw (In general, the second and following parts of a multi-part patch should be sent as a reply to the first part) Tj T* 0 Tw .482988 Tw (so that they all thread together at the receiving end. Tools like git and quilt have commands to mail out a) Tj T* 0 Tw .448409 Tw (set of patches with the proper threading. If you have a long series, though, and are using git, please stay) Tj T* 0 Tw (away from the --chain-reply-to option to avoid creating exceptionally deep nesting.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+27 0 obj
+<< /Nums [ 0 28 0 R 1 29 0 R 2 30 0 R 3 31 0 R 4 32 0 R ] >>
+endobj
+28 0 obj
+<< /S /D /St 1 >>
+endobj
+29 0 obj
+<< /S /D /St 2 >>
+endobj
+30 0 obj
+<< /S /D /St 3 >>
+endobj
+31 0 obj
+<< /S /D /St 4 >>
+endobj
+32 0 obj
+<< /S /D /St 5 >>
+endobj
+xref
+0 33
+0000000000 65535 f
+0000000075 00000 n
+0000000139 00000 n
+0000000249 00000 n
+0000000364 00000 n
+0000000573 00000 n
+0000000691 00000 n
+0000000900 00000 n
+0000001008 00000 n
+0000001217 00000 n
+0000001401 00000 n
+0000001586 00000 n
+0000001821 00000 n
+0000002031 00000 n
+0000002140 00000 n
+0000002366 00000 n
+0000002443 00000 n
+0000002559 00000 n
+0000002699 00000 n
+0000002833 00000 n
+0000002981 00000 n
+0000003103 00000 n
+0000003192 00000 n
+0000009771 00000 n
+0000015944 00000 n
+0000024061 00000 n
+0000033086 00000 n
+0000035469 00000 n
+0000035549 00000 n
+0000035586 00000 n
+0000035623 00000 n
+0000035660 00000 n
+0000035697 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\336iax\025E\345 \363\335\326\354\017\005\376Q) (\336iax\025E\345 \363\335\326\354\017\005\376Q)]
+ /Info 14 0 R /Root 13 0 R /Size 33 >>
+startxref
+35734
+%%EOF
