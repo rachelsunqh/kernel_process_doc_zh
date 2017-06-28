@@ -1,0 +1,4 @@
+# kernel_process_doc_zh
+process文档中文翻译
+
+将process文件夹下的文档翻译为中文
